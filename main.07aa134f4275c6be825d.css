@@ -99,7 +99,8 @@ svg use {
   position: fixed;
   bottom: 0px;
   width: 100%;
-  height: 120px; }
+  height: 120px;
+  z-index: 999999; }
   .Desktop-module__container___DaG7a .Desktop-module__flex___2f2NV {
     margin: 0 auto;
     width: 980px;
@@ -139,7 +140,8 @@ svg use {
   position: fixed;
   top: 0px;
   width: 100%;
-  height: 80px; }
+  height: 80px;
+  z-index: 999999; }
   .Desktop-module__container___vRKDY .Desktop-module__logo___3iL8- {
     position: absolute;
     top: 15px;
@@ -151,9 +153,10 @@ svg use {
     height: 80px;
     margin: 0 auto;
     display: flex;
+    justify-content: right;
     align-items: center; }
     .Desktop-module__container___vRKDY .Desktop-module__menuButtonGroup___32zrC .Desktop-module__menuButton___2dLNw {
-      margin-right: 30px;
+      margin-left: 30px;
       font-size: 20px;
       font-weight: bold;
       color: #ffffff; }
@@ -190,11 +193,125 @@ svg use {
       color: #d93025;
       border-bottom: 2px solid #d93025; }
 
+/*!****************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[4].use[1]!./node_modules/postcss-loader/src/index.js??ruleSet[1].rules[4].use[2]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[4].use[3]!./src/components/molecules/ContentElements/TeckStackCard/Desktop.module.scss ***!
+  \****************************************************************************************************************************************************************************************************************************************************************************************************/
+.Desktop-module__container___3gtm1 {
+  width: 360px;
+  border: 1px solid #ffffff;
+  padding: 20px; }
+  .Desktop-module__container___3gtm1 .Desktop-module__titleText___1LbFZ {
+    font-size: 40px;
+    font-weight: bold;
+    color: #ffffff; }
+  .Desktop-module__container___3gtm1 .Desktop-module__stackBox___1cKTe {
+    margin-top: 20px; }
+    .Desktop-module__container___3gtm1 .Desktop-module__stackBox___1cKTe .Desktop-module__stackText___Mmn77 {
+      padding: 10px 20px;
+      font-size: 20px;
+      font-weight: bold;
+      color: #ffffff;
+      display: inline-block; }
+
+/*!***************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[4].use[1]!./node_modules/postcss-loader/src/index.js??ruleSet[1].rules[4].use[2]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[4].use[3]!./src/components/molecules/ContentElements/TeckStackCard/Mobile.module.scss ***!
+  \***************************************************************************************************************************************************************************************************************************************************************************************************/
+
+/*!***********************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[4].use[1]!./node_modules/postcss-loader/src/index.js??ruleSet[1].rules[4].use[2]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[4].use[3]!./src/pages/About/templates/Desktop.module.scss ***!
+  \***********************************************************************************************************************************************************************************************************************************************************************/
+.Desktop-module__container___uB5BF {
+  width: 980px;
+  padding-top: 150px;
+  margin: 0px auto;
+  display: flex;
+  justify-content: space-between; }
+  .Desktop-module__container___uB5BF .Desktop-module__leftArea___25X3n {
+    width: 580px; }
+    .Desktop-module__container___uB5BF .Desktop-module__leftArea___25X3n .Desktop-module__titleBox___3Jnve {
+      position: relative;
+      margin-bottom: 80px; }
+      .Desktop-module__container___uB5BF .Desktop-module__leftArea___25X3n .Desktop-module__titleBox___3Jnve .Desktop-module__text___iIejC {
+        font-size: 80px;
+        font-weight: bold;
+        color: #ffffff; }
+      .Desktop-module__container___uB5BF .Desktop-module__leftArea___25X3n .Desktop-module__titleBox___3Jnve .Desktop-module__image___3_wP0 {
+        position: absolute;
+        top: 5px;
+        left: 425px;
+        width: 70px;
+        height: 70px; }
+    .Desktop-module__container___uB5BF .Desktop-module__leftArea___25X3n .Desktop-module__aboutTextBox___1p-y6 {
+      width: 480px;
+      margin-left: 20px; }
+      .Desktop-module__container___uB5BF .Desktop-module__leftArea___25X3n .Desktop-module__aboutTextBox___1p-y6 .Desktop-module__aboutText___af7ku {
+        margin-bottom: 20px;
+        font-size: 15px;
+        color: #ffffff; }
+  .Desktop-module__container___uB5BF .Desktop-module__rightArea___2OvmN {
+    width: 400px; }
+
+/*!**********************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[4].use[1]!./node_modules/postcss-loader/src/index.js??ruleSet[1].rules[4].use[2]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[4].use[3]!./src/pages/About/templates/Mobile.module.scss ***!
+  \**********************************************************************************************************************************************************************************************************************************************************************/
+
+/*!*************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[4].use[1]!./node_modules/postcss-loader/src/index.js??ruleSet[1].rules[4].use[2]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[4].use[3]!./src/components/molecules/ContentElements/ResumeCard/Desktop.module.scss ***!
+  \*************************************************************************************************************************************************************************************************************************************************************************************************/
+.Desktop-module__container___2DVnD {
+  width: 380px;
+  border: 1px solid #ffffff;
+  padding: 20px;
+  border-radius: 3px;
+  box-shadow: 0 2px 6px -2px rgba(255, 255, 255, 0.4); }
+  .Desktop-module__container___2DVnD .Desktop-module__titleText___1c4GA {
+    font-size: 26px;
+    font-weight: bold;
+    color: #ffffff; }
+  .Desktop-module__container___2DVnD .Desktop-module__hashtagArea___19-vP {
+    margin-top: 10px; }
+    .Desktop-module__container___2DVnD .Desktop-module__hashtagArea___19-vP .Desktop-module__hashtag___2NebK {
+      padding: 2px 5px;
+      font-size: 12px;
+      color: #ffffff;
+      display: inline-block;
+      margin-top: 4px;
+      margin-right: 4px;
+      border: 1px solid #ffffff;
+      border-radius: 3px; }
+  .Desktop-module__container___2DVnD .Desktop-module__descriptionArea___2KRJz {
+    margin-top: 10px; }
+    .Desktop-module__container___2DVnD .Desktop-module__descriptionArea___2KRJz .Desktop-module__descriptionText___3vg_x {
+      margin-bottom: 4px;
+      font-size: 10px;
+      color: #ffffff; }
+
+/*!************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[4].use[1]!./node_modules/postcss-loader/src/index.js??ruleSet[1].rules[4].use[2]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[4].use[3]!./src/components/molecules/ContentElements/ResumeCard/Mobile.module.scss ***!
+  \************************************************************************************************************************************************************************************************************************************************************************************************/
+
+/*!************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[4].use[1]!./node_modules/postcss-loader/src/index.js??ruleSet[1].rules[4].use[2]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[4].use[3]!./src/pages/Career/templates/Desktop.module.scss ***!
+  \************************************************************************************************************************************************************************************************************************************************************************/
+.Desktop-module__container___1vVha {
+  width: 980px;
+  padding: 150px 0px;
+  margin: 0px auto; }
+  .Desktop-module__container___1vVha .Desktop-module__timelineArea___2mpIq {
+    max-width: 980px; }
+    .Desktop-module__container___1vVha .Desktop-module__timelineArea___2mpIq .Desktop-module__dateText___167bt {
+      font-size: 20px;
+      color: #ffffff; }
+
+/*!***********************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[4].use[1]!./node_modules/postcss-loader/src/index.js??ruleSet[1].rules[4].use[2]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[4].use[3]!./src/pages/Career/templates/Mobile.module.scss ***!
+  \***********************************************************************************************************************************************************************************************************************************************************************/
+
 /*!**********************************************************************************************************************************************************************************************************************************************************************!*\
   !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[4].use[1]!./node_modules/postcss-loader/src/index.js??ruleSet[1].rules[4].use[2]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[4].use[3]!./src/pages/Home/templates/Desktop.module.scss ***!
   \**********************************************************************************************************************************************************************************************************************************************************************/
 .Desktop-module__container___1axfQ {
-  width: 1080px;
+  width: 980px;
   padding-top: 150px;
   margin: 0px auto; }
   .Desktop-module__container___1axfQ .Desktop-module__titleBox___3HZ34 {
@@ -219,7 +336,7 @@ svg use {
     margin-top: 20px;
     display: flex;
     justify-content: center;
-    font-size: 40px;
+    font-size: 36px;
     color: #ffffff;
     font-weight: bold;
     text-align: center; }
