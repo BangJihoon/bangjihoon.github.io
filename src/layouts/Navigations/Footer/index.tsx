@@ -4,7 +4,6 @@ import GithubIcon from '../../../assets/images/icons/github.png'
 import InstargramIcon from '../../../assets/images/icons/instargram.png'
 import LinkedInIcon from '../../../assets/images/icons/linkedIn.png'
 import YoutubeIcon from '../../../assets/images/icons/youtube.png'
-import JayceSrc from '../../../assets/images/jayce.png'
 import Image from '../../../components/atom/Image'
 import Text from '../../../components/atom/Text'
 import useRootData from '../../../hooks/useRootData'
@@ -50,8 +49,6 @@ const App: React.FunctionComponent = () => {
     <footer className={styles.container}>
       <div className={styles.flex}>
         <div className={styles.leftBox}>
-          <Image className={styles.logo} src={JayceSrc}></Image>
-          <Text className={styles.thanksText} text={'Thanks for reading!'}></Text>
           <Text className={styles.copyRightText} text={'© Jayce Park 2021'}></Text>
         </div>
         <div className={styles.rightBox}>

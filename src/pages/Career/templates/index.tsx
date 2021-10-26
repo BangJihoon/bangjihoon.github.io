@@ -9,7 +9,6 @@ import moment from 'moment'
 import React from 'react'
 
 import ResumeCard from '../../../components/molecules/ContentElements/ResumeCard'
-import TeckStackCard from '../../../components/molecules/ContentElements/TeckStackCard'
 import useRootData from '../../../hooks/useRootData'
 import stylesDesktop from './Desktop.module.scss'
 import stylesMobile from './Mobile.module.scss'
@@ -20,12 +19,11 @@ const App: React.FunctionComponent = () => {
     resumeArrayInLatestOrder: appStore.resumeArrayInLatestOrder,
   }))
 
-  console.log('resumeArrayInLatestOrder :', resumeArrayInLatestOrder)
   const styles = isDesktopView ? stylesDesktop : stylesMobile
 
   return (
     <div className={styles.container}>
-      <Timeline className={styles.timelineArea} position="alternate">
+      <Timeline className={styles.timelineArea} position={isDesktopView ? 'alternate' : null}>
         {resumeArrayInLatestOrder.map((item, index) => {
           const { startAt, endAt } = item
 
@@ -41,7 +39,7 @@ const App: React.FunctionComponent = () => {
               <TimelineContent>
                 <ResumeCard
                   style={{
-                    float: index % 2 ? 'right' : 'left',
+                    float: isDesktopView && index % 2 ? 'right' : 'left',
                   }}
                   isDesktopView={isDesktopView}
                   resumeObject={item}

@@ -39,6 +39,14 @@ export enum TeckStackEnum {
   DJANGO = 'Django',
   HotJAR = 'Hotjar',
   DIALOGFLOW = 'DialogFlow',
+  YOLO = 'YOLO',
+  ROS = 'ROS',
+  OPENCV = 'OpenCV',
+  C_PLUS_PLUS = 'C++',
+  PYTHON = 'Python',
+  UBUNTU = 'Ubuntu',
+  TENSORFLOW = 'Tensorflow',
+  RASPBERRY_PI = 'RaspberryPi',
 }
 
 export interface ResumeObject {

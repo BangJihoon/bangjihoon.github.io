@@ -4,8 +4,9 @@
   position: fixed;
   bottom: 0px;
   width: 100%;
-  height: 120px;
+  height: 60px;
   z-index: 999999;
+  background-color: $primary;
 
   .flex {
     margin: 0 auto;
@@ -14,15 +15,6 @@
     justify-content: space-between;
     align-items: flex-end;
     .leftBox {
-      .logo {
-        width: 30px;
-        height: 30px;
-      }
-      .thanksText {
-        font-size: 20px;
-        font-weight: bold;
-        color: $white;
-      }
       .copyRightText {
         font-size: 15px;
         font-weight: bold;

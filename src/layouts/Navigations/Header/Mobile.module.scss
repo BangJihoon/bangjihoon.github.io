@@ -3,30 +3,34 @@
 .container {
   position: fixed;
   top: 0px;
-  width: 750px;
-  height: 80px;
+  width: 100%;
+  height: 120px;
+  z-index: 999999;
+  background-color: $primary;
+
   .logo {
     position: absolute;
-    top: 15px;
-    left: 15px;
-    width: 50px;
-    height: 50px;
+    top: 20px;
+    left: 20px;
+    width: 80px;
+    height: 80px;
   }
   .menuButtonGroup {
-    width: 920px;
-    height: 80px;
+    width: 650px;
+    height: 120px;
     margin: 0 auto;
     display: flex;
+    justify-content: right;
     align-items: center;
     .menuButton {
-      margin-right: 30px;
-      font-size: 20px;
+      margin-left: 60px;
+      font-size: 40px;
       font-weight: bold;
       color: $white;
     }
     .menuButton:hover {
       color: $dark-red;
-      border-bottom: 2px solid $dark-red;
+      border-bottom: 4px solid $dark-red;
     }
   }
 }

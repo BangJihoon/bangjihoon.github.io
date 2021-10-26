@@ -1,0 +1,27 @@
+@import '../../../../assets/scsses/config.scss';
+
+.container {
+  width: 680px;
+  border: 1px solid $white;
+  padding: 20px;
+
+  .titleText {
+    font-size: 40px;
+    font-weight: bold;
+    color: $white;
+  }
+
+  .stackBox {
+    margin-top: 20px;
+    .stackText {
+      padding: 4px 6px;
+      font-size: 24px;
+      color: $white;
+      display: inline-block;
+      margin-top: 4px;
+      margin-right: 8px;
+      border: 1px solid $white;
+      border-radius: 3px;
+    }
+  }
+}

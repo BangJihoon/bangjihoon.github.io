@@ -29,7 +29,7 @@ const App: React.FunctionComponent<PropsResumeCard> = ({ style, isDesktopView, r
       {description.length > 0 && (
         <div className={styles.descriptionArea}>
           {description.map((item, index) => {
-            return <Text key={index} className={styles.descriptionText} text={`${item}`}></Text>
+            return <Text key={index} className={styles.descriptionText} text={`· ${item}`}></Text>
           })}
         </div>
       )}
