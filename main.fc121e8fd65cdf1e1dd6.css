@@ -99,21 +99,15 @@ svg use {
   position: fixed;
   bottom: 0px;
   width: 100%;
-  height: 120px;
-  z-index: 999999; }
+  height: 60px;
+  z-index: 999999;
+  background-color: #02112f; }
   .Desktop-module__container___DaG7a .Desktop-module__flex___2f2NV {
     margin: 0 auto;
     width: 980px;
     display: flex;
     justify-content: space-between;
     align-items: flex-end; }
-    .Desktop-module__container___DaG7a .Desktop-module__flex___2f2NV .Desktop-module__leftBox___2hX4l .Desktop-module__logo___1URwE {
-      width: 30px;
-      height: 30px; }
-    .Desktop-module__container___DaG7a .Desktop-module__flex___2f2NV .Desktop-module__leftBox___2hX4l .Desktop-module__thanksText___1kw0_ {
-      font-size: 20px;
-      font-weight: bold;
-      color: #ffffff; }
     .Desktop-module__container___DaG7a .Desktop-module__flex___2f2NV .Desktop-module__leftBox___2hX4l .Desktop-module__copyRightText___2J3Or {
       font-size: 15px;
       font-weight: bold;
@@ -130,8 +124,26 @@ svg use {
 .Mobile-module__container___33aG7 {
   position: fixed;
   bottom: 0px;
-  width: 750px;
-  height: 160px; }
+  width: 100%;
+  padding: 20px 0px;
+  z-index: 999999;
+  background-color: #02112f; }
+  .Mobile-module__container___33aG7 .Mobile-module__flex___rCUic {
+    height: 60px;
+    margin: 0 auto;
+    width: 750px;
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-end; }
+    .Mobile-module__container___33aG7 .Mobile-module__flex___rCUic .Mobile-module__leftBox___NIeYr .Mobile-module__copyRightText___f3EUh {
+      font-size: 30px;
+      font-weight: bold;
+      color: #ffffff; }
+    .Mobile-module__container___33aG7 .Mobile-module__flex___rCUic .Mobile-module__rightBox___9bW3N .Mobile-module__iconBox___bTzwZ .Mobile-module__icon___1_AiE {
+      margin-right: 20px;
+      filter: invert(100%);
+      width: 50px;
+      height: 50px; }
 
 /*!****************************************************************************************************************************************************************************************************************************************************************************!*\
   !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[4].use[1]!./node_modules/postcss-loader/src/index.js??ruleSet[1].rules[4].use[2]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[4].use[3]!./src/layouts/Navigations/Header/Desktop.module.scss ***!
@@ -141,7 +153,8 @@ svg use {
   top: 0px;
   width: 100%;
   height: 80px;
-  z-index: 999999; }
+  z-index: 999999;
+  background-color: #02112f; }
   .Desktop-module__container___vRKDY .Desktop-module__logo___3iL8- {
     position: absolute;
     top: 15px;
@@ -170,28 +183,31 @@ svg use {
 .Mobile-module__container___3vbU0 {
   position: fixed;
   top: 0px;
-  width: 750px;
-  height: 80px; }
+  width: 100%;
+  height: 120px;
+  z-index: 999999;
+  background-color: #02112f; }
   .Mobile-module__container___3vbU0 .Mobile-module__logo___3M3er {
     position: absolute;
-    top: 15px;
-    left: 15px;
-    width: 50px;
-    height: 50px; }
+    top: 20px;
+    left: 20px;
+    width: 80px;
+    height: 80px; }
   .Mobile-module__container___3vbU0 .Mobile-module__menuButtonGroup___VmJxh {
-    width: 920px;
-    height: 80px;
+    width: 650px;
+    height: 120px;
     margin: 0 auto;
     display: flex;
+    justify-content: right;
     align-items: center; }
     .Mobile-module__container___3vbU0 .Mobile-module__menuButtonGroup___VmJxh .Mobile-module__menuButton___2b6dw {
-      margin-right: 30px;
-      font-size: 20px;
+      margin-left: 60px;
+      font-size: 40px;
       font-weight: bold;
       color: #ffffff; }
     .Mobile-module__container___3vbU0 .Mobile-module__menuButtonGroup___VmJxh .Mobile-module__menuButton___2b6dw:hover {
       color: #d93025;
-      border-bottom: 2px solid #d93025; }
+      border-bottom: 4px solid #d93025; }
 
 /*!****************************************************************************************************************************************************************************************************************************************************************************************************!*\
   !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[4].use[1]!./node_modules/postcss-loader/src/index.js??ruleSet[1].rules[4].use[2]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[4].use[3]!./src/components/molecules/ContentElements/TeckStackCard/Desktop.module.scss ***!
@@ -207,15 +223,37 @@ svg use {
   .Desktop-module__container___3gtm1 .Desktop-module__stackBox___1cKTe {
     margin-top: 20px; }
     .Desktop-module__container___3gtm1 .Desktop-module__stackBox___1cKTe .Desktop-module__stackText___Mmn77 {
-      padding: 10px 20px;
+      padding: 2px 5px;
       font-size: 20px;
-      font-weight: bold;
       color: #ffffff;
-      display: inline-block; }
+      display: inline-block;
+      margin-top: 4px;
+      margin-right: 4px;
+      border: 1px solid #ffffff;
+      border-radius: 3px; }
 
 /*!***************************************************************************************************************************************************************************************************************************************************************************************************!*\
   !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[4].use[1]!./node_modules/postcss-loader/src/index.js??ruleSet[1].rules[4].use[2]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[4].use[3]!./src/components/molecules/ContentElements/TeckStackCard/Mobile.module.scss ***!
   \***************************************************************************************************************************************************************************************************************************************************************************************************/
+.Mobile-module__container___cTB26 {
+  width: 680px;
+  border: 1px solid #ffffff;
+  padding: 20px; }
+  .Mobile-module__container___cTB26 .Mobile-module__titleText___NSo1J {
+    font-size: 40px;
+    font-weight: bold;
+    color: #ffffff; }
+  .Mobile-module__container___cTB26 .Mobile-module__stackBox___3-LZ2 {
+    margin-top: 20px; }
+    .Mobile-module__container___cTB26 .Mobile-module__stackBox___3-LZ2 .Mobile-module__stackText___CPiwB {
+      padding: 4px 6px;
+      font-size: 24px;
+      color: #ffffff;
+      display: inline-block;
+      margin-top: 4px;
+      margin-right: 8px;
+      border: 1px solid #ffffff;
+      border-radius: 3px; }
 
 /*!***********************************************************************************************************************************************************************************************************************************************************************!*\
   !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[4].use[1]!./node_modules/postcss-loader/src/index.js??ruleSet[1].rules[4].use[2]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[4].use[3]!./src/pages/About/templates/Desktop.module.scss ***!
@@ -254,6 +292,39 @@ svg use {
 /*!**********************************************************************************************************************************************************************************************************************************************************************!*\
   !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[4].use[1]!./node_modules/postcss-loader/src/index.js??ruleSet[1].rules[4].use[2]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[4].use[3]!./src/pages/About/templates/Mobile.module.scss ***!
   \**********************************************************************************************************************************************************************************************************************************************************************/
+.Mobile-module__container___2TsDO {
+  width: 750px;
+  padding-top: 150px;
+  margin: 0px auto; }
+  .Mobile-module__container___2TsDO .Mobile-module__leftArea___3rdMF {
+    width: 750px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center; }
+    .Mobile-module__container___2TsDO .Mobile-module__leftArea___3rdMF .Mobile-module__titleBox___GkrPz {
+      position: relative;
+      margin-bottom: 80px; }
+      .Mobile-module__container___2TsDO .Mobile-module__leftArea___3rdMF .Mobile-module__titleBox___GkrPz .Mobile-module__text___FRAaQ {
+        font-size: 80px;
+        font-weight: bold;
+        color: #ffffff; }
+      .Mobile-module__container___2TsDO .Mobile-module__leftArea___3rdMF .Mobile-module__titleBox___GkrPz .Mobile-module__image___3SyYj {
+        position: absolute;
+        top: 5px;
+        left: 425px;
+        width: 70px;
+        height: 70px; }
+    .Mobile-module__container___2TsDO .Mobile-module__leftArea___3rdMF .Mobile-module__aboutTextBox___3sQTM {
+      width: 650px; }
+      .Mobile-module__container___2TsDO .Mobile-module__leftArea___3rdMF .Mobile-module__aboutTextBox___3sQTM .Mobile-module__aboutText___2O0xA {
+        margin-bottom: 20px;
+        font-size: 22px;
+        color: #ffffff; }
+  .Mobile-module__container___2TsDO .Mobile-module__rightArea___6lmP5 {
+    width: 750px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center; }
 
 /*!*************************************************************************************************************************************************************************************************************************************************************************************************!*\
   !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[4].use[1]!./node_modules/postcss-loader/src/index.js??ruleSet[1].rules[4].use[2]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[4].use[3]!./src/components/molecules/ContentElements/ResumeCard/Desktop.module.scss ***!
@@ -289,6 +360,33 @@ svg use {
 /*!************************************************************************************************************************************************************************************************************************************************************************************************!*\
   !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[4].use[1]!./node_modules/postcss-loader/src/index.js??ruleSet[1].rules[4].use[2]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[4].use[3]!./src/components/molecules/ContentElements/ResumeCard/Mobile.module.scss ***!
   \************************************************************************************************************************************************************************************************************************************************************************************************/
+.Mobile-module__container___3oV8p {
+  width: 500px;
+  border: 1px solid #ffffff;
+  padding: 20px;
+  border-radius: 3px;
+  box-shadow: 0 2px 6px -2px rgba(255, 255, 255, 0.4); }
+  .Mobile-module__container___3oV8p .Mobile-module__titleText___1Rpnd {
+    font-size: 40px;
+    font-weight: bold;
+    color: #ffffff; }
+  .Mobile-module__container___3oV8p .Mobile-module__hashtagArea___1MZJF {
+    margin-top: 20px; }
+    .Mobile-module__container___3oV8p .Mobile-module__hashtagArea___1MZJF .Mobile-module__hashtag___16yAM {
+      padding: 4px 6px;
+      font-size: 20px;
+      color: #ffffff;
+      display: inline-block;
+      margin-top: 4px;
+      margin-right: 4px;
+      border: 1px solid #ffffff;
+      border-radius: 3px; }
+  .Mobile-module__container___3oV8p .Mobile-module__descriptionArea___1_9Hk {
+    margin-top: 12px; }
+    .Mobile-module__container___3oV8p .Mobile-module__descriptionArea___1_9Hk .Mobile-module__descriptionText___2ymJP {
+      margin-bottom: 6px;
+      font-size: 20px;
+      color: #ffffff; }
 
 /*!************************************************************************************************************************************************************************************************************************************************************************!*\
   !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[4].use[1]!./node_modules/postcss-loader/src/index.js??ruleSet[1].rules[4].use[2]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[4].use[3]!./src/pages/Career/templates/Desktop.module.scss ***!
@@ -306,6 +404,15 @@ svg use {
 /*!***********************************************************************************************************************************************************************************************************************************************************************!*\
   !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[4].use[1]!./node_modules/postcss-loader/src/index.js??ruleSet[1].rules[4].use[2]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[4].use[3]!./src/pages/Career/templates/Mobile.module.scss ***!
   \***********************************************************************************************************************************************************************************************************************************************************************/
+.Mobile-module__container___2Thzq {
+  width: 750px;
+  padding: 150px 0px;
+  margin: 0px auto; }
+  .Mobile-module__container___2Thzq .Mobile-module__timelineArea___1XdKZ {
+    max-width: 750px; }
+    .Mobile-module__container___2Thzq .Mobile-module__timelineArea___1XdKZ .Mobile-module__dateText___HbCRU {
+      font-size: 20px;
+      color: #ffffff; }
 
 /*!**********************************************************************************************************************************************************************************************************************************************************************!*\
   !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[4].use[1]!./node_modules/postcss-loader/src/index.js??ruleSet[1].rules[4].use[2]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[4].use[3]!./src/pages/Home/templates/Desktop.module.scss ***!
@@ -344,4 +451,37 @@ svg use {
 /*!*********************************************************************************************************************************************************************************************************************************************************************!*\
   !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[4].use[1]!./node_modules/postcss-loader/src/index.js??ruleSet[1].rules[4].use[2]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[4].use[3]!./src/pages/Home/templates/Mobile.module.scss ***!
   \*********************************************************************************************************************************************************************************************************************************************************************/
+.Mobile-module__container___3ZXi8 {
+  width: 750px;
+  padding-top: 150px;
+  margin: 0px auto; }
+  .Mobile-module__container___3ZXi8 .Mobile-module__titleBox___vMR9P {
+    width: 750px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center; }
+    .Mobile-module__container___3ZXi8 .Mobile-module__titleBox___vMR9P .Mobile-module__profileImage___1sm8Z {
+      text-align: center;
+      width: 400px;
+      height: 400px;
+      border-radius: 200px;
+      border: 5px white dashed; }
+    .Mobile-module__container___3ZXi8 .Mobile-module__titleBox___vMR9P .Mobile-module__titleTextBox___17RD6 .Mobile-module__greetingText___eJTk9 {
+      font-size: 100px;
+      color: #ffffff;
+      font-weight: bold;
+      text-align: center; }
+  .Mobile-module__container___3ZXi8 .Mobile-module__wiseSayingText___2FFLi {
+    font-size: 40px;
+    color: #ffffff;
+    font-weight: bold;
+    text-align: center; }
+  .Mobile-module__container___3ZXi8 .Mobile-module__myselfText___1gqPy {
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    font-size: 48px;
+    color: #ffffff;
+    font-weight: bold;
+    text-align: center; }
 
