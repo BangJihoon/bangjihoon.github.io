@@ -1,12 +1,50 @@
 export enum PageEnum {
   HOME = 'Home',
   ABOUT = 'About',
-  CODE = 'Code',
   CAREER = 'Career',
-  CONTACT = 'Contact',
 }
 
 export enum ScreenModeEnum {
   DARK,
   LIGHT,
+}
+
+export enum TeckStackEnum {
+  HTML = 'Html',
+  CSS = 'Css',
+  SCSS = 'Scss',
+  STORYBOOK = 'StoryBook',
+  ZEPLIN = 'Zeplin',
+  REACT_JS = 'ReactJs',
+  VUE_JS = 'VueJs',
+  NODE_JS = 'NodeJs',
+  MOBX = 'Mobx',
+  REDUX = 'Redux',
+  VUEX = 'Vuex',
+  JAVASCRIPT = 'Javascript',
+  TYPESCRIPT = 'Typescript',
+  EXPRESS = 'Express',
+  GRAPHQL = 'Graphql',
+  APOLLO = 'Apollo',
+  POSTGRE = 'Postgre',
+  GCP = 'GCP',
+  S3 = 'S3',
+  GIT = 'Git',
+  GA = 'GA',
+  AMPLITUDE = 'Amplitude',
+  SLACK = 'Slack',
+  HASURA = 'Hasura',
+  TRELLO = 'Trello',
+  FIREBASE = 'Firebase',
+  DJANGO = 'Django',
+  HotJAR = 'Hotjar',
+  DIALOGFLOW = 'DialogFlow',
+}
+
+export interface ResumeObject {
+  startAt: Date
+  endAt: Date
+  title: string
+  teckStack: Array<TeckStackEnum>
+  description: Array<string>
 }

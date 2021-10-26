@@ -1,0 +1,40 @@
+@import '../../../assets/scsses/config.scss';
+
+.container {
+  width: 980px;
+  padding-top: 150px;
+  margin: 0px auto;
+  display: flex;
+  justify-content: space-between;
+  .leftArea {
+    width: 580px;
+    .titleBox {
+      position: relative;
+      margin-bottom: 80px;
+      .text {
+        font-size: 80px;
+        font-weight: bold;
+        color: $white;
+      }
+      .image {
+        position: absolute;
+        top: 5px;
+        left: 425px;
+        width: 70px;
+        height: 70px;
+      }
+    }
+    .aboutTextBox {
+      width: 480px;
+      margin-left: 20px;
+      .aboutText {
+        margin-bottom: 20px;
+        font-size: 15px;
+        color: $white;
+      }
+    }
+  }
+  .rightArea {
+    width: 400px;
+  }
+}

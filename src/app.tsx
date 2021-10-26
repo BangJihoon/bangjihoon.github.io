@@ -4,9 +4,8 @@ import { Route, Switch, useHistory, useLocation } from 'react-router-dom'
 
 import useRootData from './hooks/useRootData'
 import About from './pages/About'
+import Career from './pages/Career'
 import Home from './pages/Home'
-import Work from './pages/Work'
-import Writing from './pages/Writing'
 
 const App: React.FunctionComponent = () => {
   const { changeScreenClass, changeMainMenu } = useRootData(({ appStore }) => ({
@@ -34,11 +33,9 @@ const App: React.FunctionComponent = () => {
   return (
     <div ref={componentRef}>
       <Switch>
+        <Route path="/career" component={Career} />
+
         <Route path="/about" component={About} />
-
-        <Route path="/work" component={Work} />
-
-        <Route path="/writing" component={Writing} />
 
         <Route path="/" component={Home} />
       </Switch>

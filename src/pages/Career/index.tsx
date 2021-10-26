@@ -1,12 +1,12 @@
 import React from 'react'
 
 import DefaultLayout from '../../layouts/Layouts/Default'
-import AboutTemplate from './templates'
+import CareerTemplate from './templates'
 
 const App: React.FunctionComponent = () => {
   return (
     <DefaultLayout>
-      <AboutTemplate></AboutTemplate>
+      <CareerTemplate></CareerTemplate>
     </DefaultLayout>
   )
 }

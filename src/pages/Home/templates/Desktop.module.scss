@@ -1,7 +1,7 @@
 @import '../../../assets/scsses/config.scss';
 
 .container {
-  width: 1080px;
+  width: 980px;
   padding-top: 150px;
   margin: 0px auto;
   .titleBox {
@@ -32,7 +32,7 @@
     margin-top: 20px;
     display: flex;
     justify-content: center;
-    font-size: 40px;
+    font-size: 36px;
     color: $white;
     font-weight: bold;
     text-align: center;

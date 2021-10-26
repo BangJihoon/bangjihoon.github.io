@@ -31,16 +31,8 @@ const App: React.FunctionComponent = () => {
       path: '/about',
     },
     {
-      page: PageEnum.CODE,
-      path: '/code',
-    },
-    {
       page: PageEnum.CAREER,
       path: '/career',
-    },
-    {
-      page: PageEnum.CONTACT,
-      path: '/contact',
     },
   ]
 
