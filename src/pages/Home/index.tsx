@@ -21,6 +21,8 @@ const App: React.FunctionComponent = () => {
         ></HomeTemplate>
         <CareerTemplate
           style={{
+            height: '90vh',
+            overflowY: 'auto',
             scrollSnapAlign: 'start',
           }}
         ></CareerTemplate>
