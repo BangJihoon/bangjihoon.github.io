@@ -8,12 +8,17 @@ import TimelineSeparator from '@mui/lab/TimelineSeparator'
 import moment from 'moment'
 import React, { useRef } from 'react'
 
+import Text from '../../../components/atom/Text'
 import ResumeCard from '../../../components/molecules/ContentElements/ResumeCard'
 import useRootData from '../../../hooks/useRootData'
 import stylesDesktop from './Desktop.module.scss'
 import stylesMobile from './Mobile.module.scss'
 
-const App: React.FunctionComponent = () => {
+interface CareerTemplateProps {
+  style?: React.CSSProperties
+}
+
+const App: React.FunctionComponent<CareerTemplateProps> = ({ style }: CareerTemplateProps) => {
   const { isDesktopView, resumeArrayInLatestOrder } = useRootData(({ appStore }) => ({
     isDesktopView: appStore.isDesktopView,
     resumeArrayInLatestOrder: appStore.resumeArrayInLatestOrder,
@@ -23,7 +28,9 @@ const App: React.FunctionComponent = () => {
   const containerRef = useRef(null)
 
   return (
-    <div ref={containerRef} className={styles.container}>
+    <div ref={containerRef} style={style} className={styles.container}>
+      <Text className={styles.titleText} text="Career Timeline" />
+
       <Timeline className={styles.timelineArea} position={isDesktopView ? 'alternate' : null}>
         {resumeArrayInLatestOrder.map((item, index) => {
           const { startAt, endAt } = item

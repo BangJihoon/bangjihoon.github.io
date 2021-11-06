@@ -1,6 +1,9 @@
 @import '../../../assets/scsses/config.scss';
 
 .container {
+  width: 100%;
+  position: fixed;
+  bottom: 0px;
   height: 60px;
   background-color: $primary;
   .flex {

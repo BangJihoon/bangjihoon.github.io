@@ -1,6 +1,7 @@
 import React from 'react'
 import Typed from 'react-typed'
 
+import downArrowGif from '../../../assets/images/gif/downArrow.gif'
 import ProfileSrc from '../../../assets/images/profile.jpg'
 import Image from '../../../components/atom/Image'
 import Text from '../../../components/atom/Text'
@@ -8,14 +9,18 @@ import useRootData from '../../../hooks/useRootData'
 import stylesDesktop from './Desktop.module.scss'
 import stylesMobile from './Mobile.module.scss'
 
-const App: React.FunctionComponent = () => {
+interface HomeTemplateProps {
+  style?: React.CSSProperties
+}
+
+const App: React.FunctionComponent<HomeTemplateProps> = ({ style }: HomeTemplateProps) => {
   const { isDesktopView } = useRootData(({ appStore }) => ({
     isDesktopView: appStore.isDesktopView,
   }))
   const styles = isDesktopView ? stylesDesktop : stylesMobile
 
   return (
-    <div className={styles.frame}>
+    <div style={style} className={styles.frame}>
       <div className={styles.container}>
         <div className={styles.titleBox}>
           <Image className={styles.profileImage} src={ProfileSrc}></Image>
@@ -37,6 +42,10 @@ const App: React.FunctionComponent = () => {
             <Text className={styles.myselfText} text={'잠을 못자는 개발자 "박희승"입니다.'} />
           </>
         )}
+        <div className={styles.guideBox}>
+          <Text className={styles.downArrowText} text={'Scroll'}></Text>
+          <Image className={styles.downArrowImage} src={downArrowGif}></Image>
+        </div>
       </div>
     </div>
   )

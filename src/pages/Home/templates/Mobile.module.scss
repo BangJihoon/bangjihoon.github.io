@@ -5,8 +5,10 @@
   align-items: center;
   min-height: 100vh;
   background-color: $primary;
+  height: 100vh;
 
   .container {
+    position: relative;
     width: 750px;
     margin: 0px auto;
     .titleBox {
@@ -45,6 +47,23 @@
       color: $white;
       font-weight: bold;
       text-align: center;
+    }
+    .guideBox {
+      position: absolute;
+      right: 0px;
+
+      .downArrowImage {
+        width: 50px;
+        height: 50px;
+      }
+      .downArrowText {
+        writing-mode: vertical-rl;
+        font-size: 20px;
+        color: $white;
+        font-weight: bold;
+        line-height: 50px;
+        font-weight: bold;
+      }
     }
   }
 }
