@@ -47,24 +47,26 @@ const App: React.FunctionComponent = () => {
 
   return (
     <footer className={styles.container}>
-      <div className={styles.flex}>
-        <div className={styles.leftBox}>
-          <Text className={styles.copyRightText} text={'© Jayce Park 2021'}></Text>
-        </div>
-        <div className={styles.rightBox}>
-          <div className={styles.iconBox}>
-            {linkIconArray.map((item, index) => {
-              const { icon, link } = item
+      <div>
+        <div className={styles.flex}>
+          <div className={styles.leftBox}>
+            <Text className={styles.copyRightText} text={'© Jayce Park 2021'}></Text>
+          </div>
+          <div className={styles.rightBox}>
+            <div className={styles.iconBox}>
+              {linkIconArray.map((item, index) => {
+                const { icon, link } = item
 
-              return (
-                <Image
-                  className={styles.icon}
-                  key={index}
-                  src={icon}
-                  clickHandler={(): void => linkIconClickHandler(link)}
-                ></Image>
-              )
-            })}
+                return (
+                  <Image
+                    className={styles.icon}
+                    key={index}
+                    src={icon}
+                    clickHandler={(): void => linkIconClickHandler(link)}
+                  ></Image>
+                )
+              })}
+            </div>
           </div>
         </div>
       </div>

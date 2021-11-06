@@ -2,8 +2,6 @@ import React, { useState } from 'react'
 import { animations } from 'react-animation'
 import Typed from 'react-typed'
 
-import JayceSrc from '../../../assets/images/jayce.png'
-import Image from '../../../components/atom/Image'
 import Text from '../../../components/atom/Text'
 import TeckStackCard from '../../../components/molecules/ContentElements/TeckStackCard'
 import useRootData from '../../../hooks/useRootData'
@@ -27,16 +25,31 @@ const App: React.FunctionComponent = () => {
   ]
 
   return (
-    <div className={styles.container}>
-      <div className={styles.leftArea}>
-        <div className={styles.titleBox}>
-          <Typed
-            onComplete={(): void => setIsTypedComplate(true)}
-            className={styles.text}
-            strings={['console.log(\b\b\b)']}
-            typeSpeed={30}
-          ></Typed>
-          {isTypedComplate && <Image className={styles.image} src={JayceSrc}></Image>}
+    <div className={styles.frame}>
+      <div className={styles.container}>
+        <div className={styles.leftArea}>
+          <div className={styles.titleBox}>
+            <Typed
+              onComplete={(): void => setIsTypedComplate(true)}
+              className={styles.text}
+              strings={['console.log(박희승)']}
+              typeSpeed={60}
+            ></Typed>
+          </div>
+
+          {isTypedComplate && (
+            <div
+              style={{
+                animation: animations.fadeIn,
+                animationDuration: '4s',
+              }}
+              className={styles.aboutTextBox}
+            >
+              {aboutJayceTexts.map((item, index) => {
+                return <Text key={index} className={styles.aboutText} text={item}></Text>
+              })}
+            </div>
+          )}
         </div>
 
         {isTypedComplate && (
@@ -45,35 +58,21 @@ const App: React.FunctionComponent = () => {
               animation: animations.fadeIn,
               animationDuration: '4s',
             }}
-            className={styles.aboutTextBox}
+            className={styles.rightArea}
           >
-            {aboutJayceTexts.map((item, index) => {
-              return <Text key={index} className={styles.aboutText} text={item}></Text>
+            {Object.keys(mySkillObject).map((key, index) => {
+              return (
+                <TeckStackCard
+                  key={index}
+                  isDesktopView={isDesktopView}
+                  title={key}
+                  teckStackArray={mySkillObject[key]}
+                ></TeckStackCard>
+              )
             })}
           </div>
         )}
       </div>
-
-      {isTypedComplate && (
-        <div
-          style={{
-            animation: animations.fadeIn,
-            animationDuration: '4s',
-          }}
-          className={styles.rightArea}
-        >
-          {Object.keys(mySkillObject).map((key, index) => {
-            return (
-              <TeckStackCard
-                key={index}
-                isDesktopView={isDesktopView}
-                title={key}
-                teckStackArray={mySkillObject[key]}
-              ></TeckStackCard>
-            )
-          })}
-        </div>
-      )}
     </div>
   )
 }

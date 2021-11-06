@@ -6,7 +6,7 @@
   min-width: 750px;
   height: 120px;
   z-index: 999999;
-  background-color: $primary;
+  background-color: rgba(2, 17, 47, 0.5);
 
   .logo {
     position: absolute;
@@ -27,10 +27,6 @@
       font-size: 40px;
       font-weight: bold;
       color: $white;
-    }
-    .menuButton:hover {
-      color: $dark-red;
-      border-bottom: 4px solid $dark-red;
     }
   }
 }

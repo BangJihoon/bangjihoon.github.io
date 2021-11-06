@@ -15,20 +15,29 @@ const App: React.FunctionComponent = () => {
   const styles = isDesktopView ? stylesDesktop : stylesMobile
 
   return (
-    <div className={styles.container}>
-      <div className={styles.titleBox}>
-        <Image className={styles.profileImage} src={ProfileSrc}></Image>
-        <div className={styles.titleTextBox}>
-          <Text className={styles.greetingText} text={'Hi, 👋'}></Text>
-          <Text className={styles.greetingText} text={"I'm Jayce"}></Text>
+    <div className={styles.frame}>
+      <div className={styles.container}>
+        <div className={styles.titleBox}>
+          <Image className={styles.profileImage} src={ProfileSrc}></Image>
+          <div className={styles.titleTextBox}>
+            <Text className={styles.greetingText} text={'Hi, 👋'}></Text>
+            <Text className={styles.greetingText} text={"I'm Jayce"}></Text>
+          </div>
         </div>
+        <Text className={styles.wiseSayingText} text={"Code doesn't lie."}></Text>
+        {isDesktopView ? (
+          <Typed
+            className={styles.myselfText}
+            strings={['만족하지 못하면 찜찜함에 잠을 못자는 개발자 "박희승"입니다.']}
+            typeSpeed={40}
+          />
+        ) : (
+          <>
+            <Text className={styles.myselfText} text={'만족하지 못하면 찜찜함에'} />
+            <Text className={styles.myselfText} text={'잠을 못자는 개발자 "박희승"입니다.'} />
+          </>
+        )}
       </div>
-      <Text className={styles.wiseSayingText} text={"Code doesn't lie."}></Text>
-      <Typed
-        className={styles.myselfText}
-        strings={['만족하지 못하면 찜찜함에 잠을 못자는 개발자 "박희승"입니다.']}
-        typeSpeed={40}
-      />
     </div>
   )
 }

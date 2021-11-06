@@ -6,7 +6,7 @@ import TimelineItem from '@mui/lab/TimelineItem'
 import TimelineOppositeContent from '@mui/lab/TimelineOppositeContent'
 import TimelineSeparator from '@mui/lab/TimelineSeparator'
 import moment from 'moment'
-import React from 'react'
+import React, { useRef } from 'react'
 
 import ResumeCard from '../../../components/molecules/ContentElements/ResumeCard'
 import useRootData from '../../../hooks/useRootData'
@@ -20,9 +20,10 @@ const App: React.FunctionComponent = () => {
   }))
 
   const styles = isDesktopView ? stylesDesktop : stylesMobile
+  const containerRef = useRef(null)
 
   return (
-    <div className={styles.container}>
+    <div ref={containerRef} className={styles.container}>
       <Timeline className={styles.timelineArea} position={isDesktopView ? 'alternate' : null}>
         {resumeArrayInLatestOrder.map((item, index) => {
           const { startAt, endAt } = item
