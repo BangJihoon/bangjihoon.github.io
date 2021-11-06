@@ -96,6 +96,9 @@ svg use {
   !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[4].use[1]!./node_modules/postcss-loader/src/index.js??ruleSet[1].rules[4].use[2]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[4].use[3]!./src/layouts/Navigations/Footer/Desktop.module.scss ***!
   \****************************************************************************************************************************************************************************************************************************************************************************/
 .Desktop-module__container___DaG7a {
+  width: 100%;
+  position: fixed;
+  bottom: 0px;
   height: 60px;
   background-color: #02112f; }
   .Desktop-module__container___DaG7a .Desktop-module__flex___2f2NV {
@@ -118,6 +121,9 @@ svg use {
   !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[4].use[1]!./node_modules/postcss-loader/src/index.js??ruleSet[1].rules[4].use[2]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[4].use[3]!./src/layouts/Navigations/Footer/Mobile.module.scss ***!
   \***************************************************************************************************************************************************************************************************************************************************************************/
 .Mobile-module__container___33aG7 {
+  position: fixed;
+  bottom: 0px;
+  width: 100%;
   width: 750px;
   padding: 20px 0px;
   background-color: #02112f; }
@@ -394,9 +400,16 @@ svg use {
   margin: 0px auto;
   min-height: 100vh;
   background-color: #02112f; }
-  .Desktop-module__container___1vVha .Desktop-module__timelineArea___2mpIq .Desktop-module__dateText___167bt {
-    font-size: 20px;
+  .Desktop-module__container___1vVha .Desktop-module__titleText___HSpLw {
+    font-size: 40px;
+    text-align: center;
+    font-weight: bold;
     color: #ffffff; }
+  .Desktop-module__container___1vVha .Desktop-module__timelineArea___2mpIq {
+    min-width: 750px; }
+    .Desktop-module__container___1vVha .Desktop-module__timelineArea___2mpIq .Desktop-module__dateText___167bt {
+      font-size: 20px;
+      color: #ffffff; }
 
 /*!***********************************************************************************************************************************************************************************************************************************************************************!*\
   !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[4].use[1]!./node_modules/postcss-loader/src/index.js??ruleSet[1].rules[4].use[2]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[4].use[3]!./src/pages/Career/templates/Mobile.module.scss ***!
@@ -406,6 +419,11 @@ svg use {
   padding: 150px 0px;
   margin: 0px auto;
   background-color: #02112f; }
+  .Mobile-module__container___2Thzq .Mobile-module__titleText___BmFY9 {
+    font-size: 40px;
+    text-align: center;
+    font-weight: bold;
+    color: #ffffff; }
   .Mobile-module__container___2Thzq .Mobile-module__timelineArea___1XdKZ {
     max-width: 750px; }
     .Mobile-module__container___2Thzq .Mobile-module__timelineArea___1XdKZ .Mobile-module__dateText___HbCRU {
@@ -416,6 +434,7 @@ svg use {
   !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[4].use[1]!./node_modules/postcss-loader/src/index.js??ruleSet[1].rules[4].use[2]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[4].use[3]!./src/pages/Home/templates/Desktop.module.scss ***!
   \**********************************************************************************************************************************************************************************************************************************************************************/
 .Desktop-module__frame___3JrUU {
+  position: relative;
   display: flex;
   align-items: center;
   min-height: 100vh;
@@ -424,6 +443,7 @@ svg use {
     min-width: 750px;
     margin: 0 auto; }
     .Desktop-module__frame___3JrUU .Desktop-module__container___1axfQ .Desktop-module__titleBox___3HZ34 {
+      margin-bottom: 40px;
       display: flex;
       justify-content: center;
       flex-wrap: wrap; }
@@ -451,6 +471,20 @@ svg use {
       color: #ffffff;
       font-weight: bold;
       text-align: center; }
+    .Desktop-module__frame___3JrUU .Desktop-module__container___1axfQ .Desktop-module__guideBox___3V1_z {
+      position: absolute;
+      right: 0px; }
+      .Desktop-module__frame___3JrUU .Desktop-module__container___1axfQ .Desktop-module__guideBox___3V1_z .Desktop-module__downArrowImage___2_MmE {
+        width: 50px;
+        height: 50px; }
+      .Desktop-module__frame___3JrUU .Desktop-module__container___1axfQ .Desktop-module__guideBox___3V1_z .Desktop-module__downArrowText___2xJIL {
+        -ms-writing-mode: tb-rl;
+            writing-mode: vertical-rl;
+        font-size: 20px;
+        color: #ffffff;
+        font-weight: bold;
+        line-height: 50px;
+        font-weight: bold; }
 
 /*!*********************************************************************************************************************************************************************************************************************************************************************!*\
   !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[4].use[1]!./node_modules/postcss-loader/src/index.js??ruleSet[1].rules[4].use[2]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[4].use[3]!./src/pages/Home/templates/Mobile.module.scss ***!
@@ -459,8 +493,10 @@ svg use {
   display: flex;
   align-items: center;
   min-height: 100vh;
-  background-color: #02112f; }
+  background-color: #02112f;
+  height: 100vh; }
   .Mobile-module__frame___2gLt2 .Mobile-module__container___3ZXi8 {
+    position: relative;
     width: 750px;
     margin: 0px auto; }
     .Mobile-module__frame___2gLt2 .Mobile-module__container___3ZXi8 .Mobile-module__titleBox___vMR9P {
@@ -492,4 +528,18 @@ svg use {
       color: #ffffff;
       font-weight: bold;
       text-align: center; }
+    .Mobile-module__frame___2gLt2 .Mobile-module__container___3ZXi8 .Mobile-module__guideBox___3JK5W {
+      position: absolute;
+      right: 0px; }
+      .Mobile-module__frame___2gLt2 .Mobile-module__container___3ZXi8 .Mobile-module__guideBox___3JK5W .Mobile-module__downArrowImage___2wd9l {
+        width: 50px;
+        height: 50px; }
+      .Mobile-module__frame___2gLt2 .Mobile-module__container___3ZXi8 .Mobile-module__guideBox___3JK5W .Mobile-module__downArrowText___q6kHz {
+        -ms-writing-mode: tb-rl;
+            writing-mode: vertical-rl;
+        font-size: 20px;
+        color: #ffffff;
+        font-weight: bold;
+        line-height: 50px;
+        font-weight: bold; }
 

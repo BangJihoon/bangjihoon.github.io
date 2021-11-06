@@ -7658,6 +7658,21 @@ function toVal(mix) {
 
 /***/ }),
 
+/***/ "./src/assets/images/gif/downArrow.gif":
+/*!*********************************************!*\
+  !*** ./src/assets/images/gif/downArrow.gif ***!
+  \*********************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "b79456d3206f4e5992fec26b108fa305.gif");
+
+/***/ }),
+
 /***/ "./src/assets/images/icons/github.png":
 /*!********************************************!*\
   !*** ./src/assets/images/icons/github.png ***!
@@ -9306,7 +9321,7 @@ __webpack_require__.r(__webpack_exports__);
 // extracted by mini-css-extract-plugin
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({"primary":"#02112f","black":"#000000","blueLightGrey1":"#f6f8f9","blueLightGrey2":"#eff1f4","blueLightGrey3":"#e9ecef","blueLightGrey4":"#e6e7ee","blueLightGrey5":"#dadce5","bodyBlack":"#333333","bodyGrey":"#acacac","charcoal":"#545454","coolGrey":"#949596","darkCharcoal":"#4c4c4c","darkGrey":"#6d7278","favouriteYellow":"#ffd54f","grey1":"#efefef","grey2":"#e1e1e1","grey3":"#d8d8d8","grey4":"#adadad","lightGreen":"#13c4a3","lightGrey":"#f8f8f8","placeholder":"#b7b7b7","white":"#ffffff","darkRed":"#d93025"});
     if(true) {
-      // 1636192468534
+      // 1636197464742
       var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ "./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js")(module.id, {"locals":true});
       module.hot.dispose(cssReload);
       
@@ -9329,7 +9344,7 @@ __webpack_require__.r(__webpack_exports__);
 // extracted by mini-css-extract-plugin
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({"primary":"#02112f","black":"#000000","blueLightGrey1":"#f6f8f9","blueLightGrey2":"#eff1f4","blueLightGrey3":"#e9ecef","blueLightGrey4":"#e6e7ee","blueLightGrey5":"#dadce5","bodyBlack":"#333333","bodyGrey":"#acacac","charcoal":"#545454","coolGrey":"#949596","darkCharcoal":"#4c4c4c","darkGrey":"#6d7278","favouriteYellow":"#ffd54f","grey1":"#efefef","grey2":"#e1e1e1","grey3":"#d8d8d8","grey4":"#adadad","lightGreen":"#13c4a3","lightGrey":"#f8f8f8","placeholder":"#b7b7b7","white":"#ffffff","darkRed":"#d93025","container":"Desktop-module__container___2DVnD","titleText":"Desktop-module__titleText___1c4GA","hashtagArea":"Desktop-module__hashtagArea___19-vP","hashtag":"Desktop-module__hashtag___2NebK","descriptionArea":"Desktop-module__descriptionArea___2KRJz","descriptionText":"Desktop-module__descriptionText___3vg_x"});
     if(true) {
-      // 1636192469462
+      // 1636197465714
       var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ "./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js")(module.id, {"locals":true});
       module.hot.dispose(cssReload);
       
@@ -9352,7 +9367,7 @@ __webpack_require__.r(__webpack_exports__);
 // extracted by mini-css-extract-plugin
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({"primary":"#02112f","black":"#000000","blueLightGrey1":"#f6f8f9","blueLightGrey2":"#eff1f4","blueLightGrey3":"#e9ecef","blueLightGrey4":"#e6e7ee","blueLightGrey5":"#dadce5","bodyBlack":"#333333","bodyGrey":"#acacac","charcoal":"#545454","coolGrey":"#949596","darkCharcoal":"#4c4c4c","darkGrey":"#6d7278","favouriteYellow":"#ffd54f","grey1":"#efefef","grey2":"#e1e1e1","grey3":"#d8d8d8","grey4":"#adadad","lightGreen":"#13c4a3","lightGrey":"#f8f8f8","placeholder":"#b7b7b7","white":"#ffffff","darkRed":"#d93025","container":"Mobile-module__container___3oV8p","titleText":"Mobile-module__titleText___1Rpnd","hashtagArea":"Mobile-module__hashtagArea___1MZJF","hashtag":"Mobile-module__hashtag___16yAM","descriptionArea":"Mobile-module__descriptionArea___1_9Hk","descriptionText":"Mobile-module__descriptionText___2ymJP"});
     if(true) {
-      // 1636192469475
+      // 1636197465716
       var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ "./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js")(module.id, {"locals":true});
       module.hot.dispose(cssReload);
       
@@ -9375,7 +9390,7 @@ __webpack_require__.r(__webpack_exports__);
 // extracted by mini-css-extract-plugin
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({"primary":"#02112f","black":"#000000","blueLightGrey1":"#f6f8f9","blueLightGrey2":"#eff1f4","blueLightGrey3":"#e9ecef","blueLightGrey4":"#e6e7ee","blueLightGrey5":"#dadce5","bodyBlack":"#333333","bodyGrey":"#acacac","charcoal":"#545454","coolGrey":"#949596","darkCharcoal":"#4c4c4c","darkGrey":"#6d7278","favouriteYellow":"#ffd54f","grey1":"#efefef","grey2":"#e1e1e1","grey3":"#d8d8d8","grey4":"#adadad","lightGreen":"#13c4a3","lightGrey":"#f8f8f8","placeholder":"#b7b7b7","white":"#ffffff","darkRed":"#d93025","container":"Desktop-module__container___3gtm1","titleText":"Desktop-module__titleText___1LbFZ","stackBox":"Desktop-module__stackBox___1cKTe","stackText":"Desktop-module__stackText___Mmn77"});
     if(true) {
-      // 1636192469503
+      // 1636197465761
       var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ "./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js")(module.id, {"locals":true});
       module.hot.dispose(cssReload);
       
@@ -9398,7 +9413,7 @@ __webpack_require__.r(__webpack_exports__);
 // extracted by mini-css-extract-plugin
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({"primary":"#02112f","black":"#000000","blueLightGrey1":"#f6f8f9","blueLightGrey2":"#eff1f4","blueLightGrey3":"#e9ecef","blueLightGrey4":"#e6e7ee","blueLightGrey5":"#dadce5","bodyBlack":"#333333","bodyGrey":"#acacac","charcoal":"#545454","coolGrey":"#949596","darkCharcoal":"#4c4c4c","darkGrey":"#6d7278","favouriteYellow":"#ffd54f","grey1":"#efefef","grey2":"#e1e1e1","grey3":"#d8d8d8","grey4":"#adadad","lightGreen":"#13c4a3","lightGrey":"#f8f8f8","placeholder":"#b7b7b7","white":"#ffffff","darkRed":"#d93025","container":"Mobile-module__container___cTB26","titleText":"Mobile-module__titleText___NSo1J","stackBox":"Mobile-module__stackBox___3-LZ2","stackText":"Mobile-module__stackText___CPiwB"});
     if(true) {
-      // 1636192469501
+      // 1636197465765
       var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ "./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js")(module.id, {"locals":true});
       module.hot.dispose(cssReload);
       
@@ -9421,7 +9436,7 @@ __webpack_require__.r(__webpack_exports__);
 // extracted by mini-css-extract-plugin
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({"primary":"#02112f","black":"#000000","blueLightGrey1":"#f6f8f9","blueLightGrey2":"#eff1f4","blueLightGrey3":"#e9ecef","blueLightGrey4":"#e6e7ee","blueLightGrey5":"#dadce5","bodyBlack":"#333333","bodyGrey":"#acacac","charcoal":"#545454","coolGrey":"#949596","darkCharcoal":"#4c4c4c","darkGrey":"#6d7278","favouriteYellow":"#ffd54f","grey1":"#efefef","grey2":"#e1e1e1","grey3":"#d8d8d8","grey4":"#adadad","lightGreen":"#13c4a3","lightGrey":"#f8f8f8","placeholder":"#b7b7b7","white":"#ffffff","darkRed":"#d93025","container":"Desktop-module__container___DaG7a","flex":"Desktop-module__flex___2f2NV","leftBox":"Desktop-module__leftBox___2hX4l","copyRightText":"Desktop-module__copyRightText___2J3Or","rightBox":"Desktop-module__rightBox___3RKWt","iconBox":"Desktop-module__iconBox___lbc2e","icon":"Desktop-module__icon___vw70d"});
     if(true) {
-      // 1636192469435
+      // 1636197465675
       var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ "./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js")(module.id, {"locals":true});
       module.hot.dispose(cssReload);
       
@@ -9444,7 +9459,7 @@ __webpack_require__.r(__webpack_exports__);
 // extracted by mini-css-extract-plugin
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({"primary":"#02112f","black":"#000000","blueLightGrey1":"#f6f8f9","blueLightGrey2":"#eff1f4","blueLightGrey3":"#e9ecef","blueLightGrey4":"#e6e7ee","blueLightGrey5":"#dadce5","bodyBlack":"#333333","bodyGrey":"#acacac","charcoal":"#545454","coolGrey":"#949596","darkCharcoal":"#4c4c4c","darkGrey":"#6d7278","favouriteYellow":"#ffd54f","grey1":"#efefef","grey2":"#e1e1e1","grey3":"#d8d8d8","grey4":"#adadad","lightGreen":"#13c4a3","lightGrey":"#f8f8f8","placeholder":"#b7b7b7","white":"#ffffff","darkRed":"#d93025","container":"Mobile-module__container___33aG7","flex":"Mobile-module__flex___rCUic","leftBox":"Mobile-module__leftBox___NIeYr","copyRightText":"Mobile-module__copyRightText___f3EUh","rightBox":"Mobile-module__rightBox___9bW3N","iconBox":"Mobile-module__iconBox___bTzwZ","icon":"Mobile-module__icon___1_AiE"});
     if(true) {
-      // 1636192469416
+      // 1636197465678
       var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ "./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js")(module.id, {"locals":true});
       module.hot.dispose(cssReload);
       
@@ -9467,7 +9482,7 @@ __webpack_require__.r(__webpack_exports__);
 // extracted by mini-css-extract-plugin
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({"primary":"#02112f","black":"#000000","blueLightGrey1":"#f6f8f9","blueLightGrey2":"#eff1f4","blueLightGrey3":"#e9ecef","blueLightGrey4":"#e6e7ee","blueLightGrey5":"#dadce5","bodyBlack":"#333333","bodyGrey":"#acacac","charcoal":"#545454","coolGrey":"#949596","darkCharcoal":"#4c4c4c","darkGrey":"#6d7278","favouriteYellow":"#ffd54f","grey1":"#efefef","grey2":"#e1e1e1","grey3":"#d8d8d8","grey4":"#adadad","lightGreen":"#13c4a3","lightGrey":"#f8f8f8","placeholder":"#b7b7b7","white":"#ffffff","darkRed":"#d93025","container":"Desktop-module__container___vRKDY","logo":"Desktop-module__logo___3iL8-","menuButtonGroup":"Desktop-module__menuButtonGroup___32zrC","menuButton":"Desktop-module__menuButton___2dLNw"});
     if(true) {
-      // 1636192469418
+      // 1636197465680
       var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ "./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js")(module.id, {"locals":true});
       module.hot.dispose(cssReload);
       
@@ -9490,7 +9505,7 @@ __webpack_require__.r(__webpack_exports__);
 // extracted by mini-css-extract-plugin
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({"primary":"#02112f","black":"#000000","blueLightGrey1":"#f6f8f9","blueLightGrey2":"#eff1f4","blueLightGrey3":"#e9ecef","blueLightGrey4":"#e6e7ee","blueLightGrey5":"#dadce5","bodyBlack":"#333333","bodyGrey":"#acacac","charcoal":"#545454","coolGrey":"#949596","darkCharcoal":"#4c4c4c","darkGrey":"#6d7278","favouriteYellow":"#ffd54f","grey1":"#efefef","grey2":"#e1e1e1","grey3":"#d8d8d8","grey4":"#adadad","lightGreen":"#13c4a3","lightGrey":"#f8f8f8","placeholder":"#b7b7b7","white":"#ffffff","darkRed":"#d93025","container":"Mobile-module__container___3vbU0","logo":"Mobile-module__logo___3M3er","menuButtonGroup":"Mobile-module__menuButtonGroup___VmJxh","menuButton":"Mobile-module__menuButton___2b6dw"});
     if(true) {
-      // 1636192469458
+      // 1636197465730
       var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ "./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js")(module.id, {"locals":true});
       module.hot.dispose(cssReload);
       
@@ -9513,7 +9528,7 @@ __webpack_require__.r(__webpack_exports__);
 // extracted by mini-css-extract-plugin
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({"primary":"#02112f","black":"#000000","blueLightGrey1":"#f6f8f9","blueLightGrey2":"#eff1f4","blueLightGrey3":"#e9ecef","blueLightGrey4":"#e6e7ee","blueLightGrey5":"#dadce5","bodyBlack":"#333333","bodyGrey":"#acacac","charcoal":"#545454","coolGrey":"#949596","darkCharcoal":"#4c4c4c","darkGrey":"#6d7278","favouriteYellow":"#ffd54f","grey1":"#efefef","grey2":"#e1e1e1","grey3":"#d8d8d8","grey4":"#adadad","lightGreen":"#13c4a3","lightGrey":"#f8f8f8","placeholder":"#b7b7b7","white":"#ffffff","darkRed":"#d93025","frame":"Desktop-module__frame___3poLG","container":"Desktop-module__container___uB5BF","leftArea":"Desktop-module__leftArea___25X3n","titleBox":"Desktop-module__titleBox___3Jnve","text":"Desktop-module__text___iIejC","image":"Desktop-module__image___3_wP0","aboutTextBox":"Desktop-module__aboutTextBox___1p-y6","aboutText":"Desktop-module__aboutText___af7ku","rightArea":"Desktop-module__rightArea___2OvmN"});
     if(true) {
-      // 1636192469340
+      // 1636197465553
       var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ "./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js")(module.id, {"locals":true});
       module.hot.dispose(cssReload);
       
@@ -9536,7 +9551,7 @@ __webpack_require__.r(__webpack_exports__);
 // extracted by mini-css-extract-plugin
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({"primary":"#02112f","black":"#000000","blueLightGrey1":"#f6f8f9","blueLightGrey2":"#eff1f4","blueLightGrey3":"#e9ecef","blueLightGrey4":"#e6e7ee","blueLightGrey5":"#dadce5","bodyBlack":"#333333","bodyGrey":"#acacac","charcoal":"#545454","coolGrey":"#949596","darkCharcoal":"#4c4c4c","darkGrey":"#6d7278","favouriteYellow":"#ffd54f","grey1":"#efefef","grey2":"#e1e1e1","grey3":"#d8d8d8","grey4":"#adadad","lightGreen":"#13c4a3","lightGrey":"#f8f8f8","placeholder":"#b7b7b7","white":"#ffffff","darkRed":"#d93025","frame":"Mobile-module__frame___3cOKF","container":"Mobile-module__container___2TsDO","leftArea":"Mobile-module__leftArea___3rdMF","titleBox":"Mobile-module__titleBox___GkrPz","text":"Mobile-module__text___FRAaQ","image":"Mobile-module__image___3SyYj","aboutTextBox":"Mobile-module__aboutTextBox___3sQTM","aboutText":"Mobile-module__aboutText___2O0xA","rightArea":"Mobile-module__rightArea___6lmP5"});
     if(true) {
-      // 1636192469342
+      // 1636197465606
       var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ "./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js")(module.id, {"locals":true});
       module.hot.dispose(cssReload);
       
@@ -9557,9 +9572,9 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
 // extracted by mini-css-extract-plugin
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({"primary":"#02112f","black":"#000000","blueLightGrey1":"#f6f8f9","blueLightGrey2":"#eff1f4","blueLightGrey3":"#e9ecef","blueLightGrey4":"#e6e7ee","blueLightGrey5":"#dadce5","bodyBlack":"#333333","bodyGrey":"#acacac","charcoal":"#545454","coolGrey":"#949596","darkCharcoal":"#4c4c4c","darkGrey":"#6d7278","favouriteYellow":"#ffd54f","grey1":"#efefef","grey2":"#e1e1e1","grey3":"#d8d8d8","grey4":"#adadad","lightGreen":"#13c4a3","lightGrey":"#f8f8f8","placeholder":"#b7b7b7","white":"#ffffff","darkRed":"#d93025","container":"Desktop-module__container___1vVha","timelineArea":"Desktop-module__timelineArea___2mpIq","dateText":"Desktop-module__dateText___167bt"});
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({"primary":"#02112f","black":"#000000","blueLightGrey1":"#f6f8f9","blueLightGrey2":"#eff1f4","blueLightGrey3":"#e9ecef","blueLightGrey4":"#e6e7ee","blueLightGrey5":"#dadce5","bodyBlack":"#333333","bodyGrey":"#acacac","charcoal":"#545454","coolGrey":"#949596","darkCharcoal":"#4c4c4c","darkGrey":"#6d7278","favouriteYellow":"#ffd54f","grey1":"#efefef","grey2":"#e1e1e1","grey3":"#d8d8d8","grey4":"#adadad","lightGreen":"#13c4a3","lightGrey":"#f8f8f8","placeholder":"#b7b7b7","white":"#ffffff","darkRed":"#d93025","container":"Desktop-module__container___1vVha","titleText":"Desktop-module__titleText___HSpLw","timelineArea":"Desktop-module__timelineArea___2mpIq","dateText":"Desktop-module__dateText___167bt"});
     if(true) {
-      // 1636192469338
+      // 1636197465473
       var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ "./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js")(module.id, {"locals":true});
       module.hot.dispose(cssReload);
       
@@ -9580,9 +9595,9 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
 // extracted by mini-css-extract-plugin
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({"primary":"#02112f","black":"#000000","blueLightGrey1":"#f6f8f9","blueLightGrey2":"#eff1f4","blueLightGrey3":"#e9ecef","blueLightGrey4":"#e6e7ee","blueLightGrey5":"#dadce5","bodyBlack":"#333333","bodyGrey":"#acacac","charcoal":"#545454","coolGrey":"#949596","darkCharcoal":"#4c4c4c","darkGrey":"#6d7278","favouriteYellow":"#ffd54f","grey1":"#efefef","grey2":"#e1e1e1","grey3":"#d8d8d8","grey4":"#adadad","lightGreen":"#13c4a3","lightGrey":"#f8f8f8","placeholder":"#b7b7b7","white":"#ffffff","darkRed":"#d93025","container":"Mobile-module__container___2Thzq","timelineArea":"Mobile-module__timelineArea___1XdKZ","dateText":"Mobile-module__dateText___HbCRU"});
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({"primary":"#02112f","black":"#000000","blueLightGrey1":"#f6f8f9","blueLightGrey2":"#eff1f4","blueLightGrey3":"#e9ecef","blueLightGrey4":"#e6e7ee","blueLightGrey5":"#dadce5","bodyBlack":"#333333","bodyGrey":"#acacac","charcoal":"#545454","coolGrey":"#949596","darkCharcoal":"#4c4c4c","darkGrey":"#6d7278","favouriteYellow":"#ffd54f","grey1":"#efefef","grey2":"#e1e1e1","grey3":"#d8d8d8","grey4":"#adadad","lightGreen":"#13c4a3","lightGrey":"#f8f8f8","placeholder":"#b7b7b7","white":"#ffffff","darkRed":"#d93025","container":"Mobile-module__container___2Thzq","titleText":"Mobile-module__titleText___BmFY9","timelineArea":"Mobile-module__timelineArea___1XdKZ","dateText":"Mobile-module__dateText___HbCRU"});
     if(true) {
-      // 1636192469238
+      // 1636197465495
       var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ "./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js")(module.id, {"locals":true});
       module.hot.dispose(cssReload);
       
@@ -9603,9 +9618,9 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
 // extracted by mini-css-extract-plugin
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({"primary":"#02112f","black":"#000000","blueLightGrey1":"#f6f8f9","blueLightGrey2":"#eff1f4","blueLightGrey3":"#e9ecef","blueLightGrey4":"#e6e7ee","blueLightGrey5":"#dadce5","bodyBlack":"#333333","bodyGrey":"#acacac","charcoal":"#545454","coolGrey":"#949596","darkCharcoal":"#4c4c4c","darkGrey":"#6d7278","favouriteYellow":"#ffd54f","grey1":"#efefef","grey2":"#e1e1e1","grey3":"#d8d8d8","grey4":"#adadad","lightGreen":"#13c4a3","lightGrey":"#f8f8f8","placeholder":"#b7b7b7","white":"#ffffff","darkRed":"#d93025","frame":"Desktop-module__frame___3JrUU","container":"Desktop-module__container___1axfQ","titleBox":"Desktop-module__titleBox___3HZ34","profileImage":"Desktop-module__profileImage___2AgGB","titleTextBox":"Desktop-module__titleTextBox___SbYVo","greetingText":"Desktop-module__greetingText___3BqC6","wiseSayingText":"Desktop-module__wiseSayingText___1HVny","myselfText":"Desktop-module__myselfText___LSXs_"});
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({"primary":"#02112f","black":"#000000","blueLightGrey1":"#f6f8f9","blueLightGrey2":"#eff1f4","blueLightGrey3":"#e9ecef","blueLightGrey4":"#e6e7ee","blueLightGrey5":"#dadce5","bodyBlack":"#333333","bodyGrey":"#acacac","charcoal":"#545454","coolGrey":"#949596","darkCharcoal":"#4c4c4c","darkGrey":"#6d7278","favouriteYellow":"#ffd54f","grey1":"#efefef","grey2":"#e1e1e1","grey3":"#d8d8d8","grey4":"#adadad","lightGreen":"#13c4a3","lightGrey":"#f8f8f8","placeholder":"#b7b7b7","white":"#ffffff","darkRed":"#d93025","frame":"Desktop-module__frame___3JrUU","container":"Desktop-module__container___1axfQ","titleBox":"Desktop-module__titleBox___3HZ34","profileImage":"Desktop-module__profileImage___2AgGB","titleTextBox":"Desktop-module__titleTextBox___SbYVo","greetingText":"Desktop-module__greetingText___3BqC6","wiseSayingText":"Desktop-module__wiseSayingText___1HVny","myselfText":"Desktop-module__myselfText___LSXs_","guideBox":"Desktop-module__guideBox___3V1_z","downArrowImage":"Desktop-module__downArrowImage___2_MmE","downArrowText":"Desktop-module__downArrowText___2xJIL"});
     if(true) {
-      // 1636192469244
+      // 1636197465466
       var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ "./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js")(module.id, {"locals":true});
       module.hot.dispose(cssReload);
       
@@ -9626,9 +9641,9 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
 // extracted by mini-css-extract-plugin
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({"primary":"#02112f","black":"#000000","blueLightGrey1":"#f6f8f9","blueLightGrey2":"#eff1f4","blueLightGrey3":"#e9ecef","blueLightGrey4":"#e6e7ee","blueLightGrey5":"#dadce5","bodyBlack":"#333333","bodyGrey":"#acacac","charcoal":"#545454","coolGrey":"#949596","darkCharcoal":"#4c4c4c","darkGrey":"#6d7278","favouriteYellow":"#ffd54f","grey1":"#efefef","grey2":"#e1e1e1","grey3":"#d8d8d8","grey4":"#adadad","lightGreen":"#13c4a3","lightGrey":"#f8f8f8","placeholder":"#b7b7b7","white":"#ffffff","darkRed":"#d93025","frame":"Mobile-module__frame___2gLt2","container":"Mobile-module__container___3ZXi8","titleBox":"Mobile-module__titleBox___vMR9P","profileImage":"Mobile-module__profileImage___1sm8Z","titleTextBox":"Mobile-module__titleTextBox___17RD6","greetingText":"Mobile-module__greetingText___eJTk9","wiseSayingText":"Mobile-module__wiseSayingText___2FFLi","myselfText":"Mobile-module__myselfText___1gqPy"});
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({"primary":"#02112f","black":"#000000","blueLightGrey1":"#f6f8f9","blueLightGrey2":"#eff1f4","blueLightGrey3":"#e9ecef","blueLightGrey4":"#e6e7ee","blueLightGrey5":"#dadce5","bodyBlack":"#333333","bodyGrey":"#acacac","charcoal":"#545454","coolGrey":"#949596","darkCharcoal":"#4c4c4c","darkGrey":"#6d7278","favouriteYellow":"#ffd54f","grey1":"#efefef","grey2":"#e1e1e1","grey3":"#d8d8d8","grey4":"#adadad","lightGreen":"#13c4a3","lightGrey":"#f8f8f8","placeholder":"#b7b7b7","white":"#ffffff","darkRed":"#d93025","frame":"Mobile-module__frame___2gLt2","container":"Mobile-module__container___3ZXi8","titleBox":"Mobile-module__titleBox___vMR9P","profileImage":"Mobile-module__profileImage___1sm8Z","titleTextBox":"Mobile-module__titleTextBox___17RD6","greetingText":"Mobile-module__greetingText___eJTk9","wiseSayingText":"Mobile-module__wiseSayingText___2FFLi","myselfText":"Mobile-module__myselfText___1gqPy","guideBox":"Mobile-module__guideBox___3JK5W","downArrowImage":"Mobile-module__downArrowImage___2wd9l","downArrowText":"Mobile-module__downArrowText___q6kHz"});
     if(true) {
-      // 1636192469241
+      // 1636197465470
       var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ "./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js")(module.id, {"locals":true});
       module.hot.dispose(cssReload);
       
@@ -70918,21 +70933,24 @@ var TimelineOppositeContent_1 = __importDefault(__webpack_require__(/*! @mui/lab
 var TimelineSeparator_1 = __importDefault(__webpack_require__(/*! @mui/lab/TimelineSeparator */ "./node_modules/@mui/lab/TimelineSeparator/index.js"));
 var moment_1 = __importDefault(__webpack_require__(/*! moment */ "./node_modules/moment/moment.js"));
 var react_1 = __importStar(__webpack_require__(/*! react */ "./node_modules/react/index.js"));
+var Text_1 = __importDefault(__webpack_require__(/*! ../../../components/atom/Text */ "./src/components/atom/Text/index.tsx"));
 var ResumeCard_1 = __importDefault(__webpack_require__(/*! ../../../components/molecules/ContentElements/ResumeCard */ "./src/components/molecules/ContentElements/ResumeCard/index.tsx"));
 var useRootData_1 = __importDefault(__webpack_require__(/*! ../../../hooks/useRootData */ "./src/hooks/useRootData.ts"));
 var Desktop_module_scss_1 = __importDefault(__webpack_require__(/*! ./Desktop.module.scss */ "./src/pages/Career/templates/Desktop.module.scss"));
 var Mobile_module_scss_1 = __importDefault(__webpack_require__(/*! ./Mobile.module.scss */ "./src/pages/Career/templates/Mobile.module.scss"));
-var App = function () {
-    var _a = (0, useRootData_1.default)(function (_a) {
+var App = function (_a) {
+    var style = _a.style;
+    var _b = (0, useRootData_1.default)(function (_a) {
         var appStore = _a.appStore;
         return ({
             isDesktopView: appStore.isDesktopView,
             resumeArrayInLatestOrder: appStore.resumeArrayInLatestOrder,
         });
-    }), isDesktopView = _a.isDesktopView, resumeArrayInLatestOrder = _a.resumeArrayInLatestOrder;
+    }), isDesktopView = _b.isDesktopView, resumeArrayInLatestOrder = _b.resumeArrayInLatestOrder;
     var styles = isDesktopView ? Desktop_module_scss_1.default : Mobile_module_scss_1.default;
     var containerRef = (0, react_1.useRef)(null);
-    return (react_1.default.createElement("div", { ref: containerRef, className: styles.container },
+    return (react_1.default.createElement("div", { ref: containerRef, style: style, className: styles.container },
+        react_1.default.createElement(Text_1.default, { className: styles.titleText, text: "Career Timeline" }),
         react_1.default.createElement(Timeline_1.default, { className: styles.timelineArea, position: isDesktopView ? 'alternate' : null }, resumeArrayInLatestOrder.map(function (item, index) {
             var startAt = item.startAt, endAt = item.endAt;
             return (react_1.default.createElement(TimelineItem_1.default, { key: index },
@@ -70965,10 +70983,21 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
 Object.defineProperty(exports, "__esModule", ({ value: true }));
 var react_1 = __importDefault(__webpack_require__(/*! react */ "./node_modules/react/index.js"));
 var Default_1 = __importDefault(__webpack_require__(/*! ../../layouts/Layouts/Default */ "./src/layouts/Layouts/Default/index.tsx"));
-var templates_1 = __importDefault(__webpack_require__(/*! ./templates */ "./src/pages/Home/templates/index.tsx"));
+var templates_1 = __importDefault(__webpack_require__(/*! ../Career/templates */ "./src/pages/Career/templates/index.tsx"));
+var templates_2 = __importDefault(__webpack_require__(/*! ./templates */ "./src/pages/Home/templates/index.tsx"));
 var App = function () {
     return (react_1.default.createElement(Default_1.default, null,
-        react_1.default.createElement(templates_1.default, null)));
+        react_1.default.createElement("div", { style: {
+                height: '100vh',
+                overflowY: 'auto',
+                scrollSnapType: 'y mandatory',
+            } },
+            react_1.default.createElement(templates_2.default, { style: {
+                    scrollSnapAlign: 'start',
+                } }),
+            react_1.default.createElement(templates_1.default, { style: {
+                    scrollSnapAlign: 'start',
+                } }))));
 };
 exports["default"] = App;
 
@@ -70989,13 +71018,15 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
 Object.defineProperty(exports, "__esModule", ({ value: true }));
 var react_1 = __importDefault(__webpack_require__(/*! react */ "./node_modules/react/index.js"));
 var react_typed_1 = __importDefault(__webpack_require__(/*! react-typed */ "./node_modules/react-typed/dist/react-typed.js"));
+var downArrow_gif_1 = __importDefault(__webpack_require__(/*! ../../../assets/images/gif/downArrow.gif */ "./src/assets/images/gif/downArrow.gif"));
 var profile_jpg_1 = __importDefault(__webpack_require__(/*! ../../../assets/images/profile.jpg */ "./src/assets/images/profile.jpg"));
 var Image_1 = __importDefault(__webpack_require__(/*! ../../../components/atom/Image */ "./src/components/atom/Image/index.tsx"));
 var Text_1 = __importDefault(__webpack_require__(/*! ../../../components/atom/Text */ "./src/components/atom/Text/index.tsx"));
 var useRootData_1 = __importDefault(__webpack_require__(/*! ../../../hooks/useRootData */ "./src/hooks/useRootData.ts"));
 var Desktop_module_scss_1 = __importDefault(__webpack_require__(/*! ./Desktop.module.scss */ "./src/pages/Home/templates/Desktop.module.scss"));
 var Mobile_module_scss_1 = __importDefault(__webpack_require__(/*! ./Mobile.module.scss */ "./src/pages/Home/templates/Mobile.module.scss"));
-var App = function () {
+var App = function (_a) {
+    var style = _a.style;
     var isDesktopView = (0, useRootData_1.default)(function (_a) {
         var appStore = _a.appStore;
         return ({
@@ -71003,7 +71034,7 @@ var App = function () {
         });
     }).isDesktopView;
     var styles = isDesktopView ? Desktop_module_scss_1.default : Mobile_module_scss_1.default;
-    return (react_1.default.createElement("div", { className: styles.frame },
+    return (react_1.default.createElement("div", { style: style, className: styles.frame },
         react_1.default.createElement("div", { className: styles.container },
             react_1.default.createElement("div", { className: styles.titleBox },
                 react_1.default.createElement(Image_1.default, { className: styles.profileImage, src: profile_jpg_1.default }),
@@ -71013,7 +71044,10 @@ var App = function () {
             react_1.default.createElement(Text_1.default, { className: styles.wiseSayingText, text: "Code doesn't lie." }),
             isDesktopView ? (react_1.default.createElement(react_typed_1.default, { className: styles.myselfText, strings: ['만족하지 못하면 찜찜함에 잠을 못자는 개발자 "박희승"입니다.'], typeSpeed: 40 })) : (react_1.default.createElement(react_1.default.Fragment, null,
                 react_1.default.createElement(Text_1.default, { className: styles.myselfText, text: '만족하지 못하면 찜찜함에' }),
-                react_1.default.createElement(Text_1.default, { className: styles.myselfText, text: '잠을 못자는 개발자 "박희승"입니다.' }))))));
+                react_1.default.createElement(Text_1.default, { className: styles.myselfText, text: '잠을 못자는 개발자 "박희승"입니다.' }))),
+            react_1.default.createElement("div", { className: styles.guideBox },
+                react_1.default.createElement(Text_1.default, { className: styles.downArrowText, text: 'Scroll' }),
+                react_1.default.createElement(Image_1.default, { className: styles.downArrowImage, src: downArrow_gif_1.default })))));
 };
 exports["default"] = App;
 
@@ -72860,7 +72894,7 @@ function combine (array, callback) {
 /******/ 	
 /******/ 	/* webpack/runtime/getFullHash */
 /******/ 	(() => {
-/******/ 		__webpack_require__.h = () => ("e400bec9fb27bc6c77c7")
+/******/ 		__webpack_require__.h = () => ("cdfbef7dd0dfa44863c9")
 /******/ 	})();
 /******/ 	
 /******/ 	/* webpack/runtime/global */
@@ -73939,4 +73973,4 @@ function combine (array, callback) {
 /******/ 	
 /******/ })()
 ;
-//# sourceMappingURL=main.e400bec9fb27bc6c77c7.js.map
+//# sourceMappingURL=main.cdfbef7dd0dfa44863c9.js.map
