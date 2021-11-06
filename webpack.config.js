@@ -139,6 +139,11 @@ module.exports = {
       favicon: './src/assets/images/jayce.png',
       filename: './index.html',
     }),
+    new HtmlWebPackPlugin({
+      template: './src/assets/htmls/404.html',
+      favicon: './src/assets/images/jayce.png',
+      filename: './404.html',
+    }),
     new CleanWebpackPlugin(),
     new webpack.HotModuleReplacementPlugin(),
     new MiniCssExtractPlugin({
