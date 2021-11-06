@@ -251,7 +251,8 @@ svg use {
 .Desktop-module__frame___3poLG {
   display: flex;
   align-items: center;
-  min-height: 100vh; }
+  min-height: 100vh;
+  background-color: #02112f; }
   .Desktop-module__frame___3poLG .Desktop-module__container___uB5BF {
     margin: 0px auto;
     display: flex;
@@ -288,7 +289,8 @@ svg use {
 .Mobile-module__frame___3cOKF {
   display: flex;
   align-items: center;
-  min-height: 100vh; }
+  min-height: 100vh;
+  background-color: #02112f; }
   .Mobile-module__frame___3cOKF .Mobile-module__container___2TsDO {
     width: 750px;
     margin: 0px auto; }
@@ -390,7 +392,8 @@ svg use {
 .Desktop-module__container___1vVha {
   padding: 150px 0px;
   margin: 0px auto;
-  min-height: 100vh; }
+  min-height: 100vh;
+  background-color: #02112f; }
   .Desktop-module__container___1vVha .Desktop-module__timelineArea___2mpIq .Desktop-module__dateText___167bt {
     font-size: 20px;
     color: #ffffff; }
@@ -401,7 +404,8 @@ svg use {
 .Mobile-module__container___2Thzq {
   width: 750px;
   padding: 150px 0px;
-  margin: 0px auto; }
+  margin: 0px auto;
+  background-color: #02112f; }
   .Mobile-module__container___2Thzq .Mobile-module__timelineArea___1XdKZ {
     max-width: 750px; }
     .Mobile-module__container___2Thzq .Mobile-module__timelineArea___1XdKZ .Mobile-module__dateText___HbCRU {
@@ -414,7 +418,8 @@ svg use {
 .Desktop-module__frame___3JrUU {
   display: flex;
   align-items: center;
-  min-height: 100vh; }
+  min-height: 100vh;
+  background-color: #02112f; }
   .Desktop-module__frame___3JrUU .Desktop-module__container___1axfQ {
     min-width: 750px;
     margin: 0 auto; }
@@ -453,7 +458,8 @@ svg use {
 .Mobile-module__frame___2gLt2 {
   display: flex;
   align-items: center;
-  min-height: 100vh; }
+  min-height: 100vh;
+  background-color: #02112f; }
   .Mobile-module__frame___2gLt2 .Mobile-module__container___3ZXi8 {
     width: 750px;
     margin: 0px auto; }
