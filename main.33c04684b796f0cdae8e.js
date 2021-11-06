@@ -9306,7 +9306,7 @@ __webpack_require__.r(__webpack_exports__);
 // extracted by mini-css-extract-plugin
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({"primary":"#02112f","black":"#000000","blueLightGrey1":"#f6f8f9","blueLightGrey2":"#eff1f4","blueLightGrey3":"#e9ecef","blueLightGrey4":"#e6e7ee","blueLightGrey5":"#dadce5","bodyBlack":"#333333","bodyGrey":"#acacac","charcoal":"#545454","coolGrey":"#949596","darkCharcoal":"#4c4c4c","darkGrey":"#6d7278","favouriteYellow":"#ffd54f","grey1":"#efefef","grey2":"#e1e1e1","grey3":"#d8d8d8","grey4":"#adadad","lightGreen":"#13c4a3","lightGrey":"#f8f8f8","placeholder":"#b7b7b7","white":"#ffffff","darkRed":"#d93025"});
     if(true) {
-      // 1636186223144
+      // 1636191245438
       var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ "./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js")(module.id, {"locals":true});
       module.hot.dispose(cssReload);
       
@@ -9329,7 +9329,7 @@ __webpack_require__.r(__webpack_exports__);
 // extracted by mini-css-extract-plugin
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({"primary":"#02112f","black":"#000000","blueLightGrey1":"#f6f8f9","blueLightGrey2":"#eff1f4","blueLightGrey3":"#e9ecef","blueLightGrey4":"#e6e7ee","blueLightGrey5":"#dadce5","bodyBlack":"#333333","bodyGrey":"#acacac","charcoal":"#545454","coolGrey":"#949596","darkCharcoal":"#4c4c4c","darkGrey":"#6d7278","favouriteYellow":"#ffd54f","grey1":"#efefef","grey2":"#e1e1e1","grey3":"#d8d8d8","grey4":"#adadad","lightGreen":"#13c4a3","lightGrey":"#f8f8f8","placeholder":"#b7b7b7","white":"#ffffff","darkRed":"#d93025","container":"Desktop-module__container___2DVnD","titleText":"Desktop-module__titleText___1c4GA","hashtagArea":"Desktop-module__hashtagArea___19-vP","hashtag":"Desktop-module__hashtag___2NebK","descriptionArea":"Desktop-module__descriptionArea___2KRJz","descriptionText":"Desktop-module__descriptionText___3vg_x"});
     if(true) {
-      // 1636186224142
+      // 1636191246494
       var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ "./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js")(module.id, {"locals":true});
       module.hot.dispose(cssReload);
       
@@ -9352,7 +9352,7 @@ __webpack_require__.r(__webpack_exports__);
 // extracted by mini-css-extract-plugin
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({"primary":"#02112f","black":"#000000","blueLightGrey1":"#f6f8f9","blueLightGrey2":"#eff1f4","blueLightGrey3":"#e9ecef","blueLightGrey4":"#e6e7ee","blueLightGrey5":"#dadce5","bodyBlack":"#333333","bodyGrey":"#acacac","charcoal":"#545454","coolGrey":"#949596","darkCharcoal":"#4c4c4c","darkGrey":"#6d7278","favouriteYellow":"#ffd54f","grey1":"#efefef","grey2":"#e1e1e1","grey3":"#d8d8d8","grey4":"#adadad","lightGreen":"#13c4a3","lightGrey":"#f8f8f8","placeholder":"#b7b7b7","white":"#ffffff","darkRed":"#d93025","container":"Mobile-module__container___3oV8p","titleText":"Mobile-module__titleText___1Rpnd","hashtagArea":"Mobile-module__hashtagArea___1MZJF","hashtag":"Mobile-module__hashtag___16yAM","descriptionArea":"Mobile-module__descriptionArea___1_9Hk","descriptionText":"Mobile-module__descriptionText___2ymJP"});
     if(true) {
-      // 1636186224144
+      // 1636191246495
       var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ "./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js")(module.id, {"locals":true});
       module.hot.dispose(cssReload);
       
@@ -9375,7 +9375,7 @@ __webpack_require__.r(__webpack_exports__);
 // extracted by mini-css-extract-plugin
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({"primary":"#02112f","black":"#000000","blueLightGrey1":"#f6f8f9","blueLightGrey2":"#eff1f4","blueLightGrey3":"#e9ecef","blueLightGrey4":"#e6e7ee","blueLightGrey5":"#dadce5","bodyBlack":"#333333","bodyGrey":"#acacac","charcoal":"#545454","coolGrey":"#949596","darkCharcoal":"#4c4c4c","darkGrey":"#6d7278","favouriteYellow":"#ffd54f","grey1":"#efefef","grey2":"#e1e1e1","grey3":"#d8d8d8","grey4":"#adadad","lightGreen":"#13c4a3","lightGrey":"#f8f8f8","placeholder":"#b7b7b7","white":"#ffffff","darkRed":"#d93025","container":"Desktop-module__container___3gtm1","titleText":"Desktop-module__titleText___1LbFZ","stackBox":"Desktop-module__stackBox___1cKTe","stackText":"Desktop-module__stackText___Mmn77"});
     if(true) {
-      // 1636186224168
+      // 1636191246519
       var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ "./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js")(module.id, {"locals":true});
       module.hot.dispose(cssReload);
       
@@ -9398,7 +9398,7 @@ __webpack_require__.r(__webpack_exports__);
 // extracted by mini-css-extract-plugin
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({"primary":"#02112f","black":"#000000","blueLightGrey1":"#f6f8f9","blueLightGrey2":"#eff1f4","blueLightGrey3":"#e9ecef","blueLightGrey4":"#e6e7ee","blueLightGrey5":"#dadce5","bodyBlack":"#333333","bodyGrey":"#acacac","charcoal":"#545454","coolGrey":"#949596","darkCharcoal":"#4c4c4c","darkGrey":"#6d7278","favouriteYellow":"#ffd54f","grey1":"#efefef","grey2":"#e1e1e1","grey3":"#d8d8d8","grey4":"#adadad","lightGreen":"#13c4a3","lightGrey":"#f8f8f8","placeholder":"#b7b7b7","white":"#ffffff","darkRed":"#d93025","container":"Mobile-module__container___cTB26","titleText":"Mobile-module__titleText___NSo1J","stackBox":"Mobile-module__stackBox___3-LZ2","stackText":"Mobile-module__stackText___CPiwB"});
     if(true) {
-      // 1636186224138
+      // 1636191246517
       var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ "./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js")(module.id, {"locals":true});
       module.hot.dispose(cssReload);
       
@@ -9421,7 +9421,7 @@ __webpack_require__.r(__webpack_exports__);
 // extracted by mini-css-extract-plugin
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({"primary":"#02112f","black":"#000000","blueLightGrey1":"#f6f8f9","blueLightGrey2":"#eff1f4","blueLightGrey3":"#e9ecef","blueLightGrey4":"#e6e7ee","blueLightGrey5":"#dadce5","bodyBlack":"#333333","bodyGrey":"#acacac","charcoal":"#545454","coolGrey":"#949596","darkCharcoal":"#4c4c4c","darkGrey":"#6d7278","favouriteYellow":"#ffd54f","grey1":"#efefef","grey2":"#e1e1e1","grey3":"#d8d8d8","grey4":"#adadad","lightGreen":"#13c4a3","lightGrey":"#f8f8f8","placeholder":"#b7b7b7","white":"#ffffff","darkRed":"#d93025","container":"Desktop-module__container___DaG7a","flex":"Desktop-module__flex___2f2NV","leftBox":"Desktop-module__leftBox___2hX4l","copyRightText":"Desktop-module__copyRightText___2J3Or","rightBox":"Desktop-module__rightBox___3RKWt","iconBox":"Desktop-module__iconBox___lbc2e","icon":"Desktop-module__icon___vw70d"});
     if(true) {
-      // 1636186224209
+      // 1636191246443
       var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ "./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js")(module.id, {"locals":true});
       module.hot.dispose(cssReload);
       
@@ -9444,7 +9444,7 @@ __webpack_require__.r(__webpack_exports__);
 // extracted by mini-css-extract-plugin
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({"primary":"#02112f","black":"#000000","blueLightGrey1":"#f6f8f9","blueLightGrey2":"#eff1f4","blueLightGrey3":"#e9ecef","blueLightGrey4":"#e6e7ee","blueLightGrey5":"#dadce5","bodyBlack":"#333333","bodyGrey":"#acacac","charcoal":"#545454","coolGrey":"#949596","darkCharcoal":"#4c4c4c","darkGrey":"#6d7278","favouriteYellow":"#ffd54f","grey1":"#efefef","grey2":"#e1e1e1","grey3":"#d8d8d8","grey4":"#adadad","lightGreen":"#13c4a3","lightGrey":"#f8f8f8","placeholder":"#b7b7b7","white":"#ffffff","darkRed":"#d93025","container":"Mobile-module__container___33aG7","flex":"Mobile-module__flex___rCUic","leftBox":"Mobile-module__leftBox___NIeYr","copyRightText":"Mobile-module__copyRightText___f3EUh","rightBox":"Mobile-module__rightBox___9bW3N","iconBox":"Mobile-module__iconBox___bTzwZ","icon":"Mobile-module__icon___1_AiE"});
     if(true) {
-      // 1636186224206
+      // 1636191246461
       var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ "./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js")(module.id, {"locals":true});
       module.hot.dispose(cssReload);
       
@@ -9467,7 +9467,7 @@ __webpack_require__.r(__webpack_exports__);
 // extracted by mini-css-extract-plugin
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({"primary":"#02112f","black":"#000000","blueLightGrey1":"#f6f8f9","blueLightGrey2":"#eff1f4","blueLightGrey3":"#e9ecef","blueLightGrey4":"#e6e7ee","blueLightGrey5":"#dadce5","bodyBlack":"#333333","bodyGrey":"#acacac","charcoal":"#545454","coolGrey":"#949596","darkCharcoal":"#4c4c4c","darkGrey":"#6d7278","favouriteYellow":"#ffd54f","grey1":"#efefef","grey2":"#e1e1e1","grey3":"#d8d8d8","grey4":"#adadad","lightGreen":"#13c4a3","lightGrey":"#f8f8f8","placeholder":"#b7b7b7","white":"#ffffff","darkRed":"#d93025","container":"Desktop-module__container___vRKDY","logo":"Desktop-module__logo___3iL8-","menuButtonGroup":"Desktop-module__menuButtonGroup___32zrC","menuButton":"Desktop-module__menuButton___2dLNw"});
     if(true) {
-      // 1636186224257
+      // 1636191246440
       var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ "./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js")(module.id, {"locals":true});
       module.hot.dispose(cssReload);
       
@@ -9490,7 +9490,7 @@ __webpack_require__.r(__webpack_exports__);
 // extracted by mini-css-extract-plugin
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({"primary":"#02112f","black":"#000000","blueLightGrey1":"#f6f8f9","blueLightGrey2":"#eff1f4","blueLightGrey3":"#e9ecef","blueLightGrey4":"#e6e7ee","blueLightGrey5":"#dadce5","bodyBlack":"#333333","bodyGrey":"#acacac","charcoal":"#545454","coolGrey":"#949596","darkCharcoal":"#4c4c4c","darkGrey":"#6d7278","favouriteYellow":"#ffd54f","grey1":"#efefef","grey2":"#e1e1e1","grey3":"#d8d8d8","grey4":"#adadad","lightGreen":"#13c4a3","lightGrey":"#f8f8f8","placeholder":"#b7b7b7","white":"#ffffff","darkRed":"#d93025","container":"Mobile-module__container___3vbU0","logo":"Mobile-module__logo___3M3er","menuButtonGroup":"Mobile-module__menuButtonGroup___VmJxh","menuButton":"Mobile-module__menuButton___2b6dw"});
     if(true) {
-      // 1636186224239
+      // 1636191246441
       var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ "./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js")(module.id, {"locals":true});
       module.hot.dispose(cssReload);
       
@@ -9511,9 +9511,9 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
 // extracted by mini-css-extract-plugin
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({"primary":"#02112f","black":"#000000","blueLightGrey1":"#f6f8f9","blueLightGrey2":"#eff1f4","blueLightGrey3":"#e9ecef","blueLightGrey4":"#e6e7ee","blueLightGrey5":"#dadce5","bodyBlack":"#333333","bodyGrey":"#acacac","charcoal":"#545454","coolGrey":"#949596","darkCharcoal":"#4c4c4c","darkGrey":"#6d7278","favouriteYellow":"#ffd54f","grey1":"#efefef","grey2":"#e1e1e1","grey3":"#d8d8d8","grey4":"#adadad","lightGreen":"#13c4a3","lightGrey":"#f8f8f8","placeholder":"#b7b7b7","white":"#ffffff","darkRed":"#d93025","container":"Desktop-module__container___uB5BF","leftArea":"Desktop-module__leftArea___25X3n","titleBox":"Desktop-module__titleBox___3Jnve","text":"Desktop-module__text___iIejC","image":"Desktop-module__image___3_wP0","aboutTextBox":"Desktop-module__aboutTextBox___1p-y6","aboutText":"Desktop-module__aboutText___af7ku","rightArea":"Desktop-module__rightArea___2OvmN"});
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({"primary":"#02112f","black":"#000000","blueLightGrey1":"#f6f8f9","blueLightGrey2":"#eff1f4","blueLightGrey3":"#e9ecef","blueLightGrey4":"#e6e7ee","blueLightGrey5":"#dadce5","bodyBlack":"#333333","bodyGrey":"#acacac","charcoal":"#545454","coolGrey":"#949596","darkCharcoal":"#4c4c4c","darkGrey":"#6d7278","favouriteYellow":"#ffd54f","grey1":"#efefef","grey2":"#e1e1e1","grey3":"#d8d8d8","grey4":"#adadad","lightGreen":"#13c4a3","lightGrey":"#f8f8f8","placeholder":"#b7b7b7","white":"#ffffff","darkRed":"#d93025","frame":"Desktop-module__frame___3poLG","container":"Desktop-module__container___uB5BF","leftArea":"Desktop-module__leftArea___25X3n","titleBox":"Desktop-module__titleBox___3Jnve","text":"Desktop-module__text___iIejC","image":"Desktop-module__image___3_wP0","aboutTextBox":"Desktop-module__aboutTextBox___1p-y6","aboutText":"Desktop-module__aboutText___af7ku","rightArea":"Desktop-module__rightArea___2OvmN"});
     if(true) {
-      // 1636186223916
+      // 1636191246242
       var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ "./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js")(module.id, {"locals":true});
       module.hot.dispose(cssReload);
       
@@ -9534,9 +9534,9 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
 // extracted by mini-css-extract-plugin
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({"primary":"#02112f","black":"#000000","blueLightGrey1":"#f6f8f9","blueLightGrey2":"#eff1f4","blueLightGrey3":"#e9ecef","blueLightGrey4":"#e6e7ee","blueLightGrey5":"#dadce5","bodyBlack":"#333333","bodyGrey":"#acacac","charcoal":"#545454","coolGrey":"#949596","darkCharcoal":"#4c4c4c","darkGrey":"#6d7278","favouriteYellow":"#ffd54f","grey1":"#efefef","grey2":"#e1e1e1","grey3":"#d8d8d8","grey4":"#adadad","lightGreen":"#13c4a3","lightGrey":"#f8f8f8","placeholder":"#b7b7b7","white":"#ffffff","darkRed":"#d93025","container":"Mobile-module__container___2TsDO","leftArea":"Mobile-module__leftArea___3rdMF","titleBox":"Mobile-module__titleBox___GkrPz","text":"Mobile-module__text___FRAaQ","image":"Mobile-module__image___3SyYj","aboutTextBox":"Mobile-module__aboutTextBox___3sQTM","aboutText":"Mobile-module__aboutText___2O0xA","rightArea":"Mobile-module__rightArea___6lmP5"});
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({"primary":"#02112f","black":"#000000","blueLightGrey1":"#f6f8f9","blueLightGrey2":"#eff1f4","blueLightGrey3":"#e9ecef","blueLightGrey4":"#e6e7ee","blueLightGrey5":"#dadce5","bodyBlack":"#333333","bodyGrey":"#acacac","charcoal":"#545454","coolGrey":"#949596","darkCharcoal":"#4c4c4c","darkGrey":"#6d7278","favouriteYellow":"#ffd54f","grey1":"#efefef","grey2":"#e1e1e1","grey3":"#d8d8d8","grey4":"#adadad","lightGreen":"#13c4a3","lightGrey":"#f8f8f8","placeholder":"#b7b7b7","white":"#ffffff","darkRed":"#d93025","frame":"Mobile-module__frame___3cOKF","container":"Mobile-module__container___2TsDO","leftArea":"Mobile-module__leftArea___3rdMF","titleBox":"Mobile-module__titleBox___GkrPz","text":"Mobile-module__text___FRAaQ","image":"Mobile-module__image___3SyYj","aboutTextBox":"Mobile-module__aboutTextBox___3sQTM","aboutText":"Mobile-module__aboutText___2O0xA","rightArea":"Mobile-module__rightArea___6lmP5"});
     if(true) {
-      // 1636186223920
+      // 1636191246290
       var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ "./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js")(module.id, {"locals":true});
       module.hot.dispose(cssReload);
       
@@ -9559,7 +9559,7 @@ __webpack_require__.r(__webpack_exports__);
 // extracted by mini-css-extract-plugin
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({"primary":"#02112f","black":"#000000","blueLightGrey1":"#f6f8f9","blueLightGrey2":"#eff1f4","blueLightGrey3":"#e9ecef","blueLightGrey4":"#e6e7ee","blueLightGrey5":"#dadce5","bodyBlack":"#333333","bodyGrey":"#acacac","charcoal":"#545454","coolGrey":"#949596","darkCharcoal":"#4c4c4c","darkGrey":"#6d7278","favouriteYellow":"#ffd54f","grey1":"#efefef","grey2":"#e1e1e1","grey3":"#d8d8d8","grey4":"#adadad","lightGreen":"#13c4a3","lightGrey":"#f8f8f8","placeholder":"#b7b7b7","white":"#ffffff","darkRed":"#d93025","container":"Desktop-module__container___1vVha","timelineArea":"Desktop-module__timelineArea___2mpIq","dateText":"Desktop-module__dateText___167bt"});
     if(true) {
-      // 1636186223984
+      // 1636191246335
       var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ "./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js")(module.id, {"locals":true});
       module.hot.dispose(cssReload);
       
@@ -9582,7 +9582,7 @@ __webpack_require__.r(__webpack_exports__);
 // extracted by mini-css-extract-plugin
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({"primary":"#02112f","black":"#000000","blueLightGrey1":"#f6f8f9","blueLightGrey2":"#eff1f4","blueLightGrey3":"#e9ecef","blueLightGrey4":"#e6e7ee","blueLightGrey5":"#dadce5","bodyBlack":"#333333","bodyGrey":"#acacac","charcoal":"#545454","coolGrey":"#949596","darkCharcoal":"#4c4c4c","darkGrey":"#6d7278","favouriteYellow":"#ffd54f","grey1":"#efefef","grey2":"#e1e1e1","grey3":"#d8d8d8","grey4":"#adadad","lightGreen":"#13c4a3","lightGrey":"#f8f8f8","placeholder":"#b7b7b7","white":"#ffffff","darkRed":"#d93025","container":"Mobile-module__container___2Thzq","timelineArea":"Mobile-module__timelineArea___1XdKZ","dateText":"Mobile-module__dateText___HbCRU"});
     if(true) {
-      // 1636186224013
+      // 1636191246337
       var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ "./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js")(module.id, {"locals":true});
       module.hot.dispose(cssReload);
       
@@ -9603,9 +9603,9 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
 // extracted by mini-css-extract-plugin
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({"primary":"#02112f","black":"#000000","blueLightGrey1":"#f6f8f9","blueLightGrey2":"#eff1f4","blueLightGrey3":"#e9ecef","blueLightGrey4":"#e6e7ee","blueLightGrey5":"#dadce5","bodyBlack":"#333333","bodyGrey":"#acacac","charcoal":"#545454","coolGrey":"#949596","darkCharcoal":"#4c4c4c","darkGrey":"#6d7278","favouriteYellow":"#ffd54f","grey1":"#efefef","grey2":"#e1e1e1","grey3":"#d8d8d8","grey4":"#adadad","lightGreen":"#13c4a3","lightGrey":"#f8f8f8","placeholder":"#b7b7b7","white":"#ffffff","darkRed":"#d93025","container":"Desktop-module__container___1axfQ","titleBox":"Desktop-module__titleBox___3HZ34","profileImage":"Desktop-module__profileImage___2AgGB","titleTextBox":"Desktop-module__titleTextBox___SbYVo","greetingText":"Desktop-module__greetingText___3BqC6","wiseSayingText":"Desktop-module__wiseSayingText___1HVny","myselfText":"Desktop-module__myselfText___LSXs_"});
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({"primary":"#02112f","black":"#000000","blueLightGrey1":"#f6f8f9","blueLightGrey2":"#eff1f4","blueLightGrey3":"#e9ecef","blueLightGrey4":"#e6e7ee","blueLightGrey5":"#dadce5","bodyBlack":"#333333","bodyGrey":"#acacac","charcoal":"#545454","coolGrey":"#949596","darkCharcoal":"#4c4c4c","darkGrey":"#6d7278","favouriteYellow":"#ffd54f","grey1":"#efefef","grey2":"#e1e1e1","grey3":"#d8d8d8","grey4":"#adadad","lightGreen":"#13c4a3","lightGrey":"#f8f8f8","placeholder":"#b7b7b7","white":"#ffffff","darkRed":"#d93025","frame":"Desktop-module__frame___3JrUU","container":"Desktop-module__container___1axfQ","titleBox":"Desktop-module__titleBox___3HZ34","profileImage":"Desktop-module__profileImage___2AgGB","titleTextBox":"Desktop-module__titleTextBox___SbYVo","greetingText":"Desktop-module__greetingText___3BqC6","wiseSayingText":"Desktop-module__wiseSayingText___1HVny","myselfText":"Desktop-module__myselfText___LSXs_"});
     if(true) {
-      // 1636186223924
+      // 1636191246235
       var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ "./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js")(module.id, {"locals":true});
       module.hot.dispose(cssReload);
       
@@ -9626,9 +9626,9 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
 // extracted by mini-css-extract-plugin
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({"primary":"#02112f","black":"#000000","blueLightGrey1":"#f6f8f9","blueLightGrey2":"#eff1f4","blueLightGrey3":"#e9ecef","blueLightGrey4":"#e6e7ee","blueLightGrey5":"#dadce5","bodyBlack":"#333333","bodyGrey":"#acacac","charcoal":"#545454","coolGrey":"#949596","darkCharcoal":"#4c4c4c","darkGrey":"#6d7278","favouriteYellow":"#ffd54f","grey1":"#efefef","grey2":"#e1e1e1","grey3":"#d8d8d8","grey4":"#adadad","lightGreen":"#13c4a3","lightGrey":"#f8f8f8","placeholder":"#b7b7b7","white":"#ffffff","darkRed":"#d93025","container":"Mobile-module__container___3ZXi8","titleBox":"Mobile-module__titleBox___vMR9P","profileImage":"Mobile-module__profileImage___1sm8Z","titleTextBox":"Mobile-module__titleTextBox___17RD6","greetingText":"Mobile-module__greetingText___eJTk9","wiseSayingText":"Mobile-module__wiseSayingText___2FFLi","myselfText":"Mobile-module__myselfText___1gqPy"});
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({"primary":"#02112f","black":"#000000","blueLightGrey1":"#f6f8f9","blueLightGrey2":"#eff1f4","blueLightGrey3":"#e9ecef","blueLightGrey4":"#e6e7ee","blueLightGrey5":"#dadce5","bodyBlack":"#333333","bodyGrey":"#acacac","charcoal":"#545454","coolGrey":"#949596","darkCharcoal":"#4c4c4c","darkGrey":"#6d7278","favouriteYellow":"#ffd54f","grey1":"#efefef","grey2":"#e1e1e1","grey3":"#d8d8d8","grey4":"#adadad","lightGreen":"#13c4a3","lightGrey":"#f8f8f8","placeholder":"#b7b7b7","white":"#ffffff","darkRed":"#d93025","frame":"Mobile-module__frame___2gLt2","container":"Mobile-module__container___3ZXi8","titleBox":"Mobile-module__titleBox___vMR9P","profileImage":"Mobile-module__profileImage___1sm8Z","titleTextBox":"Mobile-module__titleTextBox___17RD6","greetingText":"Mobile-module__greetingText___eJTk9","wiseSayingText":"Mobile-module__wiseSayingText___2FFLi","myselfText":"Mobile-module__myselfText___1gqPy"});
     if(true) {
-      // 1636186223977
+      // 1636191246232
       var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ "./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js")(module.id, {"locals":true});
       module.hot.dispose(cssReload);
       
@@ -70681,14 +70681,15 @@ var App = function () {
         window.open(link, '_blank');
     };
     return (react_1.default.createElement("footer", { className: styles.container },
-        react_1.default.createElement("div", { className: styles.flex },
-            react_1.default.createElement("div", { className: styles.leftBox },
-                react_1.default.createElement(Text_1.default, { className: styles.copyRightText, text: '© Jayce Park 2021' })),
-            react_1.default.createElement("div", { className: styles.rightBox },
-                react_1.default.createElement("div", { className: styles.iconBox }, linkIconArray.map(function (item, index) {
-                    var icon = item.icon, link = item.link;
-                    return (react_1.default.createElement(Image_1.default, { className: styles.icon, key: index, src: icon, clickHandler: function () { return linkIconClickHandler(link); } }));
-                }))))));
+        react_1.default.createElement("div", null,
+            react_1.default.createElement("div", { className: styles.flex },
+                react_1.default.createElement("div", { className: styles.leftBox },
+                    react_1.default.createElement(Text_1.default, { className: styles.copyRightText, text: '© Jayce Park 2021' })),
+                react_1.default.createElement("div", { className: styles.rightBox },
+                    react_1.default.createElement("div", { className: styles.iconBox }, linkIconArray.map(function (item, index) {
+                        var icon = item.icon, link = item.link;
+                        return (react_1.default.createElement(Image_1.default, { className: styles.icon, key: index, src: icon, clickHandler: function () { return linkIconClickHandler(link); } }));
+                    })))))));
 };
 exports["default"] = App;
 
@@ -70809,8 +70810,6 @@ Object.defineProperty(exports, "__esModule", ({ value: true }));
 var react_1 = __importStar(__webpack_require__(/*! react */ "./node_modules/react/index.js"));
 var react_animation_1 = __webpack_require__(/*! react-animation */ "./node_modules/react-animation/dist/react-animation.js");
 var react_typed_1 = __importDefault(__webpack_require__(/*! react-typed */ "./node_modules/react-typed/dist/react-typed.js"));
-var jayce_png_1 = __importDefault(__webpack_require__(/*! ../../../assets/images/jayce.png */ "./src/assets/images/jayce.png"));
-var Image_1 = __importDefault(__webpack_require__(/*! ../../../components/atom/Image */ "./src/components/atom/Image/index.tsx"));
 var Text_1 = __importDefault(__webpack_require__(/*! ../../../components/atom/Text */ "./src/components/atom/Text/index.tsx"));
 var TeckStackCard_1 = __importDefault(__webpack_require__(/*! ../../../components/molecules/ContentElements/TeckStackCard */ "./src/components/molecules/ContentElements/TeckStackCard/index.tsx"));
 var useRootData_1 = __importDefault(__webpack_require__(/*! ../../../hooks/useRootData */ "./src/hooks/useRootData.ts"));
@@ -70832,23 +70831,23 @@ var App = function () {
         '경험해보지 않고 두려워하거나 어렵다고 생각하는 걸 무척 싫어하며',
         '어떠한 문제에 닥치면 창의성과 여러 경험으로 해결하는데 강점이 있습니다.',
     ];
-    return (react_1.default.createElement("div", { className: styles.container },
-        react_1.default.createElement("div", { className: styles.leftArea },
-            react_1.default.createElement("div", { className: styles.titleBox },
-                react_1.default.createElement(react_typed_1.default, { onComplete: function () { return setIsTypedComplate(true); }, className: styles.text, strings: ['console.log(\b\b\b)'], typeSpeed: 30 }),
-                isTypedComplate && react_1.default.createElement(Image_1.default, { className: styles.image, src: jayce_png_1.default })),
+    return (react_1.default.createElement("div", { className: styles.frame },
+        react_1.default.createElement("div", { className: styles.container },
+            react_1.default.createElement("div", { className: styles.leftArea },
+                react_1.default.createElement("div", { className: styles.titleBox },
+                    react_1.default.createElement(react_typed_1.default, { onComplete: function () { return setIsTypedComplate(true); }, className: styles.text, strings: ['console.log(박희승)'], typeSpeed: 60 })),
+                isTypedComplate && (react_1.default.createElement("div", { style: {
+                        animation: react_animation_1.animations.fadeIn,
+                        animationDuration: '4s',
+                    }, className: styles.aboutTextBox }, aboutJayceTexts.map(function (item, index) {
+                    return react_1.default.createElement(Text_1.default, { key: index, className: styles.aboutText, text: item });
+                })))),
             isTypedComplate && (react_1.default.createElement("div", { style: {
                     animation: react_animation_1.animations.fadeIn,
                     animationDuration: '4s',
-                }, className: styles.aboutTextBox }, aboutJayceTexts.map(function (item, index) {
-                return react_1.default.createElement(Text_1.default, { key: index, className: styles.aboutText, text: item });
-            })))),
-        isTypedComplate && (react_1.default.createElement("div", { style: {
-                animation: react_animation_1.animations.fadeIn,
-                animationDuration: '4s',
-            }, className: styles.rightArea }, Object.keys(data_1.mySkillObject).map(function (key, index) {
-            return (react_1.default.createElement(TeckStackCard_1.default, { key: index, isDesktopView: isDesktopView, title: key, teckStackArray: data_1.mySkillObject[key] }));
-        })))));
+                }, className: styles.rightArea }, Object.keys(data_1.mySkillObject).map(function (key, index) {
+                return (react_1.default.createElement(TeckStackCard_1.default, { key: index, isDesktopView: isDesktopView, title: key, teckStackArray: data_1.mySkillObject[key] }));
+            }))))));
 };
 exports["default"] = App;
 
@@ -70887,6 +70886,25 @@ exports["default"] = App;
 
 "use strict";
 
+var __createBinding = (this && this.__createBinding) || (Object.create ? (function(o, m, k, k2) {
+    if (k2 === undefined) k2 = k;
+    Object.defineProperty(o, k2, { enumerable: true, get: function() { return m[k]; } });
+}) : (function(o, m, k, k2) {
+    if (k2 === undefined) k2 = k;
+    o[k2] = m[k];
+}));
+var __setModuleDefault = (this && this.__setModuleDefault) || (Object.create ? (function(o, v) {
+    Object.defineProperty(o, "default", { enumerable: true, value: v });
+}) : function(o, v) {
+    o["default"] = v;
+});
+var __importStar = (this && this.__importStar) || function (mod) {
+    if (mod && mod.__esModule) return mod;
+    var result = {};
+    if (mod != null) for (var k in mod) if (k !== "default" && Object.prototype.hasOwnProperty.call(mod, k)) __createBinding(result, mod, k);
+    __setModuleDefault(result, mod);
+    return result;
+};
 var __importDefault = (this && this.__importDefault) || function (mod) {
     return (mod && mod.__esModule) ? mod : { "default": mod };
 };
@@ -70899,7 +70917,7 @@ var TimelineItem_1 = __importDefault(__webpack_require__(/*! @mui/lab/TimelineIt
 var TimelineOppositeContent_1 = __importDefault(__webpack_require__(/*! @mui/lab/TimelineOppositeContent */ "./node_modules/@mui/lab/TimelineOppositeContent/index.js"));
 var TimelineSeparator_1 = __importDefault(__webpack_require__(/*! @mui/lab/TimelineSeparator */ "./node_modules/@mui/lab/TimelineSeparator/index.js"));
 var moment_1 = __importDefault(__webpack_require__(/*! moment */ "./node_modules/moment/moment.js"));
-var react_1 = __importDefault(__webpack_require__(/*! react */ "./node_modules/react/index.js"));
+var react_1 = __importStar(__webpack_require__(/*! react */ "./node_modules/react/index.js"));
 var ResumeCard_1 = __importDefault(__webpack_require__(/*! ../../../components/molecules/ContentElements/ResumeCard */ "./src/components/molecules/ContentElements/ResumeCard/index.tsx"));
 var useRootData_1 = __importDefault(__webpack_require__(/*! ../../../hooks/useRootData */ "./src/hooks/useRootData.ts"));
 var Desktop_module_scss_1 = __importDefault(__webpack_require__(/*! ./Desktop.module.scss */ "./src/pages/Career/templates/Desktop.module.scss"));
@@ -70913,7 +70931,8 @@ var App = function () {
         });
     }), isDesktopView = _a.isDesktopView, resumeArrayInLatestOrder = _a.resumeArrayInLatestOrder;
     var styles = isDesktopView ? Desktop_module_scss_1.default : Mobile_module_scss_1.default;
-    return (react_1.default.createElement("div", { className: styles.container },
+    var containerRef = (0, react_1.useRef)(null);
+    return (react_1.default.createElement("div", { ref: containerRef, className: styles.container },
         react_1.default.createElement(Timeline_1.default, { className: styles.timelineArea, position: isDesktopView ? 'alternate' : null }, resumeArrayInLatestOrder.map(function (item, index) {
             var startAt = item.startAt, endAt = item.endAt;
             return (react_1.default.createElement(TimelineItem_1.default, { key: index },
@@ -70984,14 +71003,17 @@ var App = function () {
         });
     }).isDesktopView;
     var styles = isDesktopView ? Desktop_module_scss_1.default : Mobile_module_scss_1.default;
-    return (react_1.default.createElement("div", { className: styles.container },
-        react_1.default.createElement("div", { className: styles.titleBox },
-            react_1.default.createElement(Image_1.default, { className: styles.profileImage, src: profile_jpg_1.default }),
-            react_1.default.createElement("div", { className: styles.titleTextBox },
-                react_1.default.createElement(Text_1.default, { className: styles.greetingText, text: 'Hi, 👋' }),
-                react_1.default.createElement(Text_1.default, { className: styles.greetingText, text: "I'm Jayce" }))),
-        react_1.default.createElement(Text_1.default, { className: styles.wiseSayingText, text: "Code doesn't lie." }),
-        react_1.default.createElement(react_typed_1.default, { className: styles.myselfText, strings: ['만족하지 못하면 찜찜함에 잠을 못자는 개발자 "박희승"입니다.'], typeSpeed: 40 })));
+    return (react_1.default.createElement("div", { className: styles.frame },
+        react_1.default.createElement("div", { className: styles.container },
+            react_1.default.createElement("div", { className: styles.titleBox },
+                react_1.default.createElement(Image_1.default, { className: styles.profileImage, src: profile_jpg_1.default }),
+                react_1.default.createElement("div", { className: styles.titleTextBox },
+                    react_1.default.createElement(Text_1.default, { className: styles.greetingText, text: 'Hi, 👋' }),
+                    react_1.default.createElement(Text_1.default, { className: styles.greetingText, text: "I'm Jayce" }))),
+            react_1.default.createElement(Text_1.default, { className: styles.wiseSayingText, text: "Code doesn't lie." }),
+            isDesktopView ? (react_1.default.createElement(react_typed_1.default, { className: styles.myselfText, strings: ['만족하지 못하면 찜찜함에 잠을 못자는 개발자 "박희승"입니다.'], typeSpeed: 40 })) : (react_1.default.createElement(react_1.default.Fragment, null,
+                react_1.default.createElement(Text_1.default, { className: styles.myselfText, text: '만족하지 못하면 찜찜함에' }),
+                react_1.default.createElement(Text_1.default, { className: styles.myselfText, text: '잠을 못자는 개발자 "박희승"입니다.' }))))));
 };
 exports["default"] = App;
 
@@ -72838,7 +72860,7 @@ function combine (array, callback) {
 /******/ 	
 /******/ 	/* webpack/runtime/getFullHash */
 /******/ 	(() => {
-/******/ 		__webpack_require__.h = () => ("dc66c66030cb9977cd4d")
+/******/ 		__webpack_require__.h = () => ("33c04684b796f0cdae8e")
 /******/ 	})();
 /******/ 	
 /******/ 	/* webpack/runtime/global */
@@ -73917,4 +73939,4 @@ function combine (array, callback) {
 /******/ 	
 /******/ })()
 ;
-//# sourceMappingURL=main.dc66c66030cb9977cd4d.js.map
+//# sourceMappingURL=main.33c04684b796f0cdae8e.js.map
