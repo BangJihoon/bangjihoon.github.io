@@ -10,7 +10,7 @@
 
   .flex {
     margin: 0 auto;
-    width: 980px;
+    max-width: 980px;
     display: flex;
     justify-content: space-between;
     align-items: flex-end;
