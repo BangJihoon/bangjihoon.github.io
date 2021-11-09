@@ -6,22 +6,14 @@ body {
   background-color: $primary;
 }
 
-body::-webkit-scrollbar {
-  display: block;
-  width: 12px;
-  height: 12px;
+* {
+  -ms-overflow-style: none; /* for Internet Explorer, Edge */
+  scrollbar-width: none; /* for Firefox */
+  -webkit-tap-highlight-color: transparent;
 }
-body::-webkit-scrollbar-track {
-  background-color: #f1f1f1;
-  -webkit-border-radius: 20px;
-  border-radius: 20px;
-}
-body::-webkit-scrollbar-thumb {
-  background-color: #c1c1c1;
-  border: 2px solid transparent;
-  background-clip: content-box;
-  -webkit-border-radius: 20px;
-  border-radius: 20px;
+
+::-webkit-scrollbar {
+  display: none; /* for Chrome, Safari, and Opera */
 }
 
 // https://d2.naver.com/helloworld/4969726
@@ -109,9 +101,4 @@ input[type='number'] {
 // svg file dynamic change
 svg use {
   pointer-events: none;
-}
-
-* {
-  // Android mobile cursor pointer transparent
-  -webkit-tap-highlight-color: transparent;
 }
