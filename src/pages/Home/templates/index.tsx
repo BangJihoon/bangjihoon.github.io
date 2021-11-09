@@ -24,10 +24,12 @@ const App: React.FunctionComponent<HomeTemplateProps> = ({ style }: HomeTemplate
       <div className={styles.container}>
         <div className={styles.titleBox}>
           <Image className={styles.profileImage} src={ProfileSrc}></Image>
-          <div className={styles.titleTextBox}>
-            <Text className={styles.greetingText} text={'Hi, 👋'}></Text>
-            <Text className={styles.greetingText} text={"I'm Jayce"}></Text>
-          </div>
+          {isDesktopView && (
+            <div className={styles.titleTextBox}>
+              <Text className={styles.greetingText} text={'Hi, 👋'}></Text>
+              <Text className={styles.greetingText} text={"I'm Jayce"}></Text>
+            </div>
+          )}
         </div>
         <Text className={styles.wiseSayingText} text={"Code doesn't lie."}></Text>
         {isDesktopView ? (
