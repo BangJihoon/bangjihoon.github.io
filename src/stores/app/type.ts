@@ -15,6 +15,7 @@ export enum TeckStackEnum {
   SCSS = 'Scss',
   STORYBOOK = 'StoryBook',
   ZEPLIN = 'Zeplin',
+  NEXT_JS = 'NextJS',
   REACT_JS = 'ReactJs',
   VUE_JS = 'VueJs',
   NODE_JS = 'NodeJs',

@@ -11,18 +11,20 @@ export const mySkillObject: {
     TeckStackEnum.HTML,
     TeckStackEnum.SCSS,
   ],
-  'Back-End': [
-    TeckStackEnum.NODE_JS,
-    TeckStackEnum.EXPRESS,
-    TeckStackEnum.GRAPHQL,
-    TeckStackEnum.POSTGRE,
-    TeckStackEnum.FIREBASE,
-    TeckStackEnum.S3,
-  ],
+  'Back-End': [TeckStackEnum.NODE_JS, TeckStackEnum.EXPRESS, TeckStackEnum.GRAPHQL, TeckStackEnum.FIREBASE],
   Etc: [TeckStackEnum.GIT, TeckStackEnum.GA, TeckStackEnum.AMPLITUDE, TeckStackEnum.SLACK, TeckStackEnum.TRELLO],
 }
 
 export const myResumeArray: Array<ResumeObject> = [
+  // {
+  //   startAt: new Date('2021-11-01'),
+  //   endAt: null,
+  //   title: 'Caramora_org',
+  //   teckStack: [TeckStackEnum.NEXT_JS, TeckStackEnum.FIREBASE, TeckStackEnum.GA],
+  //   description: [
+  //     '자동차 백과사전'
+  //   ]
+  // },
   {
     startAt: new Date('2020-05-01'),
     endAt: null,
@@ -35,7 +37,6 @@ export const myResumeArray: Array<ResumeObject> = [
       TeckStackEnum.HASURA,
       TeckStackEnum.POSTGRE,
       TeckStackEnum.MOBX,
-      TeckStackEnum.S3,
       TeckStackEnum.FIREBASE,
       TeckStackEnum.GA,
       TeckStackEnum.AMPLITUDE,
@@ -46,6 +47,7 @@ export const myResumeArray: Array<ResumeObject> = [
       '로그인, 주문, 결제 등 각종 API 제작',
       '각종 결제 모듈 연동(stripe, bootpay)',
       '채팅 솔루션 연동(zendesk)',
+      '렌더링 최적화, 첫로딩 최적화',
       'ga, hotjar, vwo, amplitude를 통한 유저 사용 분석 및 A/B Test를 통해 conversion 개선',
     ],
   },
@@ -82,13 +84,7 @@ export const myResumeArray: Array<ResumeObject> = [
     startAt: new Date('2019-10-01'),
     endAt: new Date('2020-06-01'),
     title: '썬팅 상담 챗봇(박혜지 봇)',
-    teckStack: [
-      TeckStackEnum.NODE_JS,
-      TeckStackEnum.TYPESCRIPT,
-      TeckStackEnum.DIALOGFLOW,
-      TeckStackEnum.DJANGO,
-      TeckStackEnum.GRAPHQL,
-    ],
+    teckStack: [TeckStackEnum.NODE_JS, TeckStackEnum.TYPESCRIPT, TeckStackEnum.DIALOGFLOW, TeckStackEnum.GRAPHQL],
     description: [
       '사람인 척하는 고객 상담 전처리 챗봇 개발',
       'zendesk 채팅 솔루션과 연동(챗봇의 역할이 끝나면 사람 상담원에게 handover)',
@@ -111,7 +107,6 @@ export const myResumeArray: Array<ResumeObject> = [
     description: [
       '자동차 온라인 마켓플레이스 테스트 파일럿 프로젝트',
       '최종 전환을 끌어올리기 위한 각종 A/B Test, Test variable진행',
-      '루마썬팅 및 딜러 관리 페이지 유지보수',
     ],
   },
   {
@@ -119,7 +114,7 @@ export const myResumeArray: Array<ResumeObject> = [
     endAt: new Date('2020-02-01'),
     title: 'Llumar Admin',
     teckStack: [TeckStackEnum.VUE_JS, TeckStackEnum.VUEX, TeckStackEnum.NODE_JS],
-    description: ['루마썬팅 및 딜러 관리 페이지 유지보수'],
+    description: ['딜러 포인트 관리, 재고 페이지 유지보수'],
   },
   {
     startAt: new Date('2019-06-01'),
