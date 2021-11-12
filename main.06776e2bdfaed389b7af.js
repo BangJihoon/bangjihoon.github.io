@@ -7759,7 +7759,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "a0bd87518ffad11d0416d5b82f4af502.jpg");
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "29789736c57f5f2009d06cf60b7b4187.jpg");
 
 /***/ }),
 
@@ -9321,7 +9321,7 @@ __webpack_require__.r(__webpack_exports__);
 // extracted by mini-css-extract-plugin
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({"primary":"#02112f","black":"#000000","blueLightGrey1":"#f6f8f9","blueLightGrey2":"#eff1f4","blueLightGrey3":"#e9ecef","blueLightGrey4":"#e6e7ee","blueLightGrey5":"#dadce5","bodyBlack":"#333333","bodyGrey":"#acacac","charcoal":"#545454","coolGrey":"#949596","darkCharcoal":"#4c4c4c","darkGrey":"#6d7278","favouriteYellow":"#ffd54f","grey1":"#efefef","grey2":"#e1e1e1","grey3":"#d8d8d8","grey4":"#adadad","lightGreen":"#13c4a3","lightGrey":"#f8f8f8","placeholder":"#b7b7b7","white":"#ffffff","darkRed":"#d93025"});
     if(true) {
-      // 1636642549398
+      // 1636724295501
       var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ "./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js")(module.id, {"locals":true});
       module.hot.dispose(cssReload);
       
@@ -9344,7 +9344,7 @@ __webpack_require__.r(__webpack_exports__);
 // extracted by mini-css-extract-plugin
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({"primary":"#02112f","black":"#000000","blueLightGrey1":"#f6f8f9","blueLightGrey2":"#eff1f4","blueLightGrey3":"#e9ecef","blueLightGrey4":"#e6e7ee","blueLightGrey5":"#dadce5","bodyBlack":"#333333","bodyGrey":"#acacac","charcoal":"#545454","coolGrey":"#949596","darkCharcoal":"#4c4c4c","darkGrey":"#6d7278","favouriteYellow":"#ffd54f","grey1":"#efefef","grey2":"#e1e1e1","grey3":"#d8d8d8","grey4":"#adadad","lightGreen":"#13c4a3","lightGrey":"#f8f8f8","placeholder":"#b7b7b7","white":"#ffffff","darkRed":"#d93025","container":"Desktop-module__container___2DVnD","titleText":"Desktop-module__titleText___1c4GA","hashtagArea":"Desktop-module__hashtagArea___19-vP","hashtag":"Desktop-module__hashtag___2NebK","descriptionArea":"Desktop-module__descriptionArea___2KRJz","descriptionText":"Desktop-module__descriptionText___3vg_x"});
     if(true) {
-      // 1636642550327
+      // 1636724296482
       var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ "./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js")(module.id, {"locals":true});
       module.hot.dispose(cssReload);
       
@@ -9367,7 +9367,30 @@ __webpack_require__.r(__webpack_exports__);
 // extracted by mini-css-extract-plugin
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({"primary":"#02112f","black":"#000000","blueLightGrey1":"#f6f8f9","blueLightGrey2":"#eff1f4","blueLightGrey3":"#e9ecef","blueLightGrey4":"#e6e7ee","blueLightGrey5":"#dadce5","bodyBlack":"#333333","bodyGrey":"#acacac","charcoal":"#545454","coolGrey":"#949596","darkCharcoal":"#4c4c4c","darkGrey":"#6d7278","favouriteYellow":"#ffd54f","grey1":"#efefef","grey2":"#e1e1e1","grey3":"#d8d8d8","grey4":"#adadad","lightGreen":"#13c4a3","lightGrey":"#f8f8f8","placeholder":"#b7b7b7","white":"#ffffff","darkRed":"#d93025","container":"Mobile-module__container___3oV8p","titleText":"Mobile-module__titleText___1Rpnd","hashtagArea":"Mobile-module__hashtagArea___1MZJF","hashtag":"Mobile-module__hashtag___16yAM","descriptionArea":"Mobile-module__descriptionArea___1_9Hk","descriptionText":"Mobile-module__descriptionText___2ymJP"});
     if(true) {
-      // 1636642550325
+      // 1636724296483
+      var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ "./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js")(module.id, {"locals":true});
+      module.hot.dispose(cssReload);
+      
+    }
+  
+
+/***/ }),
+
+/***/ "./src/components/molecules/ContentElements/RotateImage/index.module.scss":
+/*!********************************************************************************!*\
+  !*** ./src/components/molecules/ContentElements/RotateImage/index.module.scss ***!
+  \********************************************************************************/
+/***/ ((module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+// extracted by mini-css-extract-plugin
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({"rotate":"index-module__rotate___1G3wo"});
+    if(true) {
+      // 1636724296493
       var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ "./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js")(module.id, {"locals":true});
       module.hot.dispose(cssReload);
       
@@ -9390,7 +9413,7 @@ __webpack_require__.r(__webpack_exports__);
 // extracted by mini-css-extract-plugin
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({"primary":"#02112f","black":"#000000","blueLightGrey1":"#f6f8f9","blueLightGrey2":"#eff1f4","blueLightGrey3":"#e9ecef","blueLightGrey4":"#e6e7ee","blueLightGrey5":"#dadce5","bodyBlack":"#333333","bodyGrey":"#acacac","charcoal":"#545454","coolGrey":"#949596","darkCharcoal":"#4c4c4c","darkGrey":"#6d7278","favouriteYellow":"#ffd54f","grey1":"#efefef","grey2":"#e1e1e1","grey3":"#d8d8d8","grey4":"#adadad","lightGreen":"#13c4a3","lightGrey":"#f8f8f8","placeholder":"#b7b7b7","white":"#ffffff","darkRed":"#d93025","container":"Desktop-module__container___3gtm1","titleText":"Desktop-module__titleText___1LbFZ","stackBox":"Desktop-module__stackBox___1cKTe","stackText":"Desktop-module__stackText___Mmn77"});
     if(true) {
-      // 1636642550346
+      // 1636724296538
       var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ "./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js")(module.id, {"locals":true});
       module.hot.dispose(cssReload);
       
@@ -9413,7 +9436,7 @@ __webpack_require__.r(__webpack_exports__);
 // extracted by mini-css-extract-plugin
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({"primary":"#02112f","black":"#000000","blueLightGrey1":"#f6f8f9","blueLightGrey2":"#eff1f4","blueLightGrey3":"#e9ecef","blueLightGrey4":"#e6e7ee","blueLightGrey5":"#dadce5","bodyBlack":"#333333","bodyGrey":"#acacac","charcoal":"#545454","coolGrey":"#949596","darkCharcoal":"#4c4c4c","darkGrey":"#6d7278","favouriteYellow":"#ffd54f","grey1":"#efefef","grey2":"#e1e1e1","grey3":"#d8d8d8","grey4":"#adadad","lightGreen":"#13c4a3","lightGrey":"#f8f8f8","placeholder":"#b7b7b7","white":"#ffffff","darkRed":"#d93025","container":"Mobile-module__container___cTB26","titleText":"Mobile-module__titleText___NSo1J","stackBox":"Mobile-module__stackBox___3-LZ2","stackText":"Mobile-module__stackText___CPiwB"});
     if(true) {
-      // 1636642550390
+      // 1636724296541
       var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ "./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js")(module.id, {"locals":true});
       module.hot.dispose(cssReload);
       
@@ -9436,7 +9459,7 @@ __webpack_require__.r(__webpack_exports__);
 // extracted by mini-css-extract-plugin
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({"primary":"#02112f","black":"#000000","blueLightGrey1":"#f6f8f9","blueLightGrey2":"#eff1f4","blueLightGrey3":"#e9ecef","blueLightGrey4":"#e6e7ee","blueLightGrey5":"#dadce5","bodyBlack":"#333333","bodyGrey":"#acacac","charcoal":"#545454","coolGrey":"#949596","darkCharcoal":"#4c4c4c","darkGrey":"#6d7278","favouriteYellow":"#ffd54f","grey1":"#efefef","grey2":"#e1e1e1","grey3":"#d8d8d8","grey4":"#adadad","lightGreen":"#13c4a3","lightGrey":"#f8f8f8","placeholder":"#b7b7b7","white":"#ffffff","darkRed":"#d93025","container":"Desktop-module__container___DaG7a","flex":"Desktop-module__flex___2f2NV","leftBox":"Desktop-module__leftBox___2hX4l","copyRightText":"Desktop-module__copyRightText___2J3Or","rightBox":"Desktop-module__rightBox___3RKWt","iconBox":"Desktop-module__iconBox___lbc2e","icon":"Desktop-module__icon___vw70d"});
     if(true) {
-      // 1636642550368
+      // 1636724296428
       var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ "./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js")(module.id, {"locals":true});
       module.hot.dispose(cssReload);
       
@@ -9459,7 +9482,7 @@ __webpack_require__.r(__webpack_exports__);
 // extracted by mini-css-extract-plugin
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({"primary":"#02112f","black":"#000000","blueLightGrey1":"#f6f8f9","blueLightGrey2":"#eff1f4","blueLightGrey3":"#e9ecef","blueLightGrey4":"#e6e7ee","blueLightGrey5":"#dadce5","bodyBlack":"#333333","bodyGrey":"#acacac","charcoal":"#545454","coolGrey":"#949596","darkCharcoal":"#4c4c4c","darkGrey":"#6d7278","favouriteYellow":"#ffd54f","grey1":"#efefef","grey2":"#e1e1e1","grey3":"#d8d8d8","grey4":"#adadad","lightGreen":"#13c4a3","lightGrey":"#f8f8f8","placeholder":"#b7b7b7","white":"#ffffff","darkRed":"#d93025","container":"Mobile-module__container___33aG7","flex":"Mobile-module__flex___rCUic","leftBox":"Mobile-module__leftBox___NIeYr","copyRightText":"Mobile-module__copyRightText___f3EUh","rightBox":"Mobile-module__rightBox___9bW3N","iconBox":"Mobile-module__iconBox___bTzwZ","icon":"Mobile-module__icon___1_AiE"});
     if(true) {
-      // 1636642550420
+      // 1636724296455
       var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ "./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js")(module.id, {"locals":true});
       module.hot.dispose(cssReload);
       
@@ -9482,7 +9505,7 @@ __webpack_require__.r(__webpack_exports__);
 // extracted by mini-css-extract-plugin
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({"primary":"#02112f","black":"#000000","blueLightGrey1":"#f6f8f9","blueLightGrey2":"#eff1f4","blueLightGrey3":"#e9ecef","blueLightGrey4":"#e6e7ee","blueLightGrey5":"#dadce5","bodyBlack":"#333333","bodyGrey":"#acacac","charcoal":"#545454","coolGrey":"#949596","darkCharcoal":"#4c4c4c","darkGrey":"#6d7278","favouriteYellow":"#ffd54f","grey1":"#efefef","grey2":"#e1e1e1","grey3":"#d8d8d8","grey4":"#adadad","lightGreen":"#13c4a3","lightGrey":"#f8f8f8","placeholder":"#b7b7b7","white":"#ffffff","darkRed":"#d93025","container":"Desktop-module__container___vRKDY","logo":"Desktop-module__logo___3iL8-","menuButtonGroup":"Desktop-module__menuButtonGroup___32zrC","menuButton":"Desktop-module__menuButton___2dLNw"});
     if(true) {
-      // 1636642550392
+      // 1636724296426
       var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ "./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js")(module.id, {"locals":true});
       module.hot.dispose(cssReload);
       
@@ -9505,7 +9528,7 @@ __webpack_require__.r(__webpack_exports__);
 // extracted by mini-css-extract-plugin
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({"primary":"#02112f","black":"#000000","blueLightGrey1":"#f6f8f9","blueLightGrey2":"#eff1f4","blueLightGrey3":"#e9ecef","blueLightGrey4":"#e6e7ee","blueLightGrey5":"#dadce5","bodyBlack":"#333333","bodyGrey":"#acacac","charcoal":"#545454","coolGrey":"#949596","darkCharcoal":"#4c4c4c","darkGrey":"#6d7278","favouriteYellow":"#ffd54f","grey1":"#efefef","grey2":"#e1e1e1","grey3":"#d8d8d8","grey4":"#adadad","lightGreen":"#13c4a3","lightGrey":"#f8f8f8","placeholder":"#b7b7b7","white":"#ffffff","darkRed":"#d93025","container":"Mobile-module__container___3vbU0","logo":"Mobile-module__logo___3M3er","menuButtonGroup":"Mobile-module__menuButtonGroup___VmJxh","menuButton":"Mobile-module__menuButton___2b6dw"});
     if(true) {
-      // 1636642550422
+      // 1636724296424
       var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ "./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js")(module.id, {"locals":true});
       module.hot.dispose(cssReload);
       
@@ -9528,7 +9551,7 @@ __webpack_require__.r(__webpack_exports__);
 // extracted by mini-css-extract-plugin
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({"primary":"#02112f","black":"#000000","blueLightGrey1":"#f6f8f9","blueLightGrey2":"#eff1f4","blueLightGrey3":"#e9ecef","blueLightGrey4":"#e6e7ee","blueLightGrey5":"#dadce5","bodyBlack":"#333333","bodyGrey":"#acacac","charcoal":"#545454","coolGrey":"#949596","darkCharcoal":"#4c4c4c","darkGrey":"#6d7278","favouriteYellow":"#ffd54f","grey1":"#efefef","grey2":"#e1e1e1","grey3":"#d8d8d8","grey4":"#adadad","lightGreen":"#13c4a3","lightGrey":"#f8f8f8","placeholder":"#b7b7b7","white":"#ffffff","darkRed":"#d93025","frame":"Desktop-module__frame___3poLG","container":"Desktop-module__container___uB5BF","leftArea":"Desktop-module__leftArea___25X3n","titleBox":"Desktop-module__titleBox___3Jnve","text":"Desktop-module__text___iIejC","image":"Desktop-module__image___3_wP0","aboutTextBox":"Desktop-module__aboutTextBox___1p-y6","aboutText":"Desktop-module__aboutText___af7ku","rightArea":"Desktop-module__rightArea___2OvmN"});
     if(true) {
-      // 1636642550174
+      // 1636724296303
       var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ "./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js")(module.id, {"locals":true});
       module.hot.dispose(cssReload);
       
@@ -9551,7 +9574,7 @@ __webpack_require__.r(__webpack_exports__);
 // extracted by mini-css-extract-plugin
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({"primary":"#02112f","black":"#000000","blueLightGrey1":"#f6f8f9","blueLightGrey2":"#eff1f4","blueLightGrey3":"#e9ecef","blueLightGrey4":"#e6e7ee","blueLightGrey5":"#dadce5","bodyBlack":"#333333","bodyGrey":"#acacac","charcoal":"#545454","coolGrey":"#949596","darkCharcoal":"#4c4c4c","darkGrey":"#6d7278","favouriteYellow":"#ffd54f","grey1":"#efefef","grey2":"#e1e1e1","grey3":"#d8d8d8","grey4":"#adadad","lightGreen":"#13c4a3","lightGrey":"#f8f8f8","placeholder":"#b7b7b7","white":"#ffffff","darkRed":"#d93025","frame":"Mobile-module__frame___3cOKF","container":"Mobile-module__container___2TsDO","leftArea":"Mobile-module__leftArea___3rdMF","titleBox":"Mobile-module__titleBox___GkrPz","text":"Mobile-module__text___FRAaQ","image":"Mobile-module__image___3SyYj","aboutTextBox":"Mobile-module__aboutTextBox___3sQTM","aboutText":"Mobile-module__aboutText___2O0xA","rightArea":"Mobile-module__rightArea___6lmP5"});
     if(true) {
-      // 1636642550176
+      // 1636724296305
       var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ "./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js")(module.id, {"locals":true});
       module.hot.dispose(cssReload);
       
@@ -9574,7 +9597,7 @@ __webpack_require__.r(__webpack_exports__);
 // extracted by mini-css-extract-plugin
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({"primary":"#02112f","black":"#000000","blueLightGrey1":"#f6f8f9","blueLightGrey2":"#eff1f4","blueLightGrey3":"#e9ecef","blueLightGrey4":"#e6e7ee","blueLightGrey5":"#dadce5","bodyBlack":"#333333","bodyGrey":"#acacac","charcoal":"#545454","coolGrey":"#949596","darkCharcoal":"#4c4c4c","darkGrey":"#6d7278","favouriteYellow":"#ffd54f","grey1":"#efefef","grey2":"#e1e1e1","grey3":"#d8d8d8","grey4":"#adadad","lightGreen":"#13c4a3","lightGrey":"#f8f8f8","placeholder":"#b7b7b7","white":"#ffffff","darkRed":"#d93025","container":"Desktop-module__container___1vVha","titleText":"Desktop-module__titleText___HSpLw","timelineArea":"Desktop-module__timelineArea___2mpIq","dateText":"Desktop-module__dateText___167bt"});
     if(true) {
-      // 1636642550038
+      // 1636724296158
       var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ "./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js")(module.id, {"locals":true});
       module.hot.dispose(cssReload);
       
@@ -9597,7 +9620,7 @@ __webpack_require__.r(__webpack_exports__);
 // extracted by mini-css-extract-plugin
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({"primary":"#02112f","black":"#000000","blueLightGrey1":"#f6f8f9","blueLightGrey2":"#eff1f4","blueLightGrey3":"#e9ecef","blueLightGrey4":"#e6e7ee","blueLightGrey5":"#dadce5","bodyBlack":"#333333","bodyGrey":"#acacac","charcoal":"#545454","coolGrey":"#949596","darkCharcoal":"#4c4c4c","darkGrey":"#6d7278","favouriteYellow":"#ffd54f","grey1":"#efefef","grey2":"#e1e1e1","grey3":"#d8d8d8","grey4":"#adadad","lightGreen":"#13c4a3","lightGrey":"#f8f8f8","placeholder":"#b7b7b7","white":"#ffffff","darkRed":"#d93025","container":"Mobile-module__container___2Thzq","titleText":"Mobile-module__titleText___BmFY9","timelineArea":"Mobile-module__timelineArea___1XdKZ","dateText":"Mobile-module__dateText___HbCRU"});
     if(true) {
-      // 1636642550035
+      // 1636724296162
       var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ "./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js")(module.id, {"locals":true});
       module.hot.dispose(cssReload);
       
@@ -9620,7 +9643,7 @@ __webpack_require__.r(__webpack_exports__);
 // extracted by mini-css-extract-plugin
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({"primary":"#02112f","black":"#000000","blueLightGrey1":"#f6f8f9","blueLightGrey2":"#eff1f4","blueLightGrey3":"#e9ecef","blueLightGrey4":"#e6e7ee","blueLightGrey5":"#dadce5","bodyBlack":"#333333","bodyGrey":"#acacac","charcoal":"#545454","coolGrey":"#949596","darkCharcoal":"#4c4c4c","darkGrey":"#6d7278","favouriteYellow":"#ffd54f","grey1":"#efefef","grey2":"#e1e1e1","grey3":"#d8d8d8","grey4":"#adadad","lightGreen":"#13c4a3","lightGrey":"#f8f8f8","placeholder":"#b7b7b7","white":"#ffffff","darkRed":"#d93025","frame":"Desktop-module__frame___3JrUU","container":"Desktop-module__container___1axfQ","titleBox":"Desktop-module__titleBox___3HZ34","profileImage":"Desktop-module__profileImage___2AgGB","titleTextBox":"Desktop-module__titleTextBox___SbYVo","greetingText":"Desktop-module__greetingText___3BqC6","wiseSayingText":"Desktop-module__wiseSayingText___1HVny","myselfText":"Desktop-module__myselfText___LSXs_","guideBox":"Desktop-module__guideBox___3V1_z","downArrowImage":"Desktop-module__downArrowImage___2_MmE","downArrowText":"Desktop-module__downArrowText___2xJIL"});
     if(true) {
-      // 1636642550041
+      // 1636724296298
       var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ "./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js")(module.id, {"locals":true});
       module.hot.dispose(cssReload);
       
@@ -9643,7 +9666,7 @@ __webpack_require__.r(__webpack_exports__);
 // extracted by mini-css-extract-plugin
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({"primary":"#02112f","black":"#000000","blueLightGrey1":"#f6f8f9","blueLightGrey2":"#eff1f4","blueLightGrey3":"#e9ecef","blueLightGrey4":"#e6e7ee","blueLightGrey5":"#dadce5","bodyBlack":"#333333","bodyGrey":"#acacac","charcoal":"#545454","coolGrey":"#949596","darkCharcoal":"#4c4c4c","darkGrey":"#6d7278","favouriteYellow":"#ffd54f","grey1":"#efefef","grey2":"#e1e1e1","grey3":"#d8d8d8","grey4":"#adadad","lightGreen":"#13c4a3","lightGrey":"#f8f8f8","placeholder":"#b7b7b7","white":"#ffffff","darkRed":"#d93025","frame":"Mobile-module__frame___2gLt2","container":"Mobile-module__container___3ZXi8","titleBox":"Mobile-module__titleBox___vMR9P","profileImage":"Mobile-module__profileImage___1sm8Z","titleTextBox":"Mobile-module__titleTextBox___17RD6","greetingText":"Mobile-module__greetingText___eJTk9","wiseSayingText":"Mobile-module__wiseSayingText___2FFLi","myselfText":"Mobile-module__myselfText___1gqPy","guideBox":"Mobile-module__guideBox___3JK5W","downArrowImage":"Mobile-module__downArrowImage___2wd9l","downArrowText":"Mobile-module__downArrowText___q6kHz"});
     if(true) {
-      // 1636642550171
+      // 1636724296166
       var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ "./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js")(module.id, {"locals":true});
       module.hot.dispose(cssReload);
       
@@ -70480,6 +70503,79 @@ exports["default"] = App;
 
 /***/ }),
 
+/***/ "./src/components/molecules/ContentElements/RotateImage/index.tsx":
+/*!************************************************************************!*\
+  !*** ./src/components/molecules/ContentElements/RotateImage/index.tsx ***!
+  \************************************************************************/
+/***/ (function(__unused_webpack_module, exports, __webpack_require__) {
+
+"use strict";
+
+var __createBinding = (this && this.__createBinding) || (Object.create ? (function(o, m, k, k2) {
+    if (k2 === undefined) k2 = k;
+    Object.defineProperty(o, k2, { enumerable: true, get: function() { return m[k]; } });
+}) : (function(o, m, k, k2) {
+    if (k2 === undefined) k2 = k;
+    o[k2] = m[k];
+}));
+var __setModuleDefault = (this && this.__setModuleDefault) || (Object.create ? (function(o, v) {
+    Object.defineProperty(o, "default", { enumerable: true, value: v });
+}) : function(o, v) {
+    o["default"] = v;
+});
+var __importStar = (this && this.__importStar) || function (mod) {
+    if (mod && mod.__esModule) return mod;
+    var result = {};
+    if (mod != null) for (var k in mod) if (k !== "default" && Object.prototype.hasOwnProperty.call(mod, k)) __createBinding(result, mod, k);
+    __setModuleDefault(result, mod);
+    return result;
+};
+var __importDefault = (this && this.__importDefault) || function (mod) {
+    return (mod && mod.__esModule) ? mod : { "default": mod };
+};
+Object.defineProperty(exports, "__esModule", ({ value: true }));
+var react_1 = __importStar(__webpack_require__(/*! react */ "./node_modules/react/index.js"));
+var index_module_scss_1 = __importDefault(__webpack_require__(/*! ./index.module.scss */ "./src/components/molecules/ContentElements/RotateImage/index.module.scss"));
+var onClickStartTime;
+var onClickPositionX;
+var onMouseLeavePositionX;
+var RotateImage = function (_a) {
+    var className = _a.className, src = _a.src;
+    var canvasRef = (0, react_1.useRef)(null);
+    (0, react_1.useEffect)(function () {
+        if (canvasRef.current) {
+            var originImage_1 = new Image();
+            originImage_1.src = src;
+            originImage_1.onload = function () {
+                var ctx = canvasRef.current.getContext('2d');
+                canvasRef.current.width = originImage_1.naturalWidth * 0.5;
+                canvasRef.current.height = originImage_1.naturalHeight * 0.5;
+                ctx.drawImage(originImage_1, 0, 0, originImage_1.naturalWidth * 0.5, originImage_1.naturalHeight * 0.5);
+            };
+        }
+    }, [canvasRef]);
+    return (react_1.default.createElement("canvas", { ref: canvasRef, className: className, onMouseDown: function (e) {
+            onClickStartTime = e.timeStamp;
+            onClickPositionX = e.screenX;
+        }, onMouseOver: function () {
+            onClickStartTime = null;
+            canvasRef.current.style.animation = null;
+        }, onMouseLeave: function (e) {
+            onMouseLeavePositionX = e.screenX;
+            if (!onClickStartTime)
+                return;
+            var arrowRight = onMouseLeavePositionX > onClickPositionX;
+            if (!arrowRight)
+                return;
+            var duration = (e.timeStamp - onClickStartTime) / 1000;
+            canvasRef.current.style.animation = index_module_scss_1.default.rotate + " " + duration * 3 + "s ease-out";
+        } }));
+};
+exports["default"] = RotateImage;
+
+
+/***/ }),
+
 /***/ "./src/components/molecules/ContentElements/TeckStackCard/index.tsx":
 /*!**************************************************************************!*\
   !*** ./src/components/molecules/ContentElements/TeckStackCard/index.tsx ***!
@@ -71024,6 +71120,7 @@ var downArrow_gif_1 = __importDefault(__webpack_require__(/*! ../../../assets/im
 var profile_jpg_1 = __importDefault(__webpack_require__(/*! ../../../assets/images/profile.jpg */ "./src/assets/images/profile.jpg"));
 var Image_1 = __importDefault(__webpack_require__(/*! ../../../components/atom/Image */ "./src/components/atom/Image/index.tsx"));
 var Text_1 = __importDefault(__webpack_require__(/*! ../../../components/atom/Text */ "./src/components/atom/Text/index.tsx"));
+var RotateImage_1 = __importDefault(__webpack_require__(/*! ../../../components/molecules/ContentElements/RotateImage */ "./src/components/molecules/ContentElements/RotateImage/index.tsx"));
 var useRootData_1 = __importDefault(__webpack_require__(/*! ../../../hooks/useRootData */ "./src/hooks/useRootData.ts"));
 var Desktop_module_scss_1 = __importDefault(__webpack_require__(/*! ./Desktop.module.scss */ "./src/pages/Home/templates/Desktop.module.scss"));
 var Mobile_module_scss_1 = __importDefault(__webpack_require__(/*! ./Mobile.module.scss */ "./src/pages/Home/templates/Mobile.module.scss"));
@@ -71039,7 +71136,7 @@ var App = function (_a) {
     return (react_1.default.createElement("div", { style: style, className: styles.frame },
         react_1.default.createElement("div", { className: styles.container },
             react_1.default.createElement("div", { className: styles.titleBox },
-                react_1.default.createElement(Image_1.default, { className: styles.profileImage, src: profile_jpg_1.default }),
+                react_1.default.createElement(RotateImage_1.default, { className: styles.profileImage, src: profile_jpg_1.default }),
                 isDesktopView && (react_1.default.createElement("div", { className: styles.titleTextBox },
                     react_1.default.createElement(Text_1.default, { className: styles.greetingText, text: 'Hi, 👋' }),
                     react_1.default.createElement(Text_1.default, { className: styles.greetingText, text: "I'm Jayce" })))),
@@ -71339,7 +71436,7 @@ var TeckStackEnum;
     TeckStackEnum["TRELLO"] = "Trello";
     TeckStackEnum["FIREBASE"] = "Firebase";
     TeckStackEnum["DJANGO"] = "Django";
-    TeckStackEnum["HotJAR"] = "Hotjar";
+    TeckStackEnum["HOTJAR"] = "Hotjar";
     TeckStackEnum["DIALOGFLOW"] = "DialogFlow";
     TeckStackEnum["YOLO"] = "YOLO";
     TeckStackEnum["ROS"] = "ROS";
@@ -72892,7 +72989,7 @@ function combine (array, callback) {
 /******/ 	
 /******/ 	/* webpack/runtime/getFullHash */
 /******/ 	(() => {
-/******/ 		__webpack_require__.h = () => ("d0cb7a4c97e08e3aebeb")
+/******/ 		__webpack_require__.h = () => ("06776e2bdfaed389b7af")
 /******/ 	})();
 /******/ 	
 /******/ 	/* webpack/runtime/global */
@@ -73971,4 +74068,4 @@ function combine (array, callback) {
 /******/ 	
 /******/ })()
 ;
-//# sourceMappingURL=main.d0cb7a4c97e08e3aebeb.js.map
+//# sourceMappingURL=main.06776e2bdfaed389b7af.js.map
