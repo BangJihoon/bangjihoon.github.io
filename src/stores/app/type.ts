@@ -38,7 +38,7 @@ export enum TeckStackEnum {
   TRELLO = 'Trello',
   FIREBASE = 'Firebase',
   DJANGO = 'Django',
-  HotJAR = 'Hotjar',
+  HOTJAR = 'Hotjar',
   DIALOGFLOW = 'DialogFlow',
   YOLO = 'YOLO',
   ROS = 'ROS',

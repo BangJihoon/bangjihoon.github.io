@@ -5,6 +5,7 @@ import downArrowGif from '../../../assets/images/gif/downArrow.gif'
 import ProfileSrc from '../../../assets/images/profile.jpg'
 import Image from '../../../components/atom/Image'
 import Text from '../../../components/atom/Text'
+import RotateImage from '../../../components/molecules/ContentElements/RotateImage'
 import useRootData from '../../../hooks/useRootData'
 import stylesDesktop from './Desktop.module.scss'
 import stylesMobile from './Mobile.module.scss'
@@ -23,7 +24,7 @@ const App: React.FunctionComponent<HomeTemplateProps> = ({ style }: HomeTemplate
     <div style={style} className={styles.frame}>
       <div className={styles.container}>
         <div className={styles.titleBox}>
-          <Image className={styles.profileImage} src={ProfileSrc}></Image>
+          <RotateImage className={styles.profileImage} src={ProfileSrc}></RotateImage>
           {isDesktopView && (
             <div className={styles.titleTextBox}>
               <Text className={styles.greetingText} text={'Hi, 👋'}></Text>
