@@ -1,7 +1,7 @@
 import React from 'react'
 import Typed from 'react-typed'
 
-import downArrowGif from '../../../assets/images/gif/downArrow.gif'
+import arrowDownGif from '../../../assets/images/gif/arrowDown.gif'
 import ProfileSrc from '../../../assets/images/profile.jpg'
 import Image from '../../../components/atom/Image'
 import Text from '../../../components/atom/Text'
@@ -47,7 +47,7 @@ const App: React.FunctionComponent<HomeTemplateProps> = ({ style }: HomeTemplate
         )}
         <div className={styles.guideBox}>
           <Text className={styles.downArrowText} text={'Scroll'}></Text>
-          <Image className={styles.downArrowImage} src={downArrowGif}></Image>
+          <Image className={styles.downArrowImage} src={arrowDownGif}></Image>
         </div>
       </div>
     </div>
