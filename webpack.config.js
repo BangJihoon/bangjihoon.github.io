@@ -2,6 +2,7 @@ const webpack = require('webpack')
 const HtmlWebPackPlugin = require('html-webpack-plugin')
 const MiniCssExtractPlugin = require('mini-css-extract-plugin')
 const { CleanWebpackPlugin } = require('clean-webpack-plugin')
+const UglifyJSPlugin = require('uglifyjs-webpack-plugin')
 
 const isDevelopment = process.env.NODE_ENV === 'development'
 
@@ -131,7 +132,7 @@ module.exports = {
   output: {
     path: `${__dirname}/dist`,
     publicPath: '/',
-    filename: '[name].[hash].js',
+    filename: '[name].[chunkhash].js',
   },
   plugins: [
     new HtmlWebPackPlugin({
@@ -147,10 +148,11 @@ module.exports = {
     new CleanWebpackPlugin(),
     new webpack.HotModuleReplacementPlugin(),
     new MiniCssExtractPlugin({
-      filename: '[name].[hash].css',
-      chunkFilename: '[id].[hash].css',
+      filename: '[name].[chunkhash].css',
+      chunkFilename: '[id].[chunkhash].css',
     }),
-  ],
+    !isDevelopment && new UglifyJSPlugin(),
+  ].filter((n) => n),
   devServer: {
     historyApiFallback: true,
     static: './dist',

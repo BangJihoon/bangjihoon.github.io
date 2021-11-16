@@ -26,7 +26,7 @@ const createStore = (): typeof appStore => {
       const resumeArray = appStore.resumeArray.get()
       if (!resumeArray) return []
 
-      return resumeArray.sort((a, b) => {
+      return [...resumeArray].sort((a, b) => {
         return moment(b.startAt).unix() - moment(a.startAt).unix()
       })
     },
