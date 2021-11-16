@@ -7658,9 +7658,9 @@ function toVal(mix) {
 
 /***/ }),
 
-/***/ "./src/assets/images/gif/downArrow.gif":
+/***/ "./src/assets/images/gif/arrowDown.gif":
 /*!*********************************************!*\
-  !*** ./src/assets/images/gif/downArrow.gif ***!
+  !*** ./src/assets/images/gif/arrowDown.gif ***!
   \*********************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
@@ -9321,7 +9321,7 @@ __webpack_require__.r(__webpack_exports__);
 // extracted by mini-css-extract-plugin
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({"primary":"#02112f","black":"#000000","blueLightGrey1":"#f6f8f9","blueLightGrey2":"#eff1f4","blueLightGrey3":"#e9ecef","blueLightGrey4":"#e6e7ee","blueLightGrey5":"#dadce5","bodyBlack":"#333333","bodyGrey":"#acacac","charcoal":"#545454","coolGrey":"#949596","darkCharcoal":"#4c4c4c","darkGrey":"#6d7278","favouriteYellow":"#ffd54f","grey1":"#efefef","grey2":"#e1e1e1","grey3":"#d8d8d8","grey4":"#adadad","lightGreen":"#13c4a3","lightGrey":"#f8f8f8","placeholder":"#b7b7b7","white":"#ffffff","darkRed":"#d93025"});
     if(true) {
-      // 1636724295501
+      // 1637070232370
       var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ "./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js")(module.id, {"locals":true});
       module.hot.dispose(cssReload);
       
@@ -9344,7 +9344,7 @@ __webpack_require__.r(__webpack_exports__);
 // extracted by mini-css-extract-plugin
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({"primary":"#02112f","black":"#000000","blueLightGrey1":"#f6f8f9","blueLightGrey2":"#eff1f4","blueLightGrey3":"#e9ecef","blueLightGrey4":"#e6e7ee","blueLightGrey5":"#dadce5","bodyBlack":"#333333","bodyGrey":"#acacac","charcoal":"#545454","coolGrey":"#949596","darkCharcoal":"#4c4c4c","darkGrey":"#6d7278","favouriteYellow":"#ffd54f","grey1":"#efefef","grey2":"#e1e1e1","grey3":"#d8d8d8","grey4":"#adadad","lightGreen":"#13c4a3","lightGrey":"#f8f8f8","placeholder":"#b7b7b7","white":"#ffffff","darkRed":"#d93025","container":"Desktop-module__container___2DVnD","titleText":"Desktop-module__titleText___1c4GA","hashtagArea":"Desktop-module__hashtagArea___19-vP","hashtag":"Desktop-module__hashtag___2NebK","descriptionArea":"Desktop-module__descriptionArea___2KRJz","descriptionText":"Desktop-module__descriptionText___3vg_x"});
     if(true) {
-      // 1636724296482
+      // 1637070233177
       var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ "./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js")(module.id, {"locals":true});
       module.hot.dispose(cssReload);
       
@@ -9367,7 +9367,7 @@ __webpack_require__.r(__webpack_exports__);
 // extracted by mini-css-extract-plugin
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({"primary":"#02112f","black":"#000000","blueLightGrey1":"#f6f8f9","blueLightGrey2":"#eff1f4","blueLightGrey3":"#e9ecef","blueLightGrey4":"#e6e7ee","blueLightGrey5":"#dadce5","bodyBlack":"#333333","bodyGrey":"#acacac","charcoal":"#545454","coolGrey":"#949596","darkCharcoal":"#4c4c4c","darkGrey":"#6d7278","favouriteYellow":"#ffd54f","grey1":"#efefef","grey2":"#e1e1e1","grey3":"#d8d8d8","grey4":"#adadad","lightGreen":"#13c4a3","lightGrey":"#f8f8f8","placeholder":"#b7b7b7","white":"#ffffff","darkRed":"#d93025","container":"Mobile-module__container___3oV8p","titleText":"Mobile-module__titleText___1Rpnd","hashtagArea":"Mobile-module__hashtagArea___1MZJF","hashtag":"Mobile-module__hashtag___16yAM","descriptionArea":"Mobile-module__descriptionArea___1_9Hk","descriptionText":"Mobile-module__descriptionText___2ymJP"});
     if(true) {
-      // 1636724296483
+      // 1637070233179
       var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ "./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js")(module.id, {"locals":true});
       module.hot.dispose(cssReload);
       
@@ -9390,7 +9390,7 @@ __webpack_require__.r(__webpack_exports__);
 // extracted by mini-css-extract-plugin
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({"rotate":"index-module__rotate___1G3wo"});
     if(true) {
-      // 1636724296493
+      // 1637070233147
       var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ "./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js")(module.id, {"locals":true});
       module.hot.dispose(cssReload);
       
@@ -9413,7 +9413,7 @@ __webpack_require__.r(__webpack_exports__);
 // extracted by mini-css-extract-plugin
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({"primary":"#02112f","black":"#000000","blueLightGrey1":"#f6f8f9","blueLightGrey2":"#eff1f4","blueLightGrey3":"#e9ecef","blueLightGrey4":"#e6e7ee","blueLightGrey5":"#dadce5","bodyBlack":"#333333","bodyGrey":"#acacac","charcoal":"#545454","coolGrey":"#949596","darkCharcoal":"#4c4c4c","darkGrey":"#6d7278","favouriteYellow":"#ffd54f","grey1":"#efefef","grey2":"#e1e1e1","grey3":"#d8d8d8","grey4":"#adadad","lightGreen":"#13c4a3","lightGrey":"#f8f8f8","placeholder":"#b7b7b7","white":"#ffffff","darkRed":"#d93025","container":"Desktop-module__container___3gtm1","titleText":"Desktop-module__titleText___1LbFZ","stackBox":"Desktop-module__stackBox___1cKTe","stackText":"Desktop-module__stackText___Mmn77"});
     if(true) {
-      // 1636724296538
+      // 1637070233193
       var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ "./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js")(module.id, {"locals":true});
       module.hot.dispose(cssReload);
       
@@ -9436,7 +9436,7 @@ __webpack_require__.r(__webpack_exports__);
 // extracted by mini-css-extract-plugin
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({"primary":"#02112f","black":"#000000","blueLightGrey1":"#f6f8f9","blueLightGrey2":"#eff1f4","blueLightGrey3":"#e9ecef","blueLightGrey4":"#e6e7ee","blueLightGrey5":"#dadce5","bodyBlack":"#333333","bodyGrey":"#acacac","charcoal":"#545454","coolGrey":"#949596","darkCharcoal":"#4c4c4c","darkGrey":"#6d7278","favouriteYellow":"#ffd54f","grey1":"#efefef","grey2":"#e1e1e1","grey3":"#d8d8d8","grey4":"#adadad","lightGreen":"#13c4a3","lightGrey":"#f8f8f8","placeholder":"#b7b7b7","white":"#ffffff","darkRed":"#d93025","container":"Mobile-module__container___cTB26","titleText":"Mobile-module__titleText___NSo1J","stackBox":"Mobile-module__stackBox___3-LZ2","stackText":"Mobile-module__stackText___CPiwB"});
     if(true) {
-      // 1636724296541
+      // 1637070233204
       var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ "./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js")(module.id, {"locals":true});
       module.hot.dispose(cssReload);
       
@@ -9459,7 +9459,7 @@ __webpack_require__.r(__webpack_exports__);
 // extracted by mini-css-extract-plugin
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({"primary":"#02112f","black":"#000000","blueLightGrey1":"#f6f8f9","blueLightGrey2":"#eff1f4","blueLightGrey3":"#e9ecef","blueLightGrey4":"#e6e7ee","blueLightGrey5":"#dadce5","bodyBlack":"#333333","bodyGrey":"#acacac","charcoal":"#545454","coolGrey":"#949596","darkCharcoal":"#4c4c4c","darkGrey":"#6d7278","favouriteYellow":"#ffd54f","grey1":"#efefef","grey2":"#e1e1e1","grey3":"#d8d8d8","grey4":"#adadad","lightGreen":"#13c4a3","lightGrey":"#f8f8f8","placeholder":"#b7b7b7","white":"#ffffff","darkRed":"#d93025","container":"Desktop-module__container___DaG7a","flex":"Desktop-module__flex___2f2NV","leftBox":"Desktop-module__leftBox___2hX4l","copyRightText":"Desktop-module__copyRightText___2J3Or","rightBox":"Desktop-module__rightBox___3RKWt","iconBox":"Desktop-module__iconBox___lbc2e","icon":"Desktop-module__icon___vw70d"});
     if(true) {
-      // 1636724296428
+      // 1637070233109
       var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ "./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js")(module.id, {"locals":true});
       module.hot.dispose(cssReload);
       
@@ -9482,7 +9482,7 @@ __webpack_require__.r(__webpack_exports__);
 // extracted by mini-css-extract-plugin
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({"primary":"#02112f","black":"#000000","blueLightGrey1":"#f6f8f9","blueLightGrey2":"#eff1f4","blueLightGrey3":"#e9ecef","blueLightGrey4":"#e6e7ee","blueLightGrey5":"#dadce5","bodyBlack":"#333333","bodyGrey":"#acacac","charcoal":"#545454","coolGrey":"#949596","darkCharcoal":"#4c4c4c","darkGrey":"#6d7278","favouriteYellow":"#ffd54f","grey1":"#efefef","grey2":"#e1e1e1","grey3":"#d8d8d8","grey4":"#adadad","lightGreen":"#13c4a3","lightGrey":"#f8f8f8","placeholder":"#b7b7b7","white":"#ffffff","darkRed":"#d93025","container":"Mobile-module__container___33aG7","flex":"Mobile-module__flex___rCUic","leftBox":"Mobile-module__leftBox___NIeYr","copyRightText":"Mobile-module__copyRightText___f3EUh","rightBox":"Mobile-module__rightBox___9bW3N","iconBox":"Mobile-module__iconBox___bTzwZ","icon":"Mobile-module__icon___1_AiE"});
     if(true) {
-      // 1636724296455
+      // 1637070233076
       var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ "./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js")(module.id, {"locals":true});
       module.hot.dispose(cssReload);
       
@@ -9505,7 +9505,7 @@ __webpack_require__.r(__webpack_exports__);
 // extracted by mini-css-extract-plugin
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({"primary":"#02112f","black":"#000000","blueLightGrey1":"#f6f8f9","blueLightGrey2":"#eff1f4","blueLightGrey3":"#e9ecef","blueLightGrey4":"#e6e7ee","blueLightGrey5":"#dadce5","bodyBlack":"#333333","bodyGrey":"#acacac","charcoal":"#545454","coolGrey":"#949596","darkCharcoal":"#4c4c4c","darkGrey":"#6d7278","favouriteYellow":"#ffd54f","grey1":"#efefef","grey2":"#e1e1e1","grey3":"#d8d8d8","grey4":"#adadad","lightGreen":"#13c4a3","lightGrey":"#f8f8f8","placeholder":"#b7b7b7","white":"#ffffff","darkRed":"#d93025","container":"Desktop-module__container___vRKDY","logo":"Desktop-module__logo___3iL8-","menuButtonGroup":"Desktop-module__menuButtonGroup___32zrC","menuButton":"Desktop-module__menuButton___2dLNw"});
     if(true) {
-      // 1636724296426
+      // 1637070233080
       var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ "./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js")(module.id, {"locals":true});
       module.hot.dispose(cssReload);
       
@@ -9528,7 +9528,7 @@ __webpack_require__.r(__webpack_exports__);
 // extracted by mini-css-extract-plugin
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({"primary":"#02112f","black":"#000000","blueLightGrey1":"#f6f8f9","blueLightGrey2":"#eff1f4","blueLightGrey3":"#e9ecef","blueLightGrey4":"#e6e7ee","blueLightGrey5":"#dadce5","bodyBlack":"#333333","bodyGrey":"#acacac","charcoal":"#545454","coolGrey":"#949596","darkCharcoal":"#4c4c4c","darkGrey":"#6d7278","favouriteYellow":"#ffd54f","grey1":"#efefef","grey2":"#e1e1e1","grey3":"#d8d8d8","grey4":"#adadad","lightGreen":"#13c4a3","lightGrey":"#f8f8f8","placeholder":"#b7b7b7","white":"#ffffff","darkRed":"#d93025","container":"Mobile-module__container___3vbU0","logo":"Mobile-module__logo___3M3er","menuButtonGroup":"Mobile-module__menuButtonGroup___VmJxh","menuButton":"Mobile-module__menuButton___2b6dw"});
     if(true) {
-      // 1636724296424
+      // 1637070233093
       var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ "./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js")(module.id, {"locals":true});
       module.hot.dispose(cssReload);
       
@@ -9551,7 +9551,7 @@ __webpack_require__.r(__webpack_exports__);
 // extracted by mini-css-extract-plugin
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({"primary":"#02112f","black":"#000000","blueLightGrey1":"#f6f8f9","blueLightGrey2":"#eff1f4","blueLightGrey3":"#e9ecef","blueLightGrey4":"#e6e7ee","blueLightGrey5":"#dadce5","bodyBlack":"#333333","bodyGrey":"#acacac","charcoal":"#545454","coolGrey":"#949596","darkCharcoal":"#4c4c4c","darkGrey":"#6d7278","favouriteYellow":"#ffd54f","grey1":"#efefef","grey2":"#e1e1e1","grey3":"#d8d8d8","grey4":"#adadad","lightGreen":"#13c4a3","lightGrey":"#f8f8f8","placeholder":"#b7b7b7","white":"#ffffff","darkRed":"#d93025","frame":"Desktop-module__frame___3poLG","container":"Desktop-module__container___uB5BF","leftArea":"Desktop-module__leftArea___25X3n","titleBox":"Desktop-module__titleBox___3Jnve","text":"Desktop-module__text___iIejC","image":"Desktop-module__image___3_wP0","aboutTextBox":"Desktop-module__aboutTextBox___1p-y6","aboutText":"Desktop-module__aboutText___af7ku","rightArea":"Desktop-module__rightArea___2OvmN"});
     if(true) {
-      // 1636724296303
+      // 1637070233008
       var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ "./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js")(module.id, {"locals":true});
       module.hot.dispose(cssReload);
       
@@ -9574,7 +9574,7 @@ __webpack_require__.r(__webpack_exports__);
 // extracted by mini-css-extract-plugin
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({"primary":"#02112f","black":"#000000","blueLightGrey1":"#f6f8f9","blueLightGrey2":"#eff1f4","blueLightGrey3":"#e9ecef","blueLightGrey4":"#e6e7ee","blueLightGrey5":"#dadce5","bodyBlack":"#333333","bodyGrey":"#acacac","charcoal":"#545454","coolGrey":"#949596","darkCharcoal":"#4c4c4c","darkGrey":"#6d7278","favouriteYellow":"#ffd54f","grey1":"#efefef","grey2":"#e1e1e1","grey3":"#d8d8d8","grey4":"#adadad","lightGreen":"#13c4a3","lightGrey":"#f8f8f8","placeholder":"#b7b7b7","white":"#ffffff","darkRed":"#d93025","frame":"Mobile-module__frame___3cOKF","container":"Mobile-module__container___2TsDO","leftArea":"Mobile-module__leftArea___3rdMF","titleBox":"Mobile-module__titleBox___GkrPz","text":"Mobile-module__text___FRAaQ","image":"Mobile-module__image___3SyYj","aboutTextBox":"Mobile-module__aboutTextBox___3sQTM","aboutText":"Mobile-module__aboutText___2O0xA","rightArea":"Mobile-module__rightArea___6lmP5"});
     if(true) {
-      // 1636724296305
+      // 1637070233042
       var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ "./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js")(module.id, {"locals":true});
       module.hot.dispose(cssReload);
       
@@ -9597,7 +9597,7 @@ __webpack_require__.r(__webpack_exports__);
 // extracted by mini-css-extract-plugin
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({"primary":"#02112f","black":"#000000","blueLightGrey1":"#f6f8f9","blueLightGrey2":"#eff1f4","blueLightGrey3":"#e9ecef","blueLightGrey4":"#e6e7ee","blueLightGrey5":"#dadce5","bodyBlack":"#333333","bodyGrey":"#acacac","charcoal":"#545454","coolGrey":"#949596","darkCharcoal":"#4c4c4c","darkGrey":"#6d7278","favouriteYellow":"#ffd54f","grey1":"#efefef","grey2":"#e1e1e1","grey3":"#d8d8d8","grey4":"#adadad","lightGreen":"#13c4a3","lightGrey":"#f8f8f8","placeholder":"#b7b7b7","white":"#ffffff","darkRed":"#d93025","container":"Desktop-module__container___1vVha","titleText":"Desktop-module__titleText___HSpLw","timelineArea":"Desktop-module__timelineArea___2mpIq","dateText":"Desktop-module__dateText___167bt"});
     if(true) {
-      // 1636724296158
+      // 1637070232951
       var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ "./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js")(module.id, {"locals":true});
       module.hot.dispose(cssReload);
       
@@ -9620,7 +9620,7 @@ __webpack_require__.r(__webpack_exports__);
 // extracted by mini-css-extract-plugin
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({"primary":"#02112f","black":"#000000","blueLightGrey1":"#f6f8f9","blueLightGrey2":"#eff1f4","blueLightGrey3":"#e9ecef","blueLightGrey4":"#e6e7ee","blueLightGrey5":"#dadce5","bodyBlack":"#333333","bodyGrey":"#acacac","charcoal":"#545454","coolGrey":"#949596","darkCharcoal":"#4c4c4c","darkGrey":"#6d7278","favouriteYellow":"#ffd54f","grey1":"#efefef","grey2":"#e1e1e1","grey3":"#d8d8d8","grey4":"#adadad","lightGreen":"#13c4a3","lightGrey":"#f8f8f8","placeholder":"#b7b7b7","white":"#ffffff","darkRed":"#d93025","container":"Mobile-module__container___2Thzq","titleText":"Mobile-module__titleText___BmFY9","timelineArea":"Mobile-module__timelineArea___1XdKZ","dateText":"Mobile-module__dateText___HbCRU"});
     if(true) {
-      // 1636724296162
+      // 1637070232947
       var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ "./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js")(module.id, {"locals":true});
       module.hot.dispose(cssReload);
       
@@ -9643,7 +9643,7 @@ __webpack_require__.r(__webpack_exports__);
 // extracted by mini-css-extract-plugin
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({"primary":"#02112f","black":"#000000","blueLightGrey1":"#f6f8f9","blueLightGrey2":"#eff1f4","blueLightGrey3":"#e9ecef","blueLightGrey4":"#e6e7ee","blueLightGrey5":"#dadce5","bodyBlack":"#333333","bodyGrey":"#acacac","charcoal":"#545454","coolGrey":"#949596","darkCharcoal":"#4c4c4c","darkGrey":"#6d7278","favouriteYellow":"#ffd54f","grey1":"#efefef","grey2":"#e1e1e1","grey3":"#d8d8d8","grey4":"#adadad","lightGreen":"#13c4a3","lightGrey":"#f8f8f8","placeholder":"#b7b7b7","white":"#ffffff","darkRed":"#d93025","frame":"Desktop-module__frame___3JrUU","container":"Desktop-module__container___1axfQ","titleBox":"Desktop-module__titleBox___3HZ34","profileImage":"Desktop-module__profileImage___2AgGB","titleTextBox":"Desktop-module__titleTextBox___SbYVo","greetingText":"Desktop-module__greetingText___3BqC6","wiseSayingText":"Desktop-module__wiseSayingText___1HVny","myselfText":"Desktop-module__myselfText___LSXs_","guideBox":"Desktop-module__guideBox___3V1_z","downArrowImage":"Desktop-module__downArrowImage___2_MmE","downArrowText":"Desktop-module__downArrowText___2xJIL"});
     if(true) {
-      // 1636724296298
+      // 1637070233004
       var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ "./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js")(module.id, {"locals":true});
       module.hot.dispose(cssReload);
       
@@ -9666,7 +9666,7 @@ __webpack_require__.r(__webpack_exports__);
 // extracted by mini-css-extract-plugin
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({"primary":"#02112f","black":"#000000","blueLightGrey1":"#f6f8f9","blueLightGrey2":"#eff1f4","blueLightGrey3":"#e9ecef","blueLightGrey4":"#e6e7ee","blueLightGrey5":"#dadce5","bodyBlack":"#333333","bodyGrey":"#acacac","charcoal":"#545454","coolGrey":"#949596","darkCharcoal":"#4c4c4c","darkGrey":"#6d7278","favouriteYellow":"#ffd54f","grey1":"#efefef","grey2":"#e1e1e1","grey3":"#d8d8d8","grey4":"#adadad","lightGreen":"#13c4a3","lightGrey":"#f8f8f8","placeholder":"#b7b7b7","white":"#ffffff","darkRed":"#d93025","frame":"Mobile-module__frame___2gLt2","container":"Mobile-module__container___3ZXi8","titleBox":"Mobile-module__titleBox___vMR9P","profileImage":"Mobile-module__profileImage___1sm8Z","titleTextBox":"Mobile-module__titleTextBox___17RD6","greetingText":"Mobile-module__greetingText___eJTk9","wiseSayingText":"Mobile-module__wiseSayingText___2FFLi","myselfText":"Mobile-module__myselfText___1gqPy","guideBox":"Mobile-module__guideBox___3JK5W","downArrowImage":"Mobile-module__downArrowImage___2wd9l","downArrowText":"Mobile-module__downArrowText___q6kHz"});
     if(true) {
-      // 1636724296166
+      // 1637070232953
       var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ "./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js")(module.id, {"locals":true});
       module.hot.dispose(cssReload);
       
@@ -70338,9 +70338,10 @@ var react_1 = __importStar(__webpack_require__(/*! react */ "./node_modules/reac
 var react_grid_system_1 = __webpack_require__(/*! react-grid-system */ "./node_modules/react-grid-system/build/index.js");
 var react_router_dom_1 = __webpack_require__(/*! react-router-dom */ "./node_modules/react-router-dom/esm/react-router-dom.js");
 var useRootData_1 = __importDefault(__webpack_require__(/*! ./hooks/useRootData */ "./src/hooks/useRootData.ts"));
-var About_1 = __importDefault(__webpack_require__(/*! ./pages/About */ "./src/pages/About/index.tsx"));
-var Career_1 = __importDefault(__webpack_require__(/*! ./pages/Career */ "./src/pages/Career/index.tsx"));
-var Home_1 = __importDefault(__webpack_require__(/*! ./pages/Home */ "./src/pages/Home/index.tsx"));
+var Default_1 = __importDefault(__webpack_require__(/*! ./layouts/Layouts/Default */ "./src/layouts/Layouts/Default/index.tsx"));
+var Home = (0, react_1.lazy)(function () { return Promise.resolve().then(function () { return __importStar(__webpack_require__(/*! ./pages/Home */ "./src/pages/Home/index.tsx")); }); });
+var About = (0, react_1.lazy)(function () { return Promise.resolve().then(function () { return __importStar(__webpack_require__(/*! ./pages/About */ "./src/pages/About/index.tsx")); }); });
+var Career = (0, react_1.lazy)(function () { return Promise.resolve().then(function () { return __importStar(__webpack_require__(/*! ./pages/Career */ "./src/pages/Career/index.tsx")); }); });
 var App = function () {
     var _a = (0, useRootData_1.default)(function (_a) {
         var appStore = _a.appStore;
@@ -70363,10 +70364,11 @@ var App = function () {
         changeScreenClass(currentScreenClass === 'xxl' ? 'xl' : currentScreenClass);
     }, [currentScreenClass]);
     return (react_1.default.createElement("div", { ref: componentRef },
-        react_1.default.createElement(react_router_dom_1.Switch, null,
-            react_1.default.createElement(react_router_dom_1.Route, { path: "/career", component: Career_1.default }),
-            react_1.default.createElement(react_router_dom_1.Route, { path: "/about", component: About_1.default }),
-            react_1.default.createElement(react_router_dom_1.Route, { path: "/", component: Home_1.default }))));
+        react_1.default.createElement(react_1.Suspense, { fallback: Default_1.default },
+            react_1.default.createElement(react_router_dom_1.Switch, null,
+                react_1.default.createElement(react_router_dom_1.Route, { path: "/career", component: Career }),
+                react_1.default.createElement(react_router_dom_1.Route, { path: "/about", component: About }),
+                react_1.default.createElement(react_router_dom_1.Route, { exact: true, path: "/", component: Home })))));
 };
 exports["default"] = App;
 
@@ -71116,7 +71118,7 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
 Object.defineProperty(exports, "__esModule", ({ value: true }));
 var react_1 = __importDefault(__webpack_require__(/*! react */ "./node_modules/react/index.js"));
 var react_typed_1 = __importDefault(__webpack_require__(/*! react-typed */ "./node_modules/react-typed/dist/react-typed.js"));
-var downArrow_gif_1 = __importDefault(__webpack_require__(/*! ../../../assets/images/gif/downArrow.gif */ "./src/assets/images/gif/downArrow.gif"));
+var arrowDown_gif_1 = __importDefault(__webpack_require__(/*! ../../../assets/images/gif/arrowDown.gif */ "./src/assets/images/gif/arrowDown.gif"));
 var profile_jpg_1 = __importDefault(__webpack_require__(/*! ../../../assets/images/profile.jpg */ "./src/assets/images/profile.jpg"));
 var Image_1 = __importDefault(__webpack_require__(/*! ../../../components/atom/Image */ "./src/components/atom/Image/index.tsx"));
 var Text_1 = __importDefault(__webpack_require__(/*! ../../../components/atom/Text */ "./src/components/atom/Text/index.tsx"));
@@ -71146,7 +71148,7 @@ var App = function (_a) {
                 react_1.default.createElement(Text_1.default, { className: styles.myselfText, text: '잠을 못자는 개발자 "박희승"입니다.' }))),
             react_1.default.createElement("div", { className: styles.guideBox },
                 react_1.default.createElement(Text_1.default, { className: styles.downArrowText, text: 'Scroll' }),
-                react_1.default.createElement(Image_1.default, { className: styles.downArrowImage, src: downArrow_gif_1.default })))));
+                react_1.default.createElement(Image_1.default, { className: styles.downArrowImage, src: arrowDown_gif_1.default })))));
 };
 exports["default"] = App;
 
@@ -71337,6 +71339,15 @@ exports.myResumeArray = [
 
 "use strict";
 
+var __spreadArray = (this && this.__spreadArray) || function (to, from, pack) {
+    if (pack || arguments.length === 2) for (var i = 0, l = from.length, ar; i < l; i++) {
+        if (ar || !(i in from)) {
+            if (!ar) ar = Array.prototype.slice.call(from, 0, i);
+            ar[i] = from[i];
+        }
+    }
+    return to.concat(ar || Array.prototype.slice.call(from));
+};
 var __importDefault = (this && this.__importDefault) || function (mod) {
     return (mod && mod.__esModule) ? mod : { "default": mod };
 };
@@ -71361,7 +71372,7 @@ var createStore = function () {
             var resumeArray = appStore.resumeArray.get();
             if (!resumeArray)
                 return [];
-            return resumeArray.sort(function (a, b) {
+            return __spreadArray([], resumeArray, true).sort(function (a, b) {
                 return (0, moment_1.default)(b.startAt).unix() - (0, moment_1.default)(a.startAt).unix();
             });
         },
@@ -72989,7 +73000,7 @@ function combine (array, callback) {
 /******/ 	
 /******/ 	/* webpack/runtime/getFullHash */
 /******/ 	(() => {
-/******/ 		__webpack_require__.h = () => ("06776e2bdfaed389b7af")
+/******/ 		__webpack_require__.h = () => ("8ce8a077e89419ad7dfc")
 /******/ 	})();
 /******/ 	
 /******/ 	/* webpack/runtime/global */
@@ -74068,4 +74079,4 @@ function combine (array, callback) {
 /******/ 	
 /******/ })()
 ;
-//# sourceMappingURL=main.06776e2bdfaed389b7af.js.map
+//# sourceMappingURL=main.8ce8a077e89419ad7dfc.js.map
