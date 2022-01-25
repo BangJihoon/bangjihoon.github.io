@@ -27,22 +27,22 @@ const App: React.FunctionComponent<HomeTemplateProps> = ({ style }: HomeTemplate
           <RotateImage className={styles.profileImage} src={ProfileSrc}></RotateImage>
           {isDesktopView && (
             <div className={styles.titleTextBox}>
-              <Text className={styles.greetingText} text={'Hi, 👋'}></Text>
-              <Text className={styles.greetingText} text={"I'm Jayce"}></Text>
+              <Text className={styles.greetingText} text={'Hello World 👋'}></Text>
+              <Text className={styles.greetingText} text={"I'm jihoon Bang "}></Text>
             </div>
           )}
         </div>
-        <Text className={styles.wiseSayingText} text={"Code doesn't lie."}></Text>
+        <Text className={styles.wiseSayingText} text={"Get into the New World"}></Text>
         {isDesktopView ? (
           <Typed
             className={styles.myselfText}
-            strings={['만족하지 못하면 찜찜함에 잠을 못자는 개발자 "박희승"입니다.']}
+            strings={['내 소개를 하지, 나는 방지훈, 자바 개발자']}
             typeSpeed={40}
           />
         ) : (
           <>
-            <Text className={styles.myselfText} text={'만족하지 못하면 찜찜함에'} />
-            <Text className={styles.myselfText} text={'잠을 못자는 개발자 "박희승"입니다.'} />
+            <Text className={styles.myselfText} text={'그냥 흘러갈 순 없지'} />
+            <Text className={styles.myselfText} text={'부딪히고 넘어져도 괜찮아'} />
           </>
         )}
         <div className={styles.guideBox}>
