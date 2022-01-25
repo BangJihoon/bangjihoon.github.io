@@ -3,6 +3,7 @@ import React from 'react'
 import GithubIcon from '../../../assets/images/icons/github.png'
 import InstargramIcon from '../../../assets/images/icons/instargram.png'
 import LinkedInIcon from '../../../assets/images/icons/linkedIn.png'
+import TistoryIcon from '../../../assets/images/icons/TistoryIcon.png'
 import YoutubeIcon from '../../../assets/images/icons/youtube.png'
 import Image from '../../../components/atom/Image'
 import Text from '../../../components/atom/Text'
@@ -25,19 +26,15 @@ const App: React.FunctionComponent = () => {
   const linkIconArray: Array<LinkIcon> = [
     {
       icon: GithubIcon,
-      link: 'https://github.com/parkheeseung',
+      link: 'https://github.com/bangbangu4',
     },
     {
-      icon: LinkedInIcon,
-      link: 'https://www.linkedin.com/in/%ED%9D%AC%EC%8A%B9-%EB%B0%95-b05058175/',
-    },
-    {
-      icon: YoutubeIcon,
-      link: 'https://www.youtube.com/channel/UCir3YHb8o_XFfHDFT53Bymw',
+      icon: TistoryIcon,
+      link: 'https://bangu4.tistory.com/',
     },
     {
       icon: InstargramIcon,
-      link: 'https://www.instagram.com/huiseung_park/?hl=ko',
+      link: 'https://www.instagram.com/bangu4/',
     },
   ]
 
@@ -50,7 +47,7 @@ const App: React.FunctionComponent = () => {
       <div>
         <div className={styles.flex}>
           <div className={styles.leftBox}>
-            <Text className={styles.copyRightText} text={'© Jayce Park 2021'}></Text>
+            <Text className={styles.copyRightText} text={'© 2021 Jayce, Last Modify by BangJihoon in 2022.01'}></Text>
           </div>
           <div className={styles.rightBox}>
             <div className={styles.iconBox}>

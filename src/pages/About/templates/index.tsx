@@ -32,7 +32,7 @@ const App: React.FunctionComponent = () => {
             <Typed
               onComplete={(): void => setIsTypedComplate(true)}
               className={styles.text}
-              strings={['console.log(박희승)']}
+              strings={['System.out.println(&quot;방지훈&quot;);']}
               typeSpeed={70}
             ></Typed>
           </div>

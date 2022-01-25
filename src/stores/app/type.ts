@@ -48,6 +48,7 @@ export enum TeckStackEnum {
   UBUNTU = 'Ubuntu',
   TENSORFLOW = 'Tensorflow',
   RASPBERRY_PI = 'RaspberryPi',
+  Java = 'Java',
 }
 
 export interface ResumeObject {

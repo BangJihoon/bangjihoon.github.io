@@ -23,32 +23,37 @@ const App: React.FunctionComponent<HomeTemplateProps> = ({ style }: HomeTemplate
   return (
     <div style={style} className={styles.frame}>
       <div className={styles.container}>
+      
         <div className={styles.titleBox}>
           <RotateImage className={styles.profileImage} src={ProfileSrc}></RotateImage>
           {isDesktopView && (
             <div className={styles.titleTextBox}>
               <Text className={styles.greetingText} text={'Hello World 👋'}></Text>
-              <Text className={styles.greetingText} text={"I'm jihoon Bang "}></Text>
+              <Text className={styles.greetingText} text={"I'm  Bang Jihoon "}></Text>
             </div>
           )}
         </div>
+        
         <Text className={styles.wiseSayingText} text={"Get into the New World"}></Text>
+        
         {isDesktopView ? (
           <Typed
             className={styles.myselfText}
-            strings={['내 소개를 하지, 나는 방지훈, 자바 개발자']}
+            strings={['자바가 좋아요<br/>백엔드가 좋아요']}
             typeSpeed={40}
           />
         ) : (
           <>
-            <Text className={styles.myselfText} text={'그냥 흘러갈 순 없지'} />
-            <Text className={styles.myselfText} text={'부딪히고 넘어져도 괜찮아'} />
+            <Text className={styles.myselfText} text={'자바가 좋아요'} />
+            <Text className={styles.myselfText} text={'백엔드가 좋아요'} />
           </>
         )}
+        
         <div className={styles.guideBox}>
           <Text className={styles.downArrowText} text={'Scroll'}></Text>
           <Image className={styles.downArrowImage} src={arrowDownGif}></Image>
         </div>
+        
       </div>
     </div>
   )
