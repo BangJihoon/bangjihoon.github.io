@@ -16,7 +16,7 @@
         position: relative;
         margin-bottom: 80px;
         .text {
-          font-size: 40px;
+          font-size: 30px;
           font-weight: bold;
           color: $white;
         }
@@ -29,17 +29,17 @@
         }
       }
       .aboutTextBox {
-        width: 480px;
+        width: 600px;
         margin-left: 20px;
         .aboutText {
           margin-bottom: 20px;
-          font-size: 15px;
+          font-size: 17px;
           color: $white;
         }
       }
     }
     .rightArea {
-      width: 400px;
+      width: 600px;
     }
   }
 }

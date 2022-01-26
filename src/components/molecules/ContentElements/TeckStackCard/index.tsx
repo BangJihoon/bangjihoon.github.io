@@ -9,6 +9,7 @@ interface PropsTeckStackCard {
   isDesktopView: boolean
   title: string
   teckStackArray: Array<string>
+  teckText : string
 }
 
 const App: React.FunctionComponent<PropsTeckStackCard> = ({
@@ -16,6 +17,8 @@ const App: React.FunctionComponent<PropsTeckStackCard> = ({
   isDesktopView,
   title,
   teckStackArray,
+  teckText,
+
 }: PropsTeckStackCard) => {
   const styles = isDesktopView ? stylesDesktop : stylesMobile
 
@@ -28,6 +31,8 @@ const App: React.FunctionComponent<PropsTeckStackCard> = ({
           return <Text key={index} className={styles.stackText} text={item}></Text>
         })}
       </div>
+      
+      <Text className={styles.teckText} text={teckText}></Text>
     </div>
   )
 }

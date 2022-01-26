@@ -1,26 +1,33 @@
 @import '../../../../assets/scsses/config.scss';
 
 .container {
-  width: 360px;
+  width: 90%;
   border: 1px solid $white;
   padding: 20px;
+  margin-left: 10px;
 
   .titleText {
-    font-size: 40px;
+    font-size: 30px;
     font-weight: bold;
     color: $white;
+  }  
+  .teckText {
+    font-size: 14px;
+    font-weight: bold;
+    color: $white;
+    margin-top: 10px;
   }
 
   .stackBox {
     margin-top: 20px;
     .stackText {
       padding: 2px 5px;
-      font-size: 20px;
+      font-size: 18px;
       color: $white;
       display: inline-block;
       margin-top: 4px;
       margin-right: 4px;
-      border: 1px solid $white;
+      border: 1px solid #66B2FF;
       border-radius: 3px;
     }
   }

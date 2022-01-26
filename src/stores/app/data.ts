@@ -29,6 +29,14 @@ export const mySkillObject: {
     TeckStackEnum.KOTLIN,
   ],
 }
+export const mySkillText: {
+  [key: string]: string
+} = {
+  'SERVER': '다양한 서버 환경을 구축하고, 웹서버와 AP서버 프로비저닝 작업을 진행하였습니다.',
+  'DBMS':'관계형 데이터베이스 기반의 환경에서 JDBC를 이용한 Data Logic을 개발하였습니다.',
+  'LANG':'Java를 이용한 MVC 개발을 주로 진행하였으며, 그 외에 프로젝트에서 Python, C#, .Net 등을 사용하였습니다.',
+  'Study':'Java 고급 개발자가 되기위해 Discord, Git 등으로 그룹스터디를 모집하여 끊임없이 공부하고 학습하는 중에 있습니다.',
+}
 
 
 
