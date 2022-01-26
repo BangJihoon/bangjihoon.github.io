@@ -7,19 +7,19 @@
 ```
 git clone gitURL
 
-Priject root에서
+// Priject root에서
 
 npm install
 ```
 
 ## How to run
 ```
-# 개발서버
-# localhost:8078
+// 개발서버
+// localhost:8078
 npm run dev
 
-# deploy
-# package-lock.json , package.json 경로 수정 후
+// deploy
+// package-lock.json , package.json 경로 수정 후
 npm run deploy
 
 ```
