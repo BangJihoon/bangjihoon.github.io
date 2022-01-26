@@ -1,7 +1,7 @@
 @import '../../../../assets/scsses/config.scss';
 
 .container {
-  width: 380px;
+  width: 500px;
   border: 1px solid $white;
   padding: 20px;
   border-radius: 3px;
@@ -17,12 +17,12 @@
 
     .hashtag {
       padding: 2px 5px;
-      font-size: 12px;
+      font-size: 15px;
       color: $white;
       display: inline-block;
       margin-top: 4px;
       margin-right: 4px;
-      border: 1px solid $white;
+      border: 3px solid #66B2FF;
       border-radius: 3px;
     }
   }
@@ -30,7 +30,7 @@
     margin-top: 10px;
     .descriptionText {
       margin-bottom: 4px;
-      font-size: 10px;
+      font-size: 15px;
       color: $white;
     }
   }
