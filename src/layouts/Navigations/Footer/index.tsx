@@ -26,7 +26,7 @@ const App: React.FunctionComponent = () => {
   const linkIconArray: Array<LinkIcon> = [
     {
       icon: GithubIcon,
-      link: 'https://github.com/bangbangu4',
+      link: 'https://github.com/bangjihoon',
     },
     {
       icon: TistoryIcon,

@@ -1,5 +1,5 @@
 {
-  "name": "bangbangu4.github.io",
+  "name": "bangjihoon.github.io",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bangbangu4/bangbangu4.github.io.git"
+    "url": "git+https://github.com/bangjihoon/bangjihoon.github.io.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/bangbangu4/bangbangu4.github.io/issues"
+    "url": "https://github.com/bangjihoon/bangjihoon.github.io/issues"
   },
-  "homepage": "https://bangbangu4.github.io/",
+  "homepage": "https://bangjihoon.github.io/",
   "devDependencies": {
     "@babel/core": "^7.9.0",
     "@babel/preset-env": "^7.9.5",

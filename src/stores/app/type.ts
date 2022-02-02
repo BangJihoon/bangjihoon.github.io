@@ -9,6 +9,7 @@ export enum ScreenModeEnum {
   LIGHT,
 }
 
+
 export enum TeckStackEnum {
   HTML = 'Html',
   CSS = 'Css',
@@ -50,20 +51,21 @@ export enum TeckStackEnum {
   CC = 'C#',
   MONGODB = 'MongoDB',
   CHROMEDRIVER = 'ChromeDriver',
-  FLASK ='Flask',
+  FLASK = 'Flask',
   TELEGRAM = 'TelegramAPI',
   SLACK = 'SlackAPI',
-  ALTAS = 'Atlas',  
+  ALTAS = 'Atlas',
   ORACLE = 'Oracle',
   RHEL = 'RHEL',
   MARIADB = 'MariaDB',
   WINDOWS = 'WindowsServer',
   DOTNET = '.NET',
   APACHE = 'Apache',
-  TOMCAT = 'Tomcat',    
+  TOMCAT = 'Tomcat',
   ALGO = 'Algorithm',
   SPRING = 'Spring',
   KOTLIN = 'Kotlin',
+  BASH = "BASH"
 }
 export interface ResumeObject {
   startAt: Date
