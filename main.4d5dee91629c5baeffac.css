@@ -338,14 +338,13 @@ svg use {
   \*************************************************************************************************************************************************************************************************************************************************************************************************/
 .Desktop-module__container___2DVnD {
   width: 500px;
-  border: 1px solid #ffffff;
   padding: 20px;
   border-radius: 3px;
   box-shadow: 0 2px 6px -2px rgba(255, 255, 255, 0.4); }
   .Desktop-module__container___2DVnD .Desktop-module__titleText___1c4GA {
     font-size: 23px;
     font-weight: bold;
-    color: #48d2eb; }
+    color: #bfe9f0; }
   .Desktop-module__container___2DVnD .Desktop-module__hashtagArea___19-vP {
     margin-top: 10px; }
     .Desktop-module__container___2DVnD .Desktop-module__hashtagArea___19-vP .Desktop-module__hashtag___2NebK {
@@ -355,7 +354,7 @@ svg use {
       display: inline-block;
       margin-top: 4px;
       margin-right: 4px;
-      border: 3px solid #66B2FF;
+      border: 3px solid #158aff;
       border-radius: 3px; }
   .Desktop-module__container___2DVnD .Desktop-module__descriptionArea___2KRJz {
     margin-top: 10px; }
@@ -364,19 +363,24 @@ svg use {
       font-size: 15px;
       color: #ffffff; }
 
+.Desktop-module__a___oeHoZ {
+  border: 2px solid #ffffff; }
+
+.Desktop-module__a___oeHoZ:hover {
+  border: 2px solid #3ce1f7; }
+
 /*!************************************************************************************************************************************************************************************************************************************************************************************************!*\
   !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[4].use[1]!./node_modules/postcss-loader/src/index.js??ruleSet[1].rules[4].use[2]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[4].use[3]!./src/components/molecules/ContentElements/ResumeCard/Mobile.module.scss ***!
   \************************************************************************************************************************************************************************************************************************************************************************************************/
 .Mobile-module__container___3oV8p {
   width: 500px;
-  border: 1px solid #ffffff;
   padding: 20px;
   border-radius: 3px;
   box-shadow: 0 2px 6px -2px rgba(255, 255, 255, 0.4); }
   .Mobile-module__container___3oV8p .Mobile-module__titleText___1Rpnd {
-    font-size: 40px;
+    font-size: 30px;
     font-weight: bold;
-    color: #48d2eb; }
+    color: #bbe8f0; }
   .Mobile-module__container___3oV8p .Mobile-module__hashtagArea___1MZJF {
     margin-top: 20px; }
     .Mobile-module__container___3oV8p .Mobile-module__hashtagArea___1MZJF .Mobile-module__hashtag___16yAM {
@@ -386,7 +390,7 @@ svg use {
       display: inline-block;
       margin-top: 4px;
       margin-right: 4px;
-      border: 3px solid #66B2FF;
+      border: 3px solid #158aff;
       border-radius: 3px; }
   .Mobile-module__container___3oV8p .Mobile-module__descriptionArea___1_9Hk {
     margin-top: 12px; }
@@ -394,6 +398,12 @@ svg use {
       margin-bottom: 6px;
       font-size: 20px;
       color: #ffffff; }
+
+.Mobile-module__a___3Kma0 {
+  border: 1px solid #ffffff; }
+
+.Mobile-module__a___3Kma0:hover {
+  border: 1px solid #3ce1f7; }
 
 /*!************************************************************************************************************************************************************************************************************************************************************************!*\
   !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[4].use[1]!./node_modules/postcss-loader/src/index.js??ruleSet[1].rules[4].use[2]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[4].use[3]!./src/pages/Career/templates/Desktop.module.scss ***!
