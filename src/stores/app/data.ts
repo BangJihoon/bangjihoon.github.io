@@ -1,5 +1,8 @@
 import { ResumeObject, TeckStackEnum } from './type'
 
+const github = "https://github.com/bangjihoon/"
+const nonAction = "javascript:void(0);"
+
 export const mySkillObject: {
   [key: string]: Array<TeckStackEnum>
 } = {
@@ -42,6 +45,8 @@ export const mySkillText: {
 
 export const myResumeArray: Array<ResumeObject> = [
    {
+    link:nonAction,
+    target:"_self",
     startAt: new Date('2021-06'),
     endAt:  new Date('2022-01'),
     title: '[SPC] 마케팅 시스템 구축',
@@ -61,6 +66,8 @@ export const myResumeArray: Array<ResumeObject> = [
    },
 
     {
+    link:github+"AI_MODELSCHEDULER",
+    target:"_blank",
     startAt: new Date('2021-05'),
     endAt:  new Date('2021-06'),
     title: '[신세계백화점] AI MODEL 수행시스템 고도화',
@@ -79,7 +86,10 @@ export const myResumeArray: Array<ResumeObject> = [
     '수행후 결과 모니터링 화면 개발',
     ],
    },
+
     {
+    link:nonAction,
+    target:"_self",
     startAt: new Date('2020-12'),
     endAt:  new Date('2021-04'),
     title: 'SERVER Infra 담당',
@@ -106,7 +116,10 @@ export const myResumeArray: Array<ResumeObject> = [
 	'그 외에 진행중인 프로젝트 트러블 슈팅 및 이슈 업무지원',
 	],
    },
-      {
+
+{
+    link:github+"AI_MODELSCHEDULER",
+    target:"_blank",
     startAt: new Date('2020-06'),
     endAt:  new Date('2020-11'),
     title: 'AI Model Scheduler 개발',
@@ -127,6 +140,8 @@ export const myResumeArray: Array<ResumeObject> = [
 	],
    },
       {
+        link:nonAction,
+        target:"_self",
     startAt: new Date('2020-02'),
     endAt: null,
     title: '[SSG.COM] 타케팅 시스템 구축',
@@ -144,6 +159,8 @@ export const myResumeArray: Array<ResumeObject> = [
     description: ['웹 마케팅 솔루션 구축 서버 담당'],
    },
    {
+    link:github+"STOCK_DATA_US",
+    target:"_blank",
     startAt: new Date('2019-04'),
     endAt: new Date('2019-06'),
     title: 'NYSE, NASDAQ 주식 데이터 수집 및 분석',
@@ -166,6 +183,8 @@ export const myResumeArray: Array<ResumeObject> = [
     ],
   },
     {
+      link:github+"RSS_WEB_FEED",
+      target:"_blank",
     startAt: new Date('2019-03'),
     endAt: new Date('2019-04'),
     title: 'RSS WEB FEED 공고문 수집 웹 서비스',
@@ -192,6 +211,8 @@ export const myResumeArray: Array<ResumeObject> = [
     ],
   },
   {
+    link:github+"SCHOOL_MEAL_PAY_PLATFORM",
+    target:"_blank",
     startAt: new Date('2018-03'),
     endAt: new Date('2018-09'),
     title: '"학식이" - 식권발급 플랫폼',
@@ -208,6 +229,8 @@ export const myResumeArray: Array<ResumeObject> = [
 	],
   },
   {
+    link:nonAction,
+    target:"_self",
     startAt: new Date('2013-03'),
     endAt: new Date('2020-02'),
     title: '컴퓨터 과학과 졸업',

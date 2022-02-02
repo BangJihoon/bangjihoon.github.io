@@ -68,6 +68,8 @@ export enum TeckStackEnum {
   BASH = "BASH"
 }
 export interface ResumeObject {
+  link:string
+  target:string
   startAt: Date
   endAt: Date
   title: string
