@@ -210,7 +210,6 @@ svg use {
     color: #ffffff; }
   .Desktop-module__container___3gtm1 .Desktop-module__teckText___2op-S {
     font-size: 14px;
-    font-weight: bold;
     color: #ffffff;
     margin-top: 10px; }
   .Desktop-module__container___3gtm1 .Desktop-module__stackBox___1cKTe {
@@ -218,7 +217,7 @@ svg use {
     .Desktop-module__container___3gtm1 .Desktop-module__stackBox___1cKTe .Desktop-module__stackText___Mmn77 {
       padding: 2px 5px;
       font-size: 18px;
-      color: #ffffff;
+      color: #48d2eb;
       display: inline-block;
       margin-top: 4px;
       margin-right: 4px;
@@ -238,7 +237,6 @@ svg use {
     color: #ffffff; }
   .Mobile-module__container___cTB26 .Mobile-module__teckText___cD_EI {
     font-size: 14px;
-    font-weight: bold;
     color: #ffffff;
     margin-top: 10px; }
   .Mobile-module__container___cTB26 .Mobile-module__stackBox___3-LZ2 {
@@ -246,7 +244,7 @@ svg use {
     .Mobile-module__container___cTB26 .Mobile-module__stackBox___3-LZ2 .Mobile-module__stackText___CPiwB {
       padding: 4px 6px;
       font-size: 24px;
-      color: #ffffff;
+      color: #48d2eb;
       display: inline-block;
       margin-top: 4px;
       margin-right: 8px;
@@ -345,9 +343,9 @@ svg use {
   border-radius: 3px;
   box-shadow: 0 2px 6px -2px rgba(255, 255, 255, 0.4); }
   .Desktop-module__container___2DVnD .Desktop-module__titleText___1c4GA {
-    font-size: 26px;
+    font-size: 23px;
     font-weight: bold;
-    color: #ffffff; }
+    color: #48d2eb; }
   .Desktop-module__container___2DVnD .Desktop-module__hashtagArea___19-vP {
     margin-top: 10px; }
     .Desktop-module__container___2DVnD .Desktop-module__hashtagArea___19-vP .Desktop-module__hashtag___2NebK {
@@ -378,7 +376,7 @@ svg use {
   .Mobile-module__container___3oV8p .Mobile-module__titleText___1Rpnd {
     font-size: 40px;
     font-weight: bold;
-    color: #ffffff; }
+    color: #48d2eb; }
   .Mobile-module__container___3oV8p .Mobile-module__hashtagArea___1MZJF {
     margin-top: 20px; }
     .Mobile-module__container___3oV8p .Mobile-module__hashtagArea___1MZJF .Mobile-module__hashtag___16yAM {
