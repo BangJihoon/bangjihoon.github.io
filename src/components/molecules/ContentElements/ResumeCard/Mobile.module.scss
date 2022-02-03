@@ -37,6 +37,6 @@
 .a{
   border: 1px solid $white;
 }
-.a:hover{
-  border: 1px solid #3ce1f7;
+.a[target='_blank']:hover{
+  border: 2px solid #3ce1f7;
 }
