@@ -38,7 +38,7 @@ const App: React.FunctionComponent<CareerTemplateProps> = ({ style }: CareerTemp
           return (
             <TimelineItem key={index}>
               <TimelineOppositeContent className={styles.dateText}>
-                {`${moment(startAt).format('YYYY-MM')} ~ ${endAt ? moment(endAt).format('YYYY-MM') : ''}`}
+                {`${startAt} -   ${endAt}`}
               </TimelineOppositeContent>
               <TimelineSeparator>
                 <TimelineDot />

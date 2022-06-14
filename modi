@@ -14,7 +14,7 @@ npm install
 
 ### How to run
 
-+ 개발서버 - localhost:8078
++ 개발서버 - https://localhost:8078/
 
 ```
 npm run dev
