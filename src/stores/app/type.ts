@@ -70,8 +70,8 @@ export enum TeckStackEnum {
 export interface ResumeObject {
   link:string
   target:string
-  startAt: Date
-  endAt: Date
+  startAt: string
+  endAt: string
   title: string
   teckStack: Array<TeckStackEnum>
   description: Array<string>
