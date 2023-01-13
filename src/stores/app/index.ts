@@ -4,6 +4,7 @@ import { ScreenClass } from 'react-grid-system'
 
 import history from '../../utils/history'
 import { myResumeArray } from './data'
+import { myStudyArray } from './data'
 import { ResumeObject } from './type'
 
 const theFirstURL = window.location.pathname.substring(1)
@@ -14,6 +15,7 @@ const createStore = (): typeof appStore => {
     currentMainMenu: observable.box<string>(theFirstURL),
     screenClass: observable.box<ScreenClass>(window.screen.width > 750 ? 'xl' : 'xs'),
     resumeArray: observable.box<Array<ResumeObject>>(myResumeArray),
+    studyArray: observable.box<Array<ResumeObject>>(myStudyArray),
 
     // Getter
     get isDesktopView(): boolean {
@@ -27,6 +29,14 @@ const createStore = (): typeof appStore => {
       if (!resumeArray) return []
 
       return [...resumeArray].sort((a, b) => {
+        return moment(b.startAt).unix() - moment(a.startAt).unix()
+      })
+    },
+    get studyArrayInLatestOrder(): Array<ResumeObject> {
+      const studyArray = appStore.studyArray.get()
+      if (!studyArray) return []
+
+      return [...studyArray].sort((a, b) => {
         return moment(b.startAt).unix() - moment(a.startAt).unix()
       })
     },

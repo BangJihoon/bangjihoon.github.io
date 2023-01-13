@@ -2,6 +2,7 @@ export enum PageEnum {
   HOME = 'Home',
   ABOUT = 'About',
   CAREER = 'Career',
+  STUDY = 'Study',
 }
 
 export enum ScreenModeEnum {
@@ -11,6 +12,8 @@ export enum ScreenModeEnum {
 
 
 export enum TeckStackEnum {
+  FLUTTER = 'Flutter',
+  HIVE = 'Hive',
   HTML = 'Html',
   CSS = 'Css',
   SCSS = 'Scss',
