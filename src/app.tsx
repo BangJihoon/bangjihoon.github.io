@@ -6,6 +6,7 @@ import useRootData from './hooks/useRootData'
 import About from './pages/About'
 import Career from './pages/Career'
 import Home from './pages/Home'
+import Study from './pages/Study'
 
 const App: React.FunctionComponent = () => {
   const { changeScreenClass, changeMainMenu } = useRootData(({ appStore }) => ({
@@ -33,6 +34,8 @@ const App: React.FunctionComponent = () => {
   return (
     <div ref={componentRef}>
       <Switch>
+        <Route path="/Study" component={Study} />
+
         <Route path="/career" component={Career} />
 
         <Route path="/about" component={About} />

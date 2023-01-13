@@ -1,0 +1,23 @@
+@import '../../../assets/scsses/config.scss';
+
+.container {
+  padding: 150px 0px;
+  margin: 0px auto;
+  min-height: 100vh;
+  background-color: $primary;
+
+  .titleText {
+    font-size: 40px;
+    text-align: center;
+    font-weight: bold;
+    color: $white;
+  }
+
+  .timelineArea {
+    min-width: 750px;
+    .dateText {
+      font-size: 20px;
+      color: $white;
+    }
+  }
+}

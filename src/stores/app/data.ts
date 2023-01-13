@@ -275,3 +275,82 @@ export const myResumeArray: Array<ResumeObject> = [
     description: [],
   },
 ]
+
+export const myStudyArray: Array<ResumeObject> = [
+  /*
+  {
+    link:nonAction,
+    target:"_self",
+    startAt: "2022.05",
+    endAt:  "2022.06",
+    title: '[APP] FitQA APP개발',
+    teckStack: [
+      TeckStackEnum.JAVA,
+      TeckStackEnum.ORACLE,
+      TeckStackEnum.LINUX,
+      ],
+    description: [
+      '',
+    ],
+  },*/
+
+  {
+    link:nonAction,
+    target:"_self",
+    startAt: "2023.01",
+    endAt:  "ING",
+    title: '[언뜻] 시그널 데이팅앱',
+    teckStack: [
+      TeckStackEnum.FLUTTER,
+      TeckStackEnum.SPRING,
+      TeckStackEnum.MYSQL,
+      TeckStackEnum.JAVA,
+      TeckStackEnum.AWS,
+      ],
+    description: [
+      'GetX를 이용한 라우팅 및 사용자 정보 전역적 상태관리',
+      'http 소켓통신을 이용한 GPS기반에 사용자 표시',
+      'JWT Bearer 토큰기반의 사용자 인증 연동',
+      'Spring Web Server 사용자,인증,결제 등 REST API 연동',
+    ],
+  },
+  {
+    link:nonAction,
+    target:"_self",
+    startAt: "2022.06",
+    endAt:  "2022.12",
+    title: '[복권 마스터] 복권 당첨알림 앱',
+    teckStack: [
+      TeckStackEnum.FLUTTER,
+      TeckStackEnum.FIREBASE,
+      TeckStackEnum.HIVE,
+      ],
+    description: [
+      'FireAuth를 이용한 사용자 인증',
+      'FireCloud Messaging과 Local Notification을 이용한 당첨여부 PUSH 알림',
+      'Http 통신과 FireStore, Hive를 이용한 복권정보, 구매여부, 당첨정보 등을 저장',
+      'QR Scan을 통해 구매내역을 저장후 당첨알림, QR생성 기능으로 오프라인 구매를 지원',
+      'Python 연동을 통해 서버 내 결제기능 추가 구현 예정',
+    ],
+   },
+
+   {
+    link:nonAction,
+    target:"_blank",
+    startAt: "2021.05",
+    endAt:  "2021.06",
+    title: '[FitQA] 헬스 트레이닝 앱',
+    teckStack: [
+      TeckStackEnum.FLUTTER,
+      TeckStackEnum.FIREBASE,
+      TeckStackEnum.SPRING,
+      TeckStackEnum.JAVA,
+      TeckStackEnum.AWS,
+      ],
+    description: [
+      'Riverpod를 이용한 전역적 상태관리',
+      'Spring Web Server REST API와 연동',
+      'AWS S3 파일 및 영상 업로드 연동',
+    ],
+   },
+]
