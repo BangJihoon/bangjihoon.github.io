@@ -280,12 +280,14 @@ svg use {
           width: 70px;
           height: 70px; }
       .Desktop-module__frame___3poLG .Desktop-module__container___uB5BF .Desktop-module__leftArea___25X3n .Desktop-module__aboutTextBox___1p-y6 {
-        width: 600px;
+        width: 1000px;
         margin-left: 20px; }
         .Desktop-module__frame___3poLG .Desktop-module__container___uB5BF .Desktop-module__leftArea___25X3n .Desktop-module__aboutTextBox___1p-y6 .Desktop-module__aboutText___af7ku {
           margin-bottom: 20px;
           font-size: 17px;
           color: #ffffff; }
+        .Desktop-module__frame___3poLG .Desktop-module__container___uB5BF .Desktop-module__leftArea___25X3n .Desktop-module__aboutTextBox___1p-y6 .Desktop-module__ctext___3HKoH {
+          color: #48d2eb; }
     .Desktop-module__frame___3poLG .Desktop-module__container___uB5BF .Desktop-module__rightArea___2OvmN {
       width: 600px; }
 
@@ -442,6 +444,43 @@ svg use {
       font-size: 20px;
       color: #ffffff; }
 
+/*!***********************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[4].use[1]!./node_modules/postcss-loader/src/index.js??ruleSet[1].rules[4].use[2]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[4].use[3]!./src/pages/Study/templates/Desktop.module.scss ***!
+  \***********************************************************************************************************************************************************************************************************************************************************************/
+.Desktop-module__container___2QMWS {
+  padding: 150px 0px;
+  margin: 0px auto;
+  min-height: 100vh;
+  background-color: #02112f; }
+  .Desktop-module__container___2QMWS .Desktop-module__titleText___2m-va {
+    font-size: 40px;
+    text-align: center;
+    font-weight: bold;
+    color: #ffffff; }
+  .Desktop-module__container___2QMWS .Desktop-module__timelineArea___2L4-N {
+    min-width: 750px; }
+    .Desktop-module__container___2QMWS .Desktop-module__timelineArea___2L4-N .Desktop-module__dateText___2J2R5 {
+      font-size: 20px;
+      color: #ffffff; }
+
+/*!**********************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[4].use[1]!./node_modules/postcss-loader/src/index.js??ruleSet[1].rules[4].use[2]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[4].use[3]!./src/pages/Study/templates/Mobile.module.scss ***!
+  \**********************************************************************************************************************************************************************************************************************************************************************/
+.Mobile-module__container___2mJCD {
+  width: 750px;
+  padding: 150px 0px 800px;
+  background-color: #02112f; }
+  .Mobile-module__container___2mJCD .Mobile-module__titleText___wmoaM {
+    font-size: 40px;
+    text-align: center;
+    font-weight: bold;
+    color: #ffffff; }
+  .Mobile-module__container___2mJCD .Mobile-module__timelineArea___1eegU {
+    max-width: 750px; }
+    .Mobile-module__container___2mJCD .Mobile-module__timelineArea___1eegU .Mobile-module__dateText___2cGEA {
+      font-size: 20px;
+      color: #ffffff; }
+
 /*!************************************************************************************************************************************************************************************************************************************************************************************************!*\
   !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[4].use[1]!./node_modules/postcss-loader/src/index.js??ruleSet[1].rules[4].use[2]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[4].use[3]!./src/components/molecules/ContentElements/RotateImage/index.module.scss ***!
   \************************************************************************************************************************************************************************************************************************************************************************************************/
@@ -571,41 +610,4 @@ svg use {
         font-weight: bold;
         line-height: 50px;
         font-weight: bold; }
-
-/*!***********************************************************************************************************************************************************************************************************************************************************************!*\
-  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[4].use[1]!./node_modules/postcss-loader/src/index.js??ruleSet[1].rules[4].use[2]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[4].use[3]!./src/pages/Study/templates/Desktop.module.scss ***!
-  \***********************************************************************************************************************************************************************************************************************************************************************/
-.Desktop-module__container___2QMWS {
-  padding: 150px 0px;
-  margin: 0px auto;
-  min-height: 100vh;
-  background-color: #02112f; }
-  .Desktop-module__container___2QMWS .Desktop-module__titleText___2m-va {
-    font-size: 40px;
-    text-align: center;
-    font-weight: bold;
-    color: #ffffff; }
-  .Desktop-module__container___2QMWS .Desktop-module__timelineArea___2L4-N {
-    min-width: 750px; }
-    .Desktop-module__container___2QMWS .Desktop-module__timelineArea___2L4-N .Desktop-module__dateText___2J2R5 {
-      font-size: 20px;
-      color: #ffffff; }
-
-/*!**********************************************************************************************************************************************************************************************************************************************************************!*\
-  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[4].use[1]!./node_modules/postcss-loader/src/index.js??ruleSet[1].rules[4].use[2]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[4].use[3]!./src/pages/Study/templates/Mobile.module.scss ***!
-  \**********************************************************************************************************************************************************************************************************************************************************************/
-.Mobile-module__container___2mJCD {
-  width: 750px;
-  padding: 150px 0px 800px;
-  background-color: #02112f; }
-  .Mobile-module__container___2mJCD .Mobile-module__titleText___wmoaM {
-    font-size: 40px;
-    text-align: center;
-    font-weight: bold;
-    color: #ffffff; }
-  .Mobile-module__container___2mJCD .Mobile-module__timelineArea___1eegU {
-    max-width: 750px; }
-    .Mobile-module__container___2mJCD .Mobile-module__timelineArea___1eegU .Mobile-module__dateText___2cGEA {
-      font-size: 20px;
-      color: #ffffff; }
 
