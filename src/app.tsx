@@ -34,9 +34,8 @@ const App: React.FunctionComponent = () => {
   return (
     <div ref={componentRef}>
       <Switch>
-        <Route path="/Study" component={Study} />
-
         <Route path="/career" component={Career} />
+        <Route path="/Study" component={Study} />
 
         <Route path="/about" component={About} />
 

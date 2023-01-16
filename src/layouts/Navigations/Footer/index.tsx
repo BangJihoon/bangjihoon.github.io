@@ -5,6 +5,7 @@ import InstargramIcon from '../../../assets/images/icons/instargram.png'
 import LinkedInIcon from '../../../assets/images/icons/linkedIn.png'
 import TistoryIcon from '../../../assets/images/icons/TistoryIcon.png'
 import YoutubeIcon from '../../../assets/images/icons/youtube.png'
+import Notion from '../../../assets/images/icons/notion.png'
 import Image from '../../../components/atom/Image'
 import Text from '../../../components/atom/Text'
 import useRootData from '../../../hooks/useRootData'
@@ -35,6 +36,10 @@ const App: React.FunctionComponent = () => {
     {
       icon: InstargramIcon,
       link: 'https://www.instagram.com/bangu4/',
+    },
+    {
+      icon: Notion,
+      link: 'https://supreme-lupin-c1a.notion.site/2022-51a620bc703d499faffabc6d71647390',
     },
   ]
 

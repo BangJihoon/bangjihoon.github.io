@@ -39,13 +39,12 @@ const App: React.FunctionComponent<HomeTemplateProps> = ({ style }: HomeTemplate
         {isDesktopView ? (
           <Typed
             className={styles.myselfText}
-            strings={['자바가 좋아요<br/>백엔드가 좋아요']}
+            strings={['Java도 좋지만<br/>이제 Flutter가 더 좋아요']}
             typeSpeed={40}
           />
         ) : (
           <>
-            <Text className={styles.myselfText} text={'자바가 좋아요'} />
-            <Text className={styles.myselfText} text={'백엔드가 좋아요'} />
+            <Text className={styles.myselfText} text={'대세는 플러터지'} />
           </>
         )}
         

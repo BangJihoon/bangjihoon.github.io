@@ -29,12 +29,15 @@
         }
       }
       .aboutTextBox {
-        width: 600px;
+        width: 1000px;
         margin-left: 20px;
         .aboutText {
           margin-bottom: 20px;
           font-size: 17px;
           color: $white;
+        }
+        .ctext{
+          color : #48d2eb
         }
       }
     }

@@ -14,14 +14,14 @@ import useRootData from '../../../hooks/useRootData'
 import stylesDesktop from './Desktop.module.scss'
 import stylesMobile from './Mobile.module.scss'
 
-interface CareerTemplateProps {
+interface StudyTemplateProps {
   style?: React.CSSProperties
 }
 
-const App: React.FunctionComponent<CareerTemplateProps> = ({ style }: CareerTemplateProps) => {
-  const { isDesktopView, resumeArrayInLatestOrder } = useRootData(({ appStore }) => ({
+const App: React.FunctionComponent<StudyTemplateProps> = ({ style }: StudyTemplateProps) => {
+  const { isDesktopView, studyArrayInLatestOrder } = useRootData(({ appStore }) => ({
     isDesktopView: appStore.isDesktopView,
-    resumeArrayInLatestOrder: appStore.studyArrayInLatestOrder,
+    studyArrayInLatestOrder: appStore.studyArrayInLatestOrder,
   }))
 
   const styles = isDesktopView ? stylesDesktop : stylesMobile
@@ -29,10 +29,10 @@ const App: React.FunctionComponent<CareerTemplateProps> = ({ style }: CareerTemp
 
   return (
     <div ref={containerRef} style={style} className={styles.container}>
-      <Text className={styles.titleText} text="Career Timeline" />
+      <Text className={styles.titleText} text="Side Study" />
 
       <Timeline className={styles.timelineArea} position={isDesktopView ? 'alternate' : null}>
-        {resumeArrayInLatestOrder.map((item, index) => {
+        {studyArrayInLatestOrder.map((item, index) => {
           const { startAt, endAt } = item
 
           return (

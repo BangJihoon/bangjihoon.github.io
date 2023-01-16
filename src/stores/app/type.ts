@@ -13,6 +13,7 @@ export enum ScreenModeEnum {
 
 export enum TeckStackEnum {
   FLUTTER = 'Flutter',
+  DART = 'Dart',
   HIVE = 'Hive',
   HTML = 'Html',
   CSS = 'Css',

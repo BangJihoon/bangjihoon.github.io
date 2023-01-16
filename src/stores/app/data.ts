@@ -20,16 +20,17 @@ export const mySkillObject: {
     TeckStackEnum.MONGODB, 
   ],
   'LANG': [
+    TeckStackEnum.DART, 
     TeckStackEnum.JAVA, 
     TeckStackEnum.DOTNET, 
     TeckStackEnum.PYTHON, 
     TeckStackEnum.JAVASCRIPT, 
   ],
   'Study': [
+    TeckStackEnum.FLUTTER, 
     TeckStackEnum.JAVA, 
     TeckStackEnum.ALGO, 
     TeckStackEnum.SPRING, 
-    TeckStackEnum.KOTLIN,
   ],
 }
 
@@ -40,7 +41,7 @@ export const mySkillText: {
   'SERVER': '다양한 서버 환경을 구축하고, 웹서버와 AP서버 프로비저닝 작업을 진행하였습니다.',
   'DBMS':'관계형 데이터베이스 기반의 환경에서 JDBC를 이용한 Data Logic을 개발하였습니다.',
   'LANG':'Java를 이용한 MVC 개발을 주로 진행하였으며, 그 외에 프로젝트에서 Python, C#, .Net 등을 사용하였습니다.',
-  'Study':'Java Spring Boot에 관심을 가지고 공부하고 있으며, Flutter를 통한 Application에 관심을 가지고 학습중입니다. ',
+  'Study':'Java Spring Boot과 Flutter를 이용한 하이브리드 앱개발을 좋아합니다. \n함께 발전하는 좋은 동료가 있는곳을 희망하고있습니다. ',
 }
 
 
@@ -295,8 +296,8 @@ export const myStudyArray: Array<ResumeObject> = [
   },*/
 
   {
-    link:nonAction,
-    target:"_self",
+    link:"https://supreme-lupin-c1a.notion.site/2022-51a620bc703d499faffabc6d71647390",
+    target:"_blank",
     startAt: "2023.01",
     endAt:  "ING",
     title: '[언뜻] 시그널 데이팅앱',
@@ -315,8 +316,8 @@ export const myStudyArray: Array<ResumeObject> = [
     ],
   },
   {
-    link:nonAction,
-    target:"_self",
+    link:"https://supreme-lupin-c1a.notion.site/2022-51a620bc703d499faffabc6d71647390",
+    target:"_blank",
     startAt: "2022.06",
     endAt:  "2022.12",
     title: '[복권 마스터] 복권 당첨알림 앱',
@@ -327,19 +328,20 @@ export const myStudyArray: Array<ResumeObject> = [
       ],
     description: [
       'FireAuth를 이용한 사용자 인증',
-      'FireCloud Messaging과 Local Notification을 이용한 당첨여부 PUSH 알림',
-      'Http 통신과 FireStore, Hive를 이용한 복권정보, 구매여부, 당첨정보 등을 저장',
-      'QR Scan을 통해 구매내역을 저장후 당첨알림, QR생성 기능으로 오프라인 구매를 지원',
-      'Python 연동을 통해 서버 내 결제기능 추가 구현 예정',
+      'FireCloud Messaging과 Local Notification 당첨여부 PUSH 알림',
+      'Http 통신과 FireStore, Hive를 이용한 복권정보, 구매여부, 당첨정보 저장',
+      'QR Scan으로 구매내역저장 당첨알림',
+      'QR 생성기능으로 오프라인 구매 코드 지원',
+      'Python 연동을 통해 서버 내 결제기능 추가 예정',
     ],
    },
 
    {
-    link:nonAction,
+    link:"https://supreme-lupin-c1a.notion.site/2022-51a620bc703d499faffabc6d71647390",
     target:"_blank",
-    startAt: "2021.05",
-    endAt:  "2021.06",
-    title: '[FitQA] 헬스 트레이닝 앱',
+    startAt: "2022.06",
+    endAt:  "2021.08",
+    title: '[FitQA] 헬스 트레이닝 앱 MVP 개발',
     teckStack: [
       TeckStackEnum.FLUTTER,
       TeckStackEnum.FIREBASE,

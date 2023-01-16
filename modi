@@ -2,6 +2,7 @@
 ### Node JS 설치
 + v14.16 버전 권장 - [64bit windows msi 다운링크](https://nodejs.org/download/release/v14.16.0/node-v14.16.0-x64.msi)
 + 최신버전으로는 불가하여 14버전으로 다운그레이드해서 실행해야 함 
++ npm install typescript 로 빌드를 위한 라이브러리 설치
 
 ### How to install
 
@@ -10,6 +11,8 @@ git clone gitURL
 ```
 ```
 npm install
+
+에러시 --force 옵션주기
 ```
 
 ### How to run
@@ -25,5 +28,6 @@ npm run dev
 + package-lock.json , package.json 경로 수정 후
 
 ```
+npm run build
 npm run deploy
 ```
