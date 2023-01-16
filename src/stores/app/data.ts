@@ -296,7 +296,7 @@ export const myStudyArray: Array<ResumeObject> = [
   },*/
 
   {
-    link:"https://www.notion.so/54d05f83106148049c64ca6a41232ef3",
+    link:"https://supreme-lupin-c1a.notion.site/54d05f83106148049c64ca6a41232ef3",
     target:"_blank",
     startAt: "2023.01",
     endAt:  "2023.03",
@@ -316,7 +316,7 @@ export const myStudyArray: Array<ResumeObject> = [
     ],
   },
   {
-    link:"https://www.notion.so/43ffdb3cfc894d18b60de4e1f061c58b",
+    link:"https://supreme-lupin-c1a.notion.site/43ffdb3cfc894d18b60de4e1f061c58b",
     target:"_blank",
     startAt: "2022.06",
     endAt:  "2022.12",
@@ -337,7 +337,7 @@ export const myStudyArray: Array<ResumeObject> = [
    },
 
    {
-    link:"https://www.notion.so/FitQA-2198f86a87404ac5b87abb47c5ac15d9",
+    link:"https://supreme-lupin-c1a.notion.site/FitQA-2198f86a87404ac5b87abb47c5ac15d9",
     target:"_blank",
     startAt: "2022.06",
     endAt:  "2021.08",
