@@ -3,7 +3,7 @@ import { animations } from 'react-animation'
 import Typed from 'react-typed'
 
 import Text from '../../../components/atom/Text'
-import TeckStackCard from '../../../components/molecules/ContentElements/TeckStackCard'
+import TechStackCard from '../../../components/molecules/ContentElements/TechStackCard'
 import useRootData from '../../../hooks/useRootData'
 import { mySkillObject } from '../../../stores/app/data'
 import { mySkillText } from '../../../stores/app/data'
@@ -73,13 +73,13 @@ const App: React.FunctionComponent = () => {
           >
             {Object.keys(mySkillObject).map((key, index) => {
               return (
-                <TeckStackCard
+                <TechStackCard
                   key={index}
                   isDesktopView={isDesktopView}
                   title={key}
-                  teckStackArray={mySkillObject[key]}
-                  teckText={mySkillText[key]}
-                ></TeckStackCard>
+                  techStackArray={mySkillObject[key]}
+                  techText={mySkillText[key]}
+                ></TechStackCard>
               )
             })}
 
