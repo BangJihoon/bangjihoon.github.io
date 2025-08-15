@@ -13,11 +13,17 @@ interface PropsResumeCard {
 const App: React.FunctionComponent<PropsResumeCard> = ({ style, isDesktopView, resumeObject }: PropsResumeCard) => {
   const styles = isDesktopView ? stylesDesktop : stylesMobile
 
-  const { link,target,title, teckStack, description } = resumeObject
+  const { link, target, title, teckStack, description } = resumeObject
 
   return (
-    <a style={style} className={styles.a} href={link} target={target} >
-    <div style={style} className={styles.container} >
+    <a
+      style={style}
+      className={styles.a}
+      href={link}
+      target={target}
+      rel={target === '_blank' ? 'noopener noreferrer' : undefined}
+    >
+      <div style={style} className={styles.container}>
         <Text className={styles.titleText} text={title}></Text>
         {teckStack.length > 0 && (
           <div className={styles.hashtagArea}>
@@ -33,8 +39,8 @@ const App: React.FunctionComponent<PropsResumeCard> = ({ style, isDesktopView, r
             })}
           </div>
         )}
-    </div>
-      </a>
+      </div>
+    </a>
   )
 }
 
