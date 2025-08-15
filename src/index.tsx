@@ -26,5 +26,3 @@ ReactDOM.render(
   </Router>,
   document.getElementById('app'),
 )
-
-module.hot.accept()
