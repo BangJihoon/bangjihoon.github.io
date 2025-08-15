@@ -1,9 +1,8 @@
-@import '../../../assets/scsses/config.scss';
+@import '../../assets/scsses/config.scss';
 
 .container {
-  padding: 150px 0px;
-  margin: 0px auto;
-  min-height: 100vh;
+  width: 750px;
+  padding: 150px 0px 800px;
   background-color: $primary;
 
   .titleText {
@@ -14,7 +13,7 @@
   }
 
   .timelineArea {
-    min-width: 750px;
+    max-width: 750px;
     .dateText {
       font-size: 20px;
       color: $white;
