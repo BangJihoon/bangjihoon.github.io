@@ -86,7 +86,7 @@
     "mobx-react-lite": "^3.4.0",
     "moment": "^2.29.4",
     "react": "^18.0.0",
-    "react-animation": "^1.2.2",
+    "framer-motion": "^10.16.4",
     "react-dom": "^18.0.0",
     "react-grid-system": "^8.2.1",
     "react-router-dom": "^5.1.2",
