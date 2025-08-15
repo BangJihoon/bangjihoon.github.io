@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import { animations } from 'react-animation'
+import { motion } from 'framer-motion'
 import Typed from 'react-typed'
 
 import Text from '../../../components/atom/Text'
@@ -49,26 +49,24 @@ const App: React.FunctionComponent = () => {
           </div>
 
           {isTypedComplate && (
-            <div
-              style={{
-                animation: animations.fadeIn,
-                animationDuration: '4s',
-              }}
+            <motion.div
+              initial={{ opacity: 0 }}
+              animate={{ opacity: 1 }}
+              transition={{ duration: 4 }}
               className={styles.aboutTextBox}
             >
               {aboutJayceTexts.map((item, index) => {
                 return <Text key={index} className={styles.aboutText} text={item}></Text>
               })}
-            </div>
+            </motion.div>
           )}
         </div>
 
         {isTypedComplate && (
-          <div
-            style={{
-              animation: animations.fadeIn,
-              animationDuration: '2s',
-            }}
+          <motion.div
+            initial={{ opacity: 0 }}
+            animate={{ opacity: 1 }}
+            transition={{ duration: 2 }}
             className={styles.rightArea}
           >
             {Object.keys(mySkillObject).map((key, index) => {
@@ -83,7 +81,7 @@ const App: React.FunctionComponent = () => {
               )
             })}
 
-          </div>
+          </motion.div>
         )}
       </div>
     </div>
