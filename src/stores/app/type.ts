@@ -11,7 +11,7 @@ export enum ScreenModeEnum {
 }
 
 
-export enum TeckStackEnum {
+export enum TechStackEnum {
   FLUTTER = 'Flutter',
   DART = 'Dart',
   HIVE = 'Hive',
@@ -77,6 +77,6 @@ export interface ResumeObject {
   startAt: string
   endAt: string
   title: string
-  teckStack: Array<TeckStackEnum>
+  techStack: Array<TechStackEnum>
   description: Array<string>
 }

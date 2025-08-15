@@ -12,9 +12,7 @@ interface PropsResumeCard {
 }
 const App: React.FunctionComponent<PropsResumeCard> = ({ style, isDesktopView, resumeObject }: PropsResumeCard) => {
   const styles = isDesktopView ? stylesDesktop : stylesMobile
-
   const { link, target, title, teckStack, description } = resumeObject
-
   return (
     <a
       style={style}
@@ -25,9 +23,9 @@ const App: React.FunctionComponent<PropsResumeCard> = ({ style, isDesktopView, r
     >
       <div style={style} className={styles.container}>
         <Text className={styles.titleText} text={title}></Text>
-        {teckStack.length > 0 && (
+        {techStack.length > 0 && (
           <div className={styles.hashtagArea}>
-            {teckStack.map((item, index) => {
+            {techStack.map((item, index) => {
               return <Text key={index} className={styles.hashtag} text={item}></Text>
             })}
           </div>
