@@ -15,7 +15,7 @@
     "url": "git+https://github.com/bangjihoon/bangjihoon.github.io.git"
   },
   "engines": {
-    "node": "^24.6.0"
+    "node": "18.x"
   },
   "author": "",
   "license": "ISC",
@@ -29,7 +29,7 @@
     "@babel/preset-react": "^7.9.4",
     "@types/react": "^18.0.0",
     "@types/react-dom": "^18.0.0",
-    "@types/react-router-dom": "^6.0.0",
+    "@types/react-router-dom": "^5.3.3",
     "@typescript-eslint/eslint-plugin": "^8.0.0",
     "@typescript-eslint/parser": "^8.0.0",
     "babel-loader": "^9.1.2",
@@ -71,7 +71,6 @@
     "@mui/material": "^5.0.4",
     "autoprefixer": "^10.4.0",
     "history": "^5.3.0",
-    "lodash": "^4.17.15",
     "mobx": "^6.1.0",
     "mobx-react-lite": "^3.4.0",
     "moment": "^2.29.4",
@@ -80,7 +79,6 @@
     "react-dom": "^18.0.0",
     "react-grid-system": "^8.2.1",
     "react-router-dom": "^6.0.0",
-    "react-typed": "^2.0.0",
-    "styled-components": "^6.1.9"
+    "react-typed": "^2.0.0"
   }
 }
