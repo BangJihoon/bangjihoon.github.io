@@ -1,5 +1,5 @@
 import { observable } from 'mobx'
-import moment from 'moment'
+import dayjs from 'dayjs'
 import { ScreenClass } from 'react-grid-system'
 
 import history from '../../utils/history'
@@ -29,7 +29,7 @@ const createStore = (): typeof appStore => {
       if (!resumeArray) return []
 
       return [...resumeArray].sort((a, b) => {
-        return moment(b.startAt).unix() - moment(a.startAt).unix()
+        return dayjs(b.startAt).unix() - dayjs(a.startAt).unix()
       })
     },
     get studyArrayInLatestOrder(): Array<ResumeObject> {
@@ -37,7 +37,7 @@ const createStore = (): typeof appStore => {
       if (!studyArray) return []
 
       return [...studyArray].sort((a, b) => {
-        return moment(b.startAt).unix() - moment(a.startAt).unix()
+        return dayjs(b.startAt).unix() - dayjs(a.startAt).unix()
       })
     },
 
