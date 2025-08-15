@@ -4,10 +4,8 @@
     "airbnb-base",
     "eslint:recommended",
     "plugin:react/recommended",
-    "plugin:@typescript-eslint/eslint-recommended",
     "plugin:@typescript-eslint/recommended",
-    "prettier",
-    "prettier/@typescript-eslint"
+    "prettier"
   ],
   "plugins": ["simple-import-sort", "react-hooks", "prettier", "@typescript-eslint"],
   "rules": {
@@ -16,7 +14,8 @@
     "padding-line-between-statements": ["error", { "blankLine": "always", "prev": "*", "next": "return" }],
     "max-depth": ["error", { "max": 3 }],
     "no-unneeded-ternary": ["error", { "defaultAssignment": false }],
-    "simple-import-sort/sort": "error",
+    "simple-import-sort/imports": "error",
+    "simple-import-sort/exports": "error",
     "sort-imports": "off",
     "import/order": "off",
     "import/no-extraneous-dependencies": ["error", { "devDependencies": true }],
