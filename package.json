@@ -15,7 +15,7 @@
     "url": "git+https://github.com/bangjihoon/bangjihoon.github.io.git"
   },
   "engines": {
-    "node": "^24.6.0"
+    "node": "18.x"
   },
   "author": "",
   "license": "ISC",
